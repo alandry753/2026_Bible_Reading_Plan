@@ -1,0 +1,6050 @@
+[
+  {
+    "idx": 1,
+    "dateLabel": "THU Jan 1",
+    "isoDate": "2026-01-01",
+    "dayOfWeek": "THU",
+    "month": "Jan",
+    "day": 1,
+    "torahRef": "Gen 1:1-2:3",
+    "torahName": "Gen Bereshit (1)",
+    "tanakhRef": "Jos 1–2",
+    "ntRef": "Mar 1:1-15",
+    "psalmsRef": [
+      "Psa 1"
+    ],
+    "proverbsRef": "Pro 1:1-6"
+  },
+  {
+    "idx": 2,
+    "dateLabel": "FRI Jan 2",
+    "isoDate": "2026-01-02",
+    "dayOfWeek": "FRI",
+    "month": "Jan",
+    "day": 2,
+    "torahRef": "Gen 2:4-2:19",
+    "torahName": "Gen Bereshit (2)",
+    "tanakhRef": "Jos 3–4",
+    "ntRef": "Mar 1:16-45",
+    "psalmsRef": [
+      "Psa 2"
+    ],
+    "proverbsRef": "Pro 1:7-12"
+  },
+  {
+    "idx": 3,
+    "dateLabel": "SAT Jan 3",
+    "isoDate": "2026-01-03",
+    "dayOfWeek": "SAT",
+    "month": "Jan",
+    "day": 3,
+    "torahRef": "Gen 2:20-3:21",
+    "torahName": "Gen Bereshit (3)",
+    "tanakhRef": "Jos 5–6",
+    "ntRef": "Mar 2:1-17",
+    "psalmsRef": [
+      "Psa 3"
+    ],
+    "proverbsRef": "Pro 1:13-18"
+  },
+  {
+    "idx": 4,
+    "dateLabel": "SUN Jan 4",
+    "isoDate": "2026-01-04",
+    "dayOfWeek": "SUN",
+    "month": "Jan",
+    "day": 4,
+    "torahRef": "Gen 3:22-4:18",
+    "torahName": "Gen Bereshit (4)",
+    "tanakhRef": "Jos 7–8",
+    "ntRef": "Mar 2:18-3:6",
+    "psalmsRef": [
+      "Psa 4"
+    ],
+    "proverbsRef": "Pro 1:19-24"
+  },
+  {
+    "idx": 5,
+    "dateLabel": "MON Jan 5",
+    "isoDate": "2026-01-05",
+    "dayOfWeek": "MON",
+    "month": "Jan",
+    "day": 5,
+    "torahRef": "Gen 4:19-4:22",
+    "torahName": "Gen Bereshit (5)",
+    "tanakhRef": "Jos 9–10",
+    "ntRef": "Mar 3:7-35",
+    "psalmsRef": [
+      "Psa 5"
+    ],
+    "proverbsRef": "Pro 1:25-29"
+  },
+  {
+    "idx": 6,
+    "dateLabel": "TUE Jan 6",
+    "isoDate": "2026-01-06",
+    "dayOfWeek": "TUE",
+    "month": "Jan",
+    "day": 6,
+    "torahRef": "Gen 4:23-5:24",
+    "torahName": "Gen Bereshit (6)",
+    "tanakhRef": "Jos 11–12",
+    "ntRef": "Mar 4:1-20",
+    "psalmsRef": [
+      "Psa 6"
+    ],
+    "proverbsRef": "Pro 1:30-33"
+  },
+  {
+    "idx": 7,
+    "dateLabel": "WED Jan 7",
+    "isoDate": "2026-01-07",
+    "dayOfWeek": "WED",
+    "month": "Jan",
+    "day": 7,
+    "torahRef": "Gen 5:25-6:8",
+    "torahName": "Gen Bereshit (7)",
+    "tanakhRef": "Jos 13–14",
+    "ntRef": "Mar 4:21-41",
+    "psalmsRef": [
+      "Psa 7"
+    ],
+    "proverbsRef": "Pro 2:1-5"
+  },
+  {
+    "idx": 8,
+    "dateLabel": "THU Jan 8",
+    "isoDate": "2026-01-08",
+    "dayOfWeek": "THU",
+    "month": "Jan",
+    "day": 8,
+    "torahRef": "Gen 6:9-22",
+    "torahName": "Gen Noach (1)",
+    "tanakhRef": "Jos 15–17",
+    "ntRef": "Mar 5:1-20",
+    "psalmsRef": [
+      "Psa 8"
+    ],
+    "proverbsRef": "Pro 2:6-15"
+  },
+  {
+    "idx": 9,
+    "dateLabel": "FRI Jan 9",
+    "isoDate": "2026-01-09",
+    "dayOfWeek": "FRI",
+    "month": "Jan",
+    "day": 9,
+    "torahRef": "Gen 7:1-16",
+    "torahName": "Gen Noach (2)",
+    "tanakhRef": "Jos 18–19",
+    "ntRef": "Mar 5:21-6:6",
+    "psalmsRef": [
+      "Psa 9"
+    ],
+    "proverbsRef": "Pro 2:16-19"
+  },
+  {
+    "idx": 10,
+    "dateLabel": "SAT Jan 10",
+    "isoDate": "2026-01-10",
+    "dayOfWeek": "SAT",
+    "month": "Jan",
+    "day": 10,
+    "torahRef": "Gen 7:17-8:14",
+    "torahName": "Gen Noach (3)",
+    "tanakhRef": "Jos 20–21",
+    "ntRef": "Mar 6:7-29",
+    "psalmsRef": [
+      "Psa 10"
+    ],
+    "proverbsRef": "Pro 2:20-22"
+  },
+  {
+    "idx": 11,
+    "dateLabel": "SUN Jan 11",
+    "isoDate": "2026-01-11",
+    "dayOfWeek": "SUN",
+    "month": "Jan",
+    "day": 11,
+    "torahRef": "Gen 8:15-9:7",
+    "torahName": "Gen Noach (4)",
+    "tanakhRef": "Jos 22–24",
+    "ntRef": "Mar 6:30-56",
+    "psalmsRef": [
+      "Psa 11"
+    ],
+    "proverbsRef": "Pro 3:1-2"
+  },
+  {
+    "idx": 12,
+    "dateLabel": "MON Jan 12",
+    "isoDate": "2026-01-12",
+    "dayOfWeek": "MON",
+    "month": "Jan",
+    "day": 12,
+    "torahRef": "Gen 9:8-17",
+    "torahName": "Gen Noach (5)",
+    "tanakhRef": "Jdg 1–2",
+    "ntRef": "Mar 7:1-23",
+    "psalmsRef": [
+      "Psa 12"
+    ],
+    "proverbsRef": "Pro 3:3-6"
+  },
+  {
+    "idx": 13,
+    "dateLabel": "TUE Jan 13",
+    "isoDate": "2026-01-13",
+    "dayOfWeek": "TUE",
+    "month": "Jan",
+    "day": 13,
+    "torahRef": "Gen 9:18-10:32",
+    "torahName": "Gen Noach (6)",
+    "tanakhRef": "Jdg 3–5",
+    "ntRef": "Mar 7:24-8:10",
+    "psalmsRef": [
+      "Psa 13"
+    ],
+    "proverbsRef": "Pro 3:7-10"
+  },
+  {
+    "idx": 14,
+    "dateLabel": "WED Jan 14",
+    "isoDate": "2026-01-14",
+    "dayOfWeek": "WED",
+    "month": "Jan",
+    "day": 14,
+    "torahRef": "Gen 11:1-32",
+    "torahName": "Gen Noach (7)",
+    "tanakhRef": "Jdg 6–7",
+    "ntRef": "Mar 8:11-9:1",
+    "psalmsRef": [
+      "Psa 14"
+    ],
+    "proverbsRef": "Pro 3:11-12"
+  },
+  {
+    "idx": 15,
+    "dateLabel": "THU Jan 15",
+    "isoDate": "2026-01-15",
+    "dayOfWeek": "THU",
+    "month": "Jan",
+    "day": 15,
+    "torahRef": "Gen 12:1-13",
+    "torahName": "Gen Lech (1)",
+    "tanakhRef": "Jdg 8",
+    "ntRef": "Mar 9:2-29",
+    "psalmsRef": [
+      "Psa 15"
+    ],
+    "proverbsRef": "Pro 3:13-20"
+  },
+  {
+    "idx": 16,
+    "dateLabel": "FRI Jan 16",
+    "isoDate": "2026-01-16",
+    "dayOfWeek": "FRI",
+    "month": "Jan",
+    "day": 16,
+    "torahRef": "Gen 12:14-13:4",
+    "torahName": "Gen Lech (2)",
+    "tanakhRef": "Jdg 9",
+    "ntRef": "Mar 9:30-10:31",
+    "psalmsRef": [
+      "Psa 16"
+    ],
+    "proverbsRef": "Pro 3:21-26"
+  },
+  {
+    "idx": 17,
+    "dateLabel": "SAT Jan 17",
+    "isoDate": "2026-01-17",
+    "dayOfWeek": "SAT",
+    "month": "Jan",
+    "day": 17,
+    "torahRef": "Gen 13:5-18",
+    "torahName": "Gen Lech (3)",
+    "tanakhRef": "Jdg 10–12",
+    "ntRef": "Mar 10:32-11:19",
+    "psalmsRef": [
+      "Psa 17"
+    ],
+    "proverbsRef": "Pro 3:27-32"
+  },
+  {
+    "idx": 18,
+    "dateLabel": "SUN Jan 18",
+    "isoDate": "2026-01-18",
+    "dayOfWeek": "SUN",
+    "month": "Jan",
+    "day": 18,
+    "torahRef": "Gen 14:1-20",
+    "torahName": "Gen Lech (4)",
+    "tanakhRef": "Jdg 13–16",
+    "ntRef": "Mar 11:20-13:37",
+    "psalmsRef": [
+      "Psa 18"
+    ],
+    "proverbsRef": "Pro 3:33-35"
+  },
+  {
+    "idx": 19,
+    "dateLabel": "MON Jan 19",
+    "isoDate": "2026-01-19",
+    "dayOfWeek": "MON",
+    "month": "Jan",
+    "day": 19,
+    "torahRef": "Gen 14:21-15:6",
+    "torahName": "Gen Lech (5)",
+    "tanakhRef": "Jdg 17–18",
+    "ntRef": "Mar 14:1-72",
+    "psalmsRef": [
+      "Psa 19"
+    ],
+    "proverbsRef": "Pro 4:1-6"
+  },
+  {
+    "idx": 20,
+    "dateLabel": "TUE Jan 20",
+    "isoDate": "2026-01-20",
+    "dayOfWeek": "TUE",
+    "month": "Jan",
+    "day": 20,
+    "torahRef": "Gen 15:7-17",
+    "torahName": "Gen Lech (6)",
+    "tanakhRef": "Jdg 19–21",
+    "ntRef": "Mar 15:1-16:8",
+    "psalmsRef": [
+      "Psa 20"
+    ],
+    "proverbsRef": "Pro 4:7-12"
+  },
+  {
+    "idx": 21,
+    "dateLabel": "WED Jan 21",
+    "isoDate": "2026-01-21",
+    "dayOfWeek": "WED",
+    "month": "Jan",
+    "day": 21,
+    "torahRef": "Gen 17:1-27",
+    "torahName": "Gen Lech (7)",
+    "tanakhRef": "1 Sam 1–2",
+    "ntRef": "Jam 1",
+    "psalmsRef": [
+      "Psa 21"
+    ],
+    "proverbsRef": "Pro 4:13-18"
+  },
+  {
+    "idx": 22,
+    "dateLabel": "THU Jan 22",
+    "isoDate": "2026-01-22",
+    "dayOfWeek": "THU",
+    "month": "Jan",
+    "day": 22,
+    "torahRef": "Gen 18:1-14",
+    "torahName": "Gen Vayera (1)",
+    "tanakhRef": "1 Sam 3",
+    "ntRef": "Jam 2",
+    "psalmsRef": [
+      "Psa 22"
+    ],
+    "proverbsRef": "Pro 4:19-23"
+  },
+  {
+    "idx": 23,
+    "dateLabel": "FRI Jan 23",
+    "isoDate": "2026-01-23",
+    "dayOfWeek": "FRI",
+    "month": "Jan",
+    "day": 23,
+    "torahRef": "Gen 18:15-33",
+    "torahName": "Gen Vayera (2)",
+    "tanakhRef": "1 Sam 4–7",
+    "ntRef": "Jam 3",
+    "psalmsRef": [
+      "Psa 23"
+    ],
+    "proverbsRef": "Pro 4:24-27"
+  },
+  {
+    "idx": 24,
+    "dateLabel": "SAT Jan 24",
+    "isoDate": "2026-01-24",
+    "dayOfWeek": "SAT",
+    "month": "Jan",
+    "day": 24,
+    "torahRef": "Gen 19:1-20",
+    "torahName": "Gen Vayera (3)",
+    "tanakhRef": "1 Sam 8–10",
+    "ntRef": "Jam 4",
+    "psalmsRef": [
+      "Psa 24"
+    ],
+    "proverbsRef": "Pro 5:1-6"
+  },
+  {
+    "idx": 25,
+    "dateLabel": "SUN Jan 25",
+    "isoDate": "2026-01-25",
+    "dayOfWeek": "SUN",
+    "month": "Jan",
+    "day": 25,
+    "torahRef": "Gen 19:21-38",
+    "torahName": "Gen Vayera (4)",
+    "tanakhRef": "1 Sam 11–12",
+    "ntRef": "Jam 5",
+    "psalmsRef": [
+      "Psa 25"
+    ],
+    "proverbsRef": "Pro 5:7-12"
+  },
+  {
+    "idx": 26,
+    "dateLabel": "MON Jan 26",
+    "isoDate": "2026-01-26",
+    "dayOfWeek": "MON",
+    "month": "Jan",
+    "day": 26,
+    "torahRef": "Gen 20:1-18",
+    "torahName": "Gen Vayera (5)",
+    "tanakhRef": "1 Sam 13–14",
+    "ntRef": "Gal 1:1-10",
+    "psalmsRef": [
+      "Psa 26"
+    ],
+    "proverbsRef": "Pro 5:13-18"
+  },
+  {
+    "idx": 27,
+    "dateLabel": "TUE Jan 27",
+    "isoDate": "2026-01-27",
+    "dayOfWeek": "TUE",
+    "month": "Jan",
+    "day": 27,
+    "torahRef": "Gen 21:1-21",
+    "torahName": "Gen Vayera (6)",
+    "tanakhRef": "1 Sam 15",
+    "ntRef": "Gal 1:11-24",
+    "psalmsRef": [
+      "Psa 27"
+    ],
+    "proverbsRef": "Pro 5:19-23"
+  },
+  {
+    "idx": 28,
+    "dateLabel": "WED Jan 28",
+    "isoDate": "2026-01-28",
+    "dayOfWeek": "WED",
+    "month": "Jan",
+    "day": 28,
+    "torahRef": "Gen 21:22-34",
+    "torahName": "Gen Vayera (7)",
+    "tanakhRef": "1 Sam 16",
+    "ntRef": "Gal 2:1-10",
+    "psalmsRef": [
+      "Psa 28"
+    ],
+    "proverbsRef": "Pro 6:1-6"
+  },
+  {
+    "idx": 29,
+    "dateLabel": "THU Jan 29",
+    "isoDate": "2026-01-29",
+    "dayOfWeek": "THU",
+    "month": "Jan",
+    "day": 29,
+    "torahRef": "Gen 23:1-16",
+    "torahName": "Gen Chaye (1)",
+    "tanakhRef": "1 Sam 17",
+    "ntRef": "Gal 2:11-21",
+    "psalmsRef": [
+      "Psa 29"
+    ],
+    "proverbsRef": "Pro 6:7-12"
+  },
+  {
+    "idx": 30,
+    "dateLabel": "FRI Jan 30",
+    "isoDate": "2026-01-30",
+    "dayOfWeek": "FRI",
+    "month": "Jan",
+    "day": 30,
+    "torahRef": "Gen 23:17-24:9",
+    "torahName": "Gen Chaye (2)",
+    "tanakhRef": "1 Sam 18–20",
+    "ntRef": "Gal 3:1-14",
+    "psalmsRef": [
+      "Psa 30"
+    ],
+    "proverbsRef": "Pro 6:13-18"
+  },
+  {
+    "idx": 31,
+    "dateLabel": "SAT Jan 31",
+    "isoDate": "2026-01-31",
+    "dayOfWeek": "SAT",
+    "month": "Jan",
+    "day": 31,
+    "torahRef": "Gen 24:10-26",
+    "torahName": "Gen Chaye (3)",
+    "tanakhRef": "1 Sam 21–24",
+    "ntRef": "Gal 3:15-29",
+    "psalmsRef": [
+      "Psa 31"
+    ],
+    "proverbsRef": "Pro 6:19-23"
+  },
+  {
+    "idx": 32,
+    "dateLabel": "SUN Feb 1",
+    "isoDate": "2026-02-01",
+    "dayOfWeek": "SUN",
+    "month": "Feb",
+    "day": 1,
+    "torahRef": "Gen 24:27-52",
+    "torahName": "Gen Chaye (4)",
+    "tanakhRef": "1 Sam 25–26",
+    "ntRef": "Gal 4:1-20",
+    "psalmsRef": [
+      "Psa 32"
+    ],
+    "proverbsRef": "Pro 6:24-27"
+  },
+  {
+    "idx": 33,
+    "dateLabel": "MON Feb 2",
+    "isoDate": "2026-02-02",
+    "dayOfWeek": "MON",
+    "month": "Feb",
+    "day": 2,
+    "torahRef": "Gen 24:53-67",
+    "torahName": "Gen Chaye (5)",
+    "tanakhRef": "1 Sam 27–31",
+    "ntRef": "Gal 4:21-5:15",
+    "psalmsRef": [
+      "Psa 33"
+    ],
+    "proverbsRef": "Pro 6:28-31"
+  },
+  {
+    "idx": 34,
+    "dateLabel": "TUE Feb 3",
+    "isoDate": "2026-02-03",
+    "dayOfWeek": "TUE",
+    "month": "Feb",
+    "day": 3,
+    "torahRef": "Gen 25:1-11",
+    "torahName": "Gen Chaye (6)",
+    "tanakhRef": "2 Sam 1–4",
+    "ntRef": "Gal 5:16-6:18",
+    "psalmsRef": [
+      "Psa 34"
+    ],
+    "proverbsRef": "Pro 6:32-35"
+  },
+  {
+    "idx": 35,
+    "dateLabel": "WED Feb 4",
+    "isoDate": "2026-02-04",
+    "dayOfWeek": "WED",
+    "month": "Feb",
+    "day": 4,
+    "torahRef": "Gen 25:12-18",
+    "torahName": "Gen Chaye (7)",
+    "tanakhRef": "2 Sam 5–7",
+    "ntRef": "1 Thes 1",
+    "psalmsRef": [
+      "Psa 35"
+    ],
+    "proverbsRef": "Pro 7:1-6"
+  },
+  {
+    "idx": 36,
+    "dateLabel": "THU Feb 5",
+    "isoDate": "2026-02-05",
+    "dayOfWeek": "THU",
+    "month": "Feb",
+    "day": 5,
+    "torahRef": "Gen 25:19-26",
+    "torahName": "Gen Toldot (1)",
+    "tanakhRef": "2 Sam 8–10",
+    "ntRef": "1 Thes 2",
+    "psalmsRef": [
+      "Psa 36"
+    ],
+    "proverbsRef": "Pro 7:7-12"
+  },
+  {
+    "idx": 37,
+    "dateLabel": "FRI Feb 6",
+    "isoDate": "2026-02-06",
+    "dayOfWeek": "FRI",
+    "month": "Feb",
+    "day": 6,
+    "torahRef": "Gen 25:27-34",
+    "torahName": "Gen Toldot (2)",
+    "tanakhRef": "2 Sam 11–12",
+    "ntRef": "1 Thes 3",
+    "psalmsRef": [
+      "Psa 37"
+    ],
+    "proverbsRef": "Pro 7:13-18"
+  },
+  {
+    "idx": 38,
+    "dateLabel": "SAT Feb 7",
+    "isoDate": "2026-02-07",
+    "dayOfWeek": "SAT",
+    "month": "Feb",
+    "day": 7,
+    "torahRef": "Gen 26:1-12",
+    "torahName": "Gen Toldot (3)",
+    "tanakhRef": "2 Sam 13–14",
+    "ntRef": "1 Thes 4",
+    "psalmsRef": [
+      "Psa 38"
+    ],
+    "proverbsRef": "Pro 7:19-23"
+  },
+  {
+    "idx": 39,
+    "dateLabel": "SUN Feb 8",
+    "isoDate": "2026-02-08",
+    "dayOfWeek": "SUN",
+    "month": "Feb",
+    "day": 8,
+    "torahRef": "Gen 26:13-22",
+    "torahName": "Gen Toldot (4)",
+    "tanakhRef": "2 Sam 15–18",
+    "ntRef": "1 Thes 5",
+    "psalmsRef": [
+      "Psa 39"
+    ],
+    "proverbsRef": "Pro 7:24-27"
+  },
+  {
+    "idx": 40,
+    "dateLabel": "MON Feb 9",
+    "isoDate": "2026-02-09",
+    "dayOfWeek": "MON",
+    "month": "Feb",
+    "day": 9,
+    "torahRef": "Gen 26:23-29",
+    "torahName": "Gen Toldot (5)",
+    "tanakhRef": "2 Sam 19–20",
+    "ntRef": "2 Thes 1",
+    "psalmsRef": [
+      "Psa 40"
+    ],
+    "proverbsRef": "Pro 8:1-4"
+  },
+  {
+    "idx": 41,
+    "dateLabel": "TUE Feb 10",
+    "isoDate": "2026-02-10",
+    "dayOfWeek": "TUE",
+    "month": "Feb",
+    "day": 10,
+    "torahRef": "Gen 26:30-27:27",
+    "torahName": "Gen Toldot (6)",
+    "tanakhRef": "2 Sam 21–24",
+    "ntRef": "2 Thes 2",
+    "psalmsRef": [
+      "Psa 41"
+    ],
+    "proverbsRef": "Pro 8:5-8"
+  },
+  {
+    "idx": 42,
+    "dateLabel": "WED Feb 11",
+    "isoDate": "2026-02-11",
+    "dayOfWeek": "WED",
+    "month": "Feb",
+    "day": 11,
+    "torahRef": "Gen 27:28-28:9",
+    "torahName": "Gen Toldot (7)",
+    "tanakhRef": "1 Kin 1–2",
+    "ntRef": "2 Thes 3",
+    "psalmsRef": [
+      "Psa 42"
+    ],
+    "proverbsRef": "Pro 8:9-12"
+  },
+  {
+    "idx": 43,
+    "dateLabel": "THU Feb 12",
+    "isoDate": "2026-02-12",
+    "dayOfWeek": "THU",
+    "month": "Feb",
+    "day": 12,
+    "torahRef": "Gen 28:10-22",
+    "torahName": "Gen Vayet (1)",
+    "tanakhRef": "1 Kin 3–4",
+    "ntRef": "Rom 1:1-7",
+    "psalmsRef": [
+      "Psa 43"
+    ],
+    "proverbsRef": "Pro 8:13-16"
+  },
+  {
+    "idx": 44,
+    "dateLabel": "FRI Feb 13",
+    "isoDate": "2026-02-13",
+    "dayOfWeek": "FRI",
+    "month": "Feb",
+    "day": 13,
+    "torahRef": "Gen 29:1-17",
+    "torahName": "Gen Vayet (2)",
+    "tanakhRef": "1 Kin 5–8",
+    "ntRef": "Rom 1:8-17",
+    "psalmsRef": [
+      "Psa 44"
+    ],
+    "proverbsRef": "Pro 8:17-20"
+  },
+  {
+    "idx": 45,
+    "dateLabel": "SAT Feb 14",
+    "isoDate": "2026-02-14",
+    "dayOfWeek": "SAT",
+    "month": "Feb",
+    "day": 14,
+    "torahRef": "Gen 29:18-30",
+    "torahName": "Gen Vayet (3)",
+    "tanakhRef": "1 Kin 9–11",
+    "ntRef": "Rom 1:18-32",
+    "psalmsRef": [
+      "Psa 45"
+    ],
+    "proverbsRef": "Pro 8:21-24"
+  },
+  {
+    "idx": 46,
+    "dateLabel": "SUN Feb 15",
+    "isoDate": "2026-02-15",
+    "dayOfWeek": "SUN",
+    "month": "Feb",
+    "day": 15,
+    "torahRef": "Gen 29:31-30:13",
+    "torahName": "Gen Vayet (4)",
+    "tanakhRef": "1 Kin 12–14",
+    "ntRef": "Rom 2:1-11",
+    "psalmsRef": [
+      "Psa 46"
+    ],
+    "proverbsRef": "Pro 8:25-28"
+  },
+  {
+    "idx": 47,
+    "dateLabel": "MON Feb 16",
+    "isoDate": "2026-02-16",
+    "dayOfWeek": "MON",
+    "month": "Feb",
+    "day": 16,
+    "torahRef": "Gen 30:14-27",
+    "torahName": "Gen Vayet (5)",
+    "tanakhRef": "1 Kin 15–16",
+    "ntRef": "Rom 2:12-29",
+    "psalmsRef": [
+      "Psa 47"
+    ],
+    "proverbsRef": "Pro 8:29-32"
+  },
+  {
+    "idx": 48,
+    "dateLabel": "TUE Feb 17",
+    "isoDate": "2026-02-17",
+    "dayOfWeek": "TUE",
+    "month": "Feb",
+    "day": 17,
+    "torahRef": "Gen 30:28-31:16",
+    "torahName": "Gen Vayet (6)",
+    "tanakhRef": "1 Kin 17–19",
+    "ntRef": "Rom 3:1-8",
+    "psalmsRef": [
+      "Psa 48"
+    ],
+    "proverbsRef": "Pro 8:33-36"
+  },
+  {
+    "idx": 49,
+    "dateLabel": "WED Feb 18",
+    "isoDate": "2026-02-18",
+    "dayOfWeek": "WED",
+    "month": "Feb",
+    "day": 18,
+    "torahRef": "Gen 31:17-42",
+    "torahName": "Gen Vayet (7)",
+    "tanakhRef": "1 Kin 20–22",
+    "ntRef": "Rom 3:9-20",
+    "psalmsRef": [
+      "Psa 49"
+    ],
+    "proverbsRef": "Pro 9:1-6"
+  },
+  {
+    "idx": 50,
+    "dateLabel": "THU Feb 19",
+    "isoDate": "2026-02-19",
+    "dayOfWeek": "THU",
+    "month": "Feb",
+    "day": 19,
+    "torahRef": "Gen 32:4-13",
+    "torahName": "Gen Vayish (1)",
+    "tanakhRef": "2 Kin 1–2",
+    "ntRef": "Rom 3:21-31",
+    "psalmsRef": [
+      "Psa 50"
+    ],
+    "proverbsRef": "Pro 9:7-12"
+  },
+  {
+    "idx": 51,
+    "dateLabel": "FRI Feb 20",
+    "isoDate": "2026-02-20",
+    "dayOfWeek": "FRI",
+    "month": "Feb",
+    "day": 20,
+    "torahRef": "Gen 32:14-30",
+    "torahName": "Gen Vayish (2)",
+    "tanakhRef": "2 Kin 3–4",
+    "ntRef": "Rom 4:1-12",
+    "psalmsRef": [
+      "Psa 51"
+    ],
+    "proverbsRef": "Pro 9:13-18"
+  },
+  {
+    "idx": 52,
+    "dateLabel": "SAT Feb 21",
+    "isoDate": "2026-02-21",
+    "dayOfWeek": "SAT",
+    "month": "Feb",
+    "day": 21,
+    "torahRef": "Gen 31:3-16",
+    "torahName": "Gen Vayish (3)",
+    "tanakhRef": "2 Kin 5",
+    "ntRef": "Rom 4:13-25",
+    "psalmsRef": [
+      "Psa 52"
+    ],
+    "proverbsRef": "Pro 10:1-6"
+  },
+  {
+    "idx": 53,
+    "dateLabel": "SUN Feb 22",
+    "isoDate": "2026-02-22",
+    "dayOfWeek": "SUN",
+    "month": "Feb",
+    "day": 22,
+    "torahRef": "Gen 33:1-20",
+    "torahName": "Gen Vayish (4)",
+    "tanakhRef": "2 Kin 6–7",
+    "ntRef": "Rom 5:1-11",
+    "psalmsRef": [
+      "Psa 53"
+    ],
+    "proverbsRef": "Pro 10:7-12"
+  },
+  {
+    "idx": 54,
+    "dateLabel": "MON Feb 23",
+    "isoDate": "2026-02-23",
+    "dayOfWeek": "MON",
+    "month": "Feb",
+    "day": 23,
+    "torahRef": "Gen 34:1-35",
+    "torahName": "Gen Vayish (5)",
+    "tanakhRef": "2 Kin 8–10",
+    "ntRef": "Rom 5:12-21",
+    "psalmsRef": [
+      "Psa 54"
+    ],
+    "proverbsRef": "Pro 10:13-18"
+  },
+  {
+    "idx": 55,
+    "dateLabel": "TUE Feb 24",
+    "isoDate": "2026-02-24",
+    "dayOfWeek": "TUE",
+    "month": "Feb",
+    "day": 24,
+    "torahRef": "Gen 35:1-11",
+    "torahName": "Gen Vayish (6)",
+    "tanakhRef": "2 Kin 11–12",
+    "ntRef": "Rom 6:1-14",
+    "psalmsRef": [
+      "Psa 55"
+    ],
+    "proverbsRef": "Pro 10:19-24"
+  },
+  {
+    "idx": 56,
+    "dateLabel": "WED Feb 25",
+    "isoDate": "2026-02-25",
+    "dayOfWeek": "WED",
+    "month": "Feb",
+    "day": 25,
+    "torahRef": "Gen 35:12-36:43",
+    "torahName": "Gen Vayish (7)",
+    "tanakhRef": "2 Kin 13–14",
+    "ntRef": "Rom 6:15-23",
+    "psalmsRef": [
+      "Psa 56"
+    ],
+    "proverbsRef": "Pro 10:25-28"
+  },
+  {
+    "idx": 57,
+    "dateLabel": "THU Feb 26",
+    "isoDate": "2026-02-26",
+    "dayOfWeek": "THU",
+    "month": "Feb",
+    "day": 26,
+    "torahRef": "Gen 41:1-14",
+    "torahName": "Gen Miketz (1)",
+    "tanakhRef": "2 Kin 15–17",
+    "ntRef": "Rom 7:1-6",
+    "psalmsRef": [
+      "Psa 57"
+    ],
+    "proverbsRef": "Pro 10:29-32"
+  },
+  {
+    "idx": 58,
+    "dateLabel": "FRI Feb 27",
+    "isoDate": "2026-02-27",
+    "dayOfWeek": "FRI",
+    "month": "Feb",
+    "day": 27,
+    "torahRef": "Gen 41:15-38",
+    "torahName": "Gen Miketz (2)",
+    "tanakhRef": "2 Kin 18–20",
+    "ntRef": "Rom 7:7-25",
+    "psalmsRef": [
+      "Psa 58"
+    ],
+    "proverbsRef": "Pro 11:1-6"
+  },
+  {
+    "idx": 59,
+    "dateLabel": "SAT Feb 28",
+    "isoDate": "2026-02-28",
+    "dayOfWeek": "SAT",
+    "month": "Feb",
+    "day": 28,
+    "torahRef": "Gen 41:39-52",
+    "torahName": "Gen Miketz (3)",
+    "tanakhRef": "2 Kin 21–23",
+    "ntRef": "Rom 8:1-11",
+    "psalmsRef": [
+      "Psa 59"
+    ],
+    "proverbsRef": "Pro 11:7-12"
+  },
+  {
+    "idx": 60,
+    "dateLabel": "SUN Mar 1",
+    "isoDate": "2026-03-01",
+    "dayOfWeek": "SUN",
+    "month": "Mar",
+    "day": 1,
+    "torahRef": "Gen 41:53-42:18",
+    "torahName": "Gen Miketz (4)",
+    "tanakhRef": "2 Kin 24–25",
+    "ntRef": "Rom 8:12-25",
+    "psalmsRef": [
+      "Psa 60"
+    ],
+    "proverbsRef": "Pro 11:13-18"
+  },
+  {
+    "idx": 61,
+    "dateLabel": "MON Mar 2",
+    "isoDate": "2026-03-02",
+    "dayOfWeek": "MON",
+    "month": "Mar",
+    "day": 2,
+    "torahRef": "Gen 42:19-43:15",
+    "torahName": "Gen Miketz (5)",
+    "tanakhRef": "Isa 1–5",
+    "ntRef": "Rom 8:26-39",
+    "psalmsRef": [
+      "Psa 61"
+    ],
+    "proverbsRef": "Pro 11:19-23"
+  },
+  {
+    "idx": 62,
+    "dateLabel": "TUE Mar 3",
+    "isoDate": "2026-03-03",
+    "dayOfWeek": "TUE",
+    "month": "Mar",
+    "day": 3,
+    "torahRef": "Gen 43:16-29",
+    "torahName": "Gen Miketz (6)",
+    "tanakhRef": "Isa 6",
+    "ntRef": "Rom 9:1-13",
+    "psalmsRef": [
+      "Psa 62"
+    ],
+    "proverbsRef": "Pro 11:24-27"
+  },
+  {
+    "idx": 63,
+    "dateLabel": "WED Mar 4",
+    "isoDate": "2026-03-04",
+    "dayOfWeek": "WED",
+    "month": "Mar",
+    "day": 4,
+    "torahRef": "Gen 43:30-44:17",
+    "torahName": "Gen Miketz (7)",
+    "tanakhRef": "Isa 7–9",
+    "ntRef": "Rom 9:14-29",
+    "psalmsRef": [
+      "Psa 63"
+    ],
+    "proverbsRef": "Pro 11:28-31"
+  },
+  {
+    "idx": 64,
+    "dateLabel": "THU Mar 5",
+    "isoDate": "2026-03-05",
+    "dayOfWeek": "THU",
+    "month": "Mar",
+    "day": 5,
+    "torahRef": "Gen 44:18-30",
+    "torahName": "Gen Vayig (1)",
+    "tanakhRef": "Isa 10–12",
+    "ntRef": "Rom 9:30-10:4",
+    "psalmsRef": [
+      "Psa 64"
+    ],
+    "proverbsRef": "Pro 12:1-6"
+  },
+  {
+    "idx": 65,
+    "dateLabel": "FRI Mar 6",
+    "isoDate": "2026-03-06",
+    "dayOfWeek": "FRI",
+    "month": "Mar",
+    "day": 6,
+    "torahRef": "Gen 44:31-45:7",
+    "torahName": "Gen Vayig (2)",
+    "tanakhRef": "Isa 13–14",
+    "ntRef": "Rom 10:5-13",
+    "psalmsRef": [
+      "Psa 65"
+    ],
+    "proverbsRef": "Pro 12:7-12"
+  },
+  {
+    "idx": 66,
+    "dateLabel": "SAT Mar 7",
+    "isoDate": "2026-03-07",
+    "dayOfWeek": "SAT",
+    "month": "Mar",
+    "day": 7,
+    "torahRef": "Gen 45:8-18",
+    "torahName": "Gen Vayig (3)",
+    "tanakhRef": "Isa 15–18",
+    "ntRef": "Rom 10:14-21",
+    "psalmsRef": [
+      "Psa 66"
+    ],
+    "proverbsRef": "Pro 12:13-18"
+  },
+  {
+    "idx": 67,
+    "dateLabel": "SUN Mar 8",
+    "isoDate": "2026-03-08",
+    "dayOfWeek": "SUN",
+    "month": "Mar",
+    "day": 8,
+    "torahRef": "Gen 45:19-27",
+    "torahName": "Gen Vayig (4)",
+    "tanakhRef": "Isa 19–20",
+    "ntRef": "Rom 11:1-10",
+    "psalmsRef": [
+      "Psa 67"
+    ],
+    "proverbsRef": "Pro 12:19-24"
+  },
+  {
+    "idx": 68,
+    "dateLabel": "MON Mar 9",
+    "isoDate": "2026-03-09",
+    "dayOfWeek": "MON",
+    "month": "Mar",
+    "day": 9,
+    "torahRef": "Gen 46:1-27",
+    "torahName": "Gen Vayig (5)",
+    "tanakhRef": "Isa 21–23",
+    "ntRef": "Rom 11:11-24",
+    "psalmsRef": [
+      "Psa 68"
+    ],
+    "proverbsRef": "Pro 12:25-28"
+  },
+  {
+    "idx": 69,
+    "dateLabel": "TUE Mar 10",
+    "isoDate": "2026-03-10",
+    "dayOfWeek": "TUE",
+    "month": "Mar",
+    "day": 10,
+    "torahRef": "Gen 46:28-47:10",
+    "torahName": "Gen Vayig (6)",
+    "tanakhRef": "Isa 24–27",
+    "ntRef": "Rom 11:25-36",
+    "psalmsRef": [
+      "Psa 69"
+    ],
+    "proverbsRef": "Pro 13:1-6"
+  },
+  {
+    "idx": 70,
+    "dateLabel": "WED Mar 11",
+    "isoDate": "2026-03-11",
+    "dayOfWeek": "WED",
+    "month": "Mar",
+    "day": 11,
+    "torahRef": "Gen 47:11-27",
+    "torahName": "Gen Vayig (7)",
+    "tanakhRef": "Isa 28–30",
+    "ntRef": "Rom 12:1-8",
+    "psalmsRef": [
+      "Psa 70"
+    ],
+    "proverbsRef": "Pro 13:7-12"
+  },
+  {
+    "idx": 71,
+    "dateLabel": "THU Mar 12",
+    "isoDate": "2026-03-12",
+    "dayOfWeek": "THU",
+    "month": "Mar",
+    "day": 12,
+    "torahRef": "Gen 47:28-48:9",
+    "torahName": "Gen Vayech (1)",
+    "tanakhRef": "Isa 31–33",
+    "ntRef": "Rom 12:9-21",
+    "psalmsRef": [
+      "Psa 71"
+    ],
+    "proverbsRef": "Pro 13:13-17"
+  },
+  {
+    "idx": 72,
+    "dateLabel": "FRI Mar 13",
+    "isoDate": "2026-03-13",
+    "dayOfWeek": "FRI",
+    "month": "Mar",
+    "day": 13,
+    "torahRef": "Gen 48:10-22",
+    "torahName": "Gen Vayech (2)",
+    "tanakhRef": "Isa 34–35",
+    "ntRef": "Rom 13:1-7",
+    "psalmsRef": [
+      "Psa 72"
+    ],
+    "proverbsRef": "Pro 13:18-21"
+  },
+  {
+    "idx": 73,
+    "dateLabel": "SAT Mar 14",
+    "isoDate": "2026-03-14",
+    "dayOfWeek": "SAT",
+    "month": "Mar",
+    "day": 14,
+    "torahRef": "Gen 49:1-18",
+    "torahName": "Gen Vayech (3)",
+    "tanakhRef": "Isa 36–39",
+    "ntRef": "Rom 13:8-14",
+    "psalmsRef": [
+      "Psa 73"
+    ],
+    "proverbsRef": "Pro 13:22-25"
+  },
+  {
+    "idx": 74,
+    "dateLabel": "SUN Mar 15",
+    "isoDate": "2026-03-15",
+    "dayOfWeek": "SUN",
+    "month": "Mar",
+    "day": 15,
+    "torahRef": "Gen 49:19-26",
+    "torahName": "Gen Vayech (4)",
+    "tanakhRef": "Isa 40–41",
+    "ntRef": "Rom 14:1-12",
+    "psalmsRef": [
+      "Psa 74"
+    ],
+    "proverbsRef": "Pro 14:1-6"
+  },
+  {
+    "idx": 75,
+    "dateLabel": "MON Mar 16",
+    "isoDate": "2026-03-16",
+    "dayOfWeek": "MON",
+    "month": "Mar",
+    "day": 16,
+    "torahRef": "Gen 49:27-50:20",
+    "torahName": "Gen Vayech (5)",
+    "tanakhRef": "Isa 42–44",
+    "ntRef": "Rom 14:13-23",
+    "psalmsRef": [
+      "Psa 75"
+    ],
+    "proverbsRef": "Pro 14:7-12"
+  },
+  {
+    "idx": 76,
+    "dateLabel": "TUE Mar 17",
+    "isoDate": "2026-03-17",
+    "dayOfWeek": "TUE",
+    "month": "Mar",
+    "day": 17,
+    "torahRef": "Gen 50:21-26",
+    "torahName": "Gen Vayech (6)",
+    "tanakhRef": "Isa 45–48",
+    "ntRef": "Rom 15:1-13",
+    "psalmsRef": [
+      "Psa 76"
+    ],
+    "proverbsRef": "Pro 14:13-18"
+  },
+  {
+    "idx": 77,
+    "dateLabel": "WED Mar 18",
+    "isoDate": "2026-03-18",
+    "dayOfWeek": "WED",
+    "month": "Mar",
+    "day": 18,
+    "torahRef": "Gen 50:26",
+    "torahName": "Gen Vayech (7)",
+    "tanakhRef": "Isa 49–51",
+    "ntRef": "Rom 15:14-21",
+    "psalmsRef": [
+      "Psa 77"
+    ],
+    "proverbsRef": "Pro 14:19-24"
+  },
+  {
+    "idx": 78,
+    "dateLabel": "THU Mar 19",
+    "isoDate": "2026-03-19",
+    "dayOfWeek": "THU",
+    "month": "Mar",
+    "day": 19,
+    "torahRef": "Exo 1:1-17",
+    "torahName": "Exo Shemot (1)",
+    "tanakhRef": "Isa 52–53",
+    "ntRef": "Rom 15:22-33",
+    "psalmsRef": [
+      "Psa 78:1-18"
+    ],
+    "proverbsRef": "Pro 14:25-30"
+  },
+  {
+    "idx": 79,
+    "dateLabel": "FRI Mar 20",
+    "isoDate": "2026-03-20",
+    "dayOfWeek": "FRI",
+    "month": "Mar",
+    "day": 20,
+    "torahRef": "Exo 1:18-2:10",
+    "torahName": "Exo Shemot (2)",
+    "tanakhRef": "Isa 54–55",
+    "ntRef": "Rom 16:1-16",
+    "psalmsRef": [
+      "Psa 78:19-31"
+    ],
+    "proverbsRef": "Pro 14:31-35"
+  },
+  {
+    "idx": 80,
+    "dateLabel": "SAT Mar 21",
+    "isoDate": "2026-03-21",
+    "dayOfWeek": "SAT",
+    "month": "Mar",
+    "day": 21,
+    "torahRef": "Exo 2:11-25",
+    "torahName": "Exo Shemot (3)",
+    "tanakhRef": "Isa 56–59",
+    "ntRef": "Rom 16:17-27",
+    "psalmsRef": [
+      "Psa 78:32-39"
+    ],
+    "proverbsRef": "Pro 15:1-6"
+  },
+  {
+    "idx": 81,
+    "dateLabel": "SUN Mar 22",
+    "isoDate": "2026-03-22",
+    "dayOfWeek": "SUN",
+    "month": "Mar",
+    "day": 22,
+    "torahRef": "Exo 3:1-12",
+    "torahName": "Exo Shemot (4)",
+    "tanakhRef": "Isa 60–62",
+    "ntRef": "1 Cor 1:1-9",
+    "psalmsRef": [
+      "Psa 78:40-55"
+    ],
+    "proverbsRef": "Pro 15:7-12"
+  },
+  {
+    "idx": 82,
+    "dateLabel": "MON Mar 23",
+    "isoDate": "2026-03-23",
+    "dayOfWeek": "MON",
+    "month": "Mar",
+    "day": 23,
+    "torahRef": "Exo 3:13-22",
+    "torahName": "Exo Shemot (5)",
+    "tanakhRef": "Isa 63–66",
+    "ntRef": "1 Cor 1:10-17",
+    "psalmsRef": [
+      "Psa 78:56-72"
+    ],
+    "proverbsRef": "Pro 15:13-18"
+  },
+  {
+    "idx": 83,
+    "dateLabel": "TUE Mar 24",
+    "isoDate": "2026-03-24",
+    "dayOfWeek": "TUE",
+    "month": "Mar",
+    "day": 24,
+    "torahRef": "Exo 4:1-17",
+    "torahName": "Exo Shemot (6)",
+    "tanakhRef": "Jer 1",
+    "ntRef": "1 Cor 1:18-31",
+    "psalmsRef": [
+      "Psa 79"
+    ],
+    "proverbsRef": "Pro 15:19-24"
+  },
+  {
+    "idx": 84,
+    "dateLabel": "WED Mar 25",
+    "isoDate": "2026-03-25",
+    "dayOfWeek": "WED",
+    "month": "Mar",
+    "day": 25,
+    "torahRef": "Exo 4:18-31",
+    "torahName": "Exo Shemot (7)",
+    "tanakhRef": "Jer 2–3",
+    "ntRef": "1 Cor 2:1-5",
+    "psalmsRef": [
+      "Psa 80"
+    ],
+    "proverbsRef": "Pro 15:25-29"
+  },
+  {
+    "idx": 85,
+    "dateLabel": "THU Mar 26",
+    "isoDate": "2026-03-26",
+    "dayOfWeek": "THU",
+    "month": "Mar",
+    "day": 26,
+    "torahRef": "Exo 6:2-13",
+    "torahName": "Exo Vaera (1)",
+    "tanakhRef": "Jer 4–6",
+    "ntRef": "1 Cor 2:6-16",
+    "psalmsRef": [
+      "Psa 81"
+    ],
+    "proverbsRef": "Pro 15:30-33"
+  },
+  {
+    "idx": 86,
+    "dateLabel": "FRI Mar 27",
+    "isoDate": "2026-03-27",
+    "dayOfWeek": "FRI",
+    "month": "Mar",
+    "day": 27,
+    "torahRef": "Exo 6:14-28",
+    "torahName": "Exo Vaera (2)",
+    "tanakhRef": "Jer 7–10",
+    "ntRef": "1 Cor 3:1-9",
+    "psalmsRef": [
+      "Psa 82"
+    ],
+    "proverbsRef": "Pro 16:1-6"
+  },
+  {
+    "idx": 87,
+    "dateLabel": "SAT Mar 28",
+    "isoDate": "2026-03-28",
+    "dayOfWeek": "SAT",
+    "month": "Mar",
+    "day": 28,
+    "torahRef": "Exo 6:29-7:7",
+    "torahName": "Exo Vaera (3)",
+    "tanakhRef": "Jer 11–13",
+    "ntRef": "1 Cor 3:10-23",
+    "psalmsRef": [
+      "Psa 83"
+    ],
+    "proverbsRef": "Pro 16:7-12"
+  },
+  {
+    "idx": 88,
+    "dateLabel": "SUN Mar 29",
+    "isoDate": "2026-03-29",
+    "dayOfWeek": "SUN",
+    "month": "Mar",
+    "day": 29,
+    "torahRef": "Exo 7:8-8:6",
+    "torahName": "Exo Vaera (4)",
+    "tanakhRef": "Jer 14–17",
+    "ntRef": "1 Cor 4:1-5",
+    "psalmsRef": [
+      "Psa 84"
+    ],
+    "proverbsRef": "Pro 16:13-18"
+  },
+  {
+    "idx": 89,
+    "dateLabel": "MON Mar 30",
+    "isoDate": "2026-03-30",
+    "dayOfWeek": "MON",
+    "month": "Mar",
+    "day": 30,
+    "torahRef": "Exo 8:7-18",
+    "torahName": "Exo Vaera (5)",
+    "tanakhRef": "Jer 18–20",
+    "ntRef": "1 Cor 4:6-13",
+    "psalmsRef": [
+      "Psa 85"
+    ],
+    "proverbsRef": "Pro 16:19-24"
+  },
+  {
+    "idx": 90,
+    "dateLabel": "TUE Mar 31",
+    "isoDate": "2026-03-31",
+    "dayOfWeek": "TUE",
+    "month": "Mar",
+    "day": 31,
+    "torahRef": "Exo 8:19-9:16",
+    "torahName": "Exo Vaera (6)",
+    "tanakhRef": "Jer 21–23",
+    "ntRef": "1 Cor 4:14-21",
+    "psalmsRef": [
+      "Psa 86"
+    ],
+    "proverbsRef": "Pro 16:25-29"
+  },
+  {
+    "idx": 91,
+    "dateLabel": "WED Apr 1",
+    "isoDate": "2026-04-01",
+    "dayOfWeek": "WED",
+    "month": "Apr",
+    "day": 1,
+    "torahRef": "Exo 9:17-35",
+    "torahName": "Exo Vaera (7)",
+    "tanakhRef": "Jer 24–25",
+    "ntRef": "1 Cor 5",
+    "psalmsRef": [
+      "Psa 87"
+    ],
+    "proverbsRef": "Pro 16:30-33"
+  },
+  {
+    "idx": 92,
+    "dateLabel": "THU Apr 2",
+    "isoDate": "2026-04-02",
+    "dayOfWeek": "THU",
+    "month": "Apr",
+    "day": 2,
+    "torahRef": "Exo 10:1-11",
+    "torahName": "Exo Bo (1)",
+    "tanakhRef": "Jer 26–29",
+    "ntRef": "1 Cor 6:1-11",
+    "psalmsRef": [
+      "Psa 88"
+    ],
+    "proverbsRef": "Pro 17:1-6"
+  },
+  {
+    "idx": 93,
+    "dateLabel": "FRI Apr 3",
+    "isoDate": "2026-04-03",
+    "dayOfWeek": "FRI",
+    "month": "Apr",
+    "day": 3,
+    "torahRef": "Exo 10:12-23",
+    "torahName": "Exo Bo (2)",
+    "tanakhRef": "Jer 30–31",
+    "ntRef": "1 Cor 6:12-20",
+    "psalmsRef": [
+      "Psa 89"
+    ],
+    "proverbsRef": "Pro 17:7-12"
+  },
+  {
+    "idx": 94,
+    "dateLabel": "SAT Apr 4",
+    "isoDate": "2026-04-04",
+    "dayOfWeek": "SAT",
+    "month": "Apr",
+    "day": 4,
+    "torahRef": "Exo 10:24-11:3",
+    "torahName": "Exo Bo (3)",
+    "tanakhRef": "Jer 32–33",
+    "ntRef": "1 Cor 7:1-9",
+    "psalmsRef": [
+      "Psa 90"
+    ],
+    "proverbsRef": "Pro 17:13-18"
+  },
+  {
+    "idx": 95,
+    "dateLabel": "SUN Apr 5",
+    "isoDate": "2026-04-05",
+    "dayOfWeek": "SUN",
+    "month": "Apr",
+    "day": 5,
+    "torahRef": "Exo 11:4-12:13",
+    "torahName": "Exo Bo (4)",
+    "tanakhRef": "Jer 34–36",
+    "ntRef": "1 Cor 7:10-16",
+    "psalmsRef": [
+      "Psa 91"
+    ],
+    "proverbsRef": "Pro 17:19-24"
+  },
+  {
+    "idx": 96,
+    "dateLabel": "MON Apr 6",
+    "isoDate": "2026-04-06",
+    "dayOfWeek": "MON",
+    "month": "Apr",
+    "day": 6,
+    "torahRef": "Exo 12:14-28",
+    "torahName": "Exo Bo (5)",
+    "tanakhRef": "Jer 37–39",
+    "ntRef": "1 Cor 7:17-24",
+    "psalmsRef": [
+      "Psa 92"
+    ],
+    "proverbsRef": "Pro 17:25-28"
+  },
+  {
+    "idx": 97,
+    "dateLabel": "TUE Apr 7",
+    "isoDate": "2026-04-07",
+    "dayOfWeek": "TUE",
+    "month": "Apr",
+    "day": 7,
+    "torahRef": "Exo 12:29-51",
+    "torahName": "Exo Bo (6)",
+    "tanakhRef": "Jer 40–44",
+    "ntRef": "1 Cor 7:25-40",
+    "psalmsRef": [
+      "Psa 93"
+    ],
+    "proverbsRef": "Pro 18:1-6"
+  },
+  {
+    "idx": 98,
+    "dateLabel": "WED Apr 8",
+    "isoDate": "2026-04-08",
+    "dayOfWeek": "WED",
+    "month": "Apr",
+    "day": 8,
+    "torahRef": "Exo 13:1-16",
+    "torahName": "Exo Bo (7)",
+    "tanakhRef": "Jer 45–46",
+    "ntRef": "1 Cor 8:1-13",
+    "psalmsRef": [
+      "Psa 94"
+    ],
+    "proverbsRef": "Pro 18:7-12"
+  },
+  {
+    "idx": 99,
+    "dateLabel": "THU Apr 9",
+    "isoDate": "2026-04-09",
+    "dayOfWeek": "THU",
+    "month": "Apr",
+    "day": 9,
+    "torahRef": "Exo 13:17-14:8",
+    "torahName": "Exo Besha (1)",
+    "tanakhRef": "Jer 47–49",
+    "ntRef": "1 Cor 9:1-12",
+    "psalmsRef": [
+      "Psa 95"
+    ],
+    "proverbsRef": "Pro 18:13-18"
+  },
+  {
+    "idx": 100,
+    "dateLabel": "FRI Apr 10",
+    "isoDate": "2026-04-10",
+    "dayOfWeek": "FRI",
+    "month": "Apr",
+    "day": 10,
+    "torahRef": "Exo 14:9-14",
+    "torahName": "Exo Besha (2)",
+    "tanakhRef": "Jer 50–51",
+    "ntRef": "1 Cor 9:13-27",
+    "psalmsRef": [
+      "Psa 96"
+    ],
+    "proverbsRef": "Pro 18:19-24"
+  },
+  {
+    "idx": 101,
+    "dateLabel": "SAT Apr 11",
+    "isoDate": "2026-04-11",
+    "dayOfWeek": "SAT",
+    "month": "Apr",
+    "day": 11,
+    "torahRef": "Exo 14:15-25",
+    "torahName": "Exo Besha (3)",
+    "tanakhRef": "Jer 52",
+    "ntRef": "1 Cor 10:1-13",
+    "psalmsRef": [
+      "Psa 97"
+    ],
+    "proverbsRef": "Pro 19:1-6"
+  },
+  {
+    "idx": 102,
+    "dateLabel": "SUN Apr 12",
+    "isoDate": "2026-04-12",
+    "dayOfWeek": "SUN",
+    "month": "Apr",
+    "day": 12,
+    "torahRef": "Exo 14:26-15:26",
+    "torahName": "Exo Besha (4)",
+    "tanakhRef": "Eze 1–3",
+    "ntRef": "1 Cor 10:14-22",
+    "psalmsRef": [
+      "Psa 98"
+    ],
+    "proverbsRef": "Pro 19:7-12"
+  },
+  {
+    "idx": 103,
+    "dateLabel": "MON Apr 13",
+    "isoDate": "2026-04-13",
+    "dayOfWeek": "MON",
+    "month": "Apr",
+    "day": 13,
+    "torahRef": "Exo 15:27-16:10",
+    "torahName": "Exo Besha (5)",
+    "tanakhRef": "Eze 4–7",
+    "ntRef": "1 Cor 10:23-11:1",
+    "psalmsRef": [
+      "Psa 99"
+    ],
+    "proverbsRef": "Pro 19:13-18"
+  },
+  {
+    "idx": 104,
+    "dateLabel": "TUE Apr 14",
+    "isoDate": "2026-04-14",
+    "dayOfWeek": "TUE",
+    "month": "Apr",
+    "day": 14,
+    "torahRef": "Exo 16:11-36",
+    "torahName": "Exo Besha (6)",
+    "tanakhRef": "Eze 8–11",
+    "ntRef": "1 Cor 11:2-16",
+    "psalmsRef": [
+      "Psa 100"
+    ],
+    "proverbsRef": "Pro 19:19-24"
+  },
+  {
+    "idx": 105,
+    "dateLabel": "WED Apr 15",
+    "isoDate": "2026-04-15",
+    "dayOfWeek": "WED",
+    "month": "Apr",
+    "day": 15,
+    "torahRef": "Exo 17:1-7",
+    "torahName": "Exo Besha (7)",
+    "tanakhRef": "Eze 12–15",
+    "ntRef": "1 Cor 11:17-34",
+    "psalmsRef": [
+      "Psa 101"
+    ],
+    "proverbsRef": "Pro 19:25-29"
+  },
+  {
+    "idx": 106,
+    "dateLabel": "THU Apr 16",
+    "isoDate": "2026-04-16",
+    "dayOfWeek": "THU",
+    "month": "Apr",
+    "day": 16,
+    "torahRef": "Exo 18:1-12",
+    "torahName": "Exo Yitro (1)",
+    "tanakhRef": "Eze 16",
+    "ntRef": "1 Cor 12:1-11",
+    "psalmsRef": [
+      "Psa 102"
+    ],
+    "proverbsRef": "Pro 20:1-6"
+  },
+  {
+    "idx": 107,
+    "dateLabel": "FRI Apr 17",
+    "isoDate": "2026-04-17",
+    "dayOfWeek": "FRI",
+    "month": "Apr",
+    "day": 17,
+    "torahRef": "Exo 18:13-23",
+    "torahName": "Exo Yitro (2)",
+    "tanakhRef": "Eze 17–19",
+    "ntRef": "1 Cor 12:12-31",
+    "psalmsRef": [
+      "Psa 103"
+    ],
+    "proverbsRef": "Pro 20:7-12"
+  },
+  {
+    "idx": 108,
+    "dateLabel": "SAT Apr 18",
+    "isoDate": "2026-04-18",
+    "dayOfWeek": "SAT",
+    "month": "Apr",
+    "day": 18,
+    "torahRef": "Exo 18:24-27",
+    "torahName": "Exo Yitro (3)",
+    "tanakhRef": "Eze 20–23",
+    "ntRef": "1 Cor 13:1-13",
+    "psalmsRef": [
+      "Psa 104"
+    ],
+    "proverbsRef": "Pro 20:13-18"
+  },
+  {
+    "idx": 109,
+    "dateLabel": "SUN Apr 19",
+    "isoDate": "2026-04-19",
+    "dayOfWeek": "SUN",
+    "month": "Apr",
+    "day": 19,
+    "torahRef": "Exo 19:1-6",
+    "torahName": "Exo Yitro (4)",
+    "tanakhRef": "Eze 24",
+    "ntRef": "1 Cor 14:1-19",
+    "psalmsRef": [
+      "Psa 105:1-15"
+    ],
+    "proverbsRef": "Pro 20:19-24"
+  },
+  {
+    "idx": 110,
+    "dateLabel": "MON Apr 20",
+    "isoDate": "2026-04-20",
+    "dayOfWeek": "MON",
+    "month": "Apr",
+    "day": 20,
+    "torahRef": "Exo 19:7-19",
+    "torahName": "Exo Yitro (5)",
+    "tanakhRef": "Eze 25–28",
+    "ntRef": "1 Cor 14:20-40",
+    "psalmsRef": [
+      "Psa 105:16-25"
+    ],
+    "proverbsRef": "Pro 20:25-30"
+  },
+  {
+    "idx": 111,
+    "dateLabel": "TUE Apr 21",
+    "isoDate": "2026-04-21",
+    "dayOfWeek": "TUE",
+    "month": "Apr",
+    "day": 21,
+    "torahRef": "Exo 19:20-25",
+    "torahName": "Exo Yitro (6)",
+    "tanakhRef": "Eze 29–32",
+    "ntRef": "1 Cor 15:1-11",
+    "psalmsRef": [
+      "Psa 105:26-36"
+    ],
+    "proverbsRef": "Pro 21:1-6"
+  },
+  {
+    "idx": 112,
+    "dateLabel": "WED Apr 22",
+    "isoDate": "2026-04-22",
+    "dayOfWeek": "WED",
+    "month": "Apr",
+    "day": 22,
+    "torahRef": "Exo 20:1-14",
+    "torahName": "Exo Yitro (7)",
+    "tanakhRef": "Eze 33",
+    "ntRef": "1 Cor 15:12-34",
+    "psalmsRef": [
+      "Psa 105:37-45"
+    ],
+    "proverbsRef": "Pro 21:7-12"
+  },
+  {
+    "idx": 113,
+    "dateLabel": "THU Apr 23",
+    "isoDate": "2026-04-23",
+    "dayOfWeek": "THU",
+    "month": "Apr",
+    "day": 23,
+    "torahRef": "Exo 21:1-19",
+    "torahName": "Exo Mishp (1)",
+    "tanakhRef": "Eze 34–37",
+    "ntRef": "1 Cor 15:35-58",
+    "psalmsRef": [
+      "Psa 106:1-12"
+    ],
+    "proverbsRef": "Pro 21:13-18"
+  },
+  {
+    "idx": 114,
+    "dateLabel": "FRI Apr 24",
+    "isoDate": "2026-04-24",
+    "dayOfWeek": "FRI",
+    "month": "Apr",
+    "day": 24,
+    "torahRef": "Exo 21:20-22:3",
+    "torahName": "Exo Mishp (2)",
+    "tanakhRef": "Eze 38–39",
+    "ntRef": "1 Cor 16",
+    "psalmsRef": [
+      "Psa 106:13-23"
+    ],
+    "proverbsRef": "Pro 21:19-23"
+  },
+  {
+    "idx": 115,
+    "dateLabel": "SAT Apr 25",
+    "isoDate": "2026-04-25",
+    "dayOfWeek": "SAT",
+    "month": "Apr",
+    "day": 25,
+    "torahRef": "Exo 22:4-26",
+    "torahName": "Exo Mishp (3)",
+    "tanakhRef": "Eze 40–43",
+    "ntRef": "Luk 1",
+    "psalmsRef": [
+      "Psa 106:24-39"
+    ],
+    "proverbsRef": "Pro 21:24-27"
+  },
+  {
+    "idx": 116,
+    "dateLabel": "SUN Apr 26",
+    "isoDate": "2026-04-26",
+    "dayOfWeek": "SUN",
+    "month": "Apr",
+    "day": 26,
+    "torahRef": "Exo 22:27-23:5",
+    "torahName": "Exo Mishp (4)",
+    "tanakhRef": "Eze 44–48",
+    "ntRef": "Luk 2",
+    "psalmsRef": [
+      "Psa 106:40-48"
+    ],
+    "proverbsRef": "Pro 21:28-31"
+  },
+  {
+    "idx": 117,
+    "dateLabel": "MON Apr 27",
+    "isoDate": "2026-04-27",
+    "dayOfWeek": "MON",
+    "month": "Apr",
+    "day": 27,
+    "torahRef": "Exo 23:6-9",
+    "torahName": "Exo Mishp (5)",
+    "tanakhRef": "Hos 1–3",
+    "ntRef": "Luk 3",
+    "psalmsRef": [
+      "Psa 107"
+    ],
+    "proverbsRef": "Pro 22:1-6"
+  },
+  {
+    "idx": 118,
+    "dateLabel": "TUE Apr 28",
+    "isoDate": "2026-04-28",
+    "dayOfWeek": "TUE",
+    "month": "Apr",
+    "day": 28,
+    "torahRef": "Exo 23:10-19",
+    "torahName": "Exo Mishp (6)",
+    "tanakhRef": "Hos 4–7",
+    "ntRef": "Luk 4",
+    "psalmsRef": [
+      "Psa 108"
+    ],
+    "proverbsRef": "Pro 22:7-12"
+  },
+  {
+    "idx": 119,
+    "dateLabel": "WED Apr 29",
+    "isoDate": "2026-04-29",
+    "dayOfWeek": "WED",
+    "month": "Apr",
+    "day": 29,
+    "torahRef": "Exo 23:20-25",
+    "torahName": "Exo Mishp (7)",
+    "tanakhRef": "Hos 8–11",
+    "ntRef": "Luk 5",
+    "psalmsRef": [
+      "Psa 109"
+    ],
+    "proverbsRef": "Pro 22:13-18"
+  },
+  {
+    "idx": 120,
+    "dateLabel": "THU Apr 30",
+    "isoDate": "2026-04-30",
+    "dayOfWeek": "THU",
+    "month": "Apr",
+    "day": 30,
+    "torahRef": "Exo 25:1-9",
+    "torahName": "Exo Terum (1)",
+    "tanakhRef": "Hos 12–14",
+    "ntRef": "Luk 6",
+    "psalmsRef": [
+      "Psa 110"
+    ],
+    "proverbsRef": "Pro 22:19-24"
+  },
+  {
+    "idx": 121,
+    "dateLabel": "FRI May 1",
+    "isoDate": "2026-05-01",
+    "dayOfWeek": "FRI",
+    "month": "May",
+    "day": 1,
+    "torahRef": "Exo 25:10-16",
+    "torahName": "Exo Terum (2)",
+    "tanakhRef": "Joe 1–2",
+    "ntRef": "Luk 7",
+    "psalmsRef": [
+      "Psa 111"
+    ],
+    "proverbsRef": "Pro 22:25-29"
+  },
+  {
+    "idx": 122,
+    "dateLabel": "SAT May 2",
+    "isoDate": "2026-05-02",
+    "dayOfWeek": "SAT",
+    "month": "May",
+    "day": 2,
+    "torahRef": "Exo 25:17-30",
+    "torahName": "Exo Terum (3)",
+    "tanakhRef": "Joe 3",
+    "ntRef": "Luk 8",
+    "psalmsRef": [
+      "Psa 112"
+    ],
+    "proverbsRef": "Pro 23:1-6"
+  },
+  {
+    "idx": 123,
+    "dateLabel": "SUN May 3",
+    "isoDate": "2026-05-03",
+    "dayOfWeek": "SUN",
+    "month": "May",
+    "day": 3,
+    "torahRef": "Exo 25:31-40",
+    "torahName": "Exo Terum (4)",
+    "tanakhRef": "Amo 1–2",
+    "ntRef": "Luk 9",
+    "psalmsRef": [
+      "Psa 113"
+    ],
+    "proverbsRef": "Pro 23:7-12"
+  },
+  {
+    "idx": 124,
+    "dateLabel": "MON May 4",
+    "isoDate": "2026-05-04",
+    "dayOfWeek": "MON",
+    "month": "May",
+    "day": 4,
+    "torahRef": "Exo 26:1-14",
+    "torahName": "Exo Terum (5)",
+    "tanakhRef": "Amo 3–5",
+    "ntRef": "Luk 10",
+    "psalmsRef": [
+      "Psa 114"
+    ],
+    "proverbsRef": "Pro 23:13-18"
+  },
+  {
+    "idx": 125,
+    "dateLabel": "TUE May 5",
+    "isoDate": "2026-05-05",
+    "dayOfWeek": "TUE",
+    "month": "May",
+    "day": 5,
+    "torahRef": "Exo 26:15-30",
+    "torahName": "Exo Terum (6)",
+    "tanakhRef": "Amo 6–9",
+    "ntRef": "Luk 11",
+    "psalmsRef": [
+      "Psa 115"
+    ],
+    "proverbsRef": "Pro 23:19-24"
+  },
+  {
+    "idx": 126,
+    "dateLabel": "WED May 6",
+    "isoDate": "2026-05-06",
+    "dayOfWeek": "WED",
+    "month": "May",
+    "day": 6,
+    "torahRef": "Exo 27:1-21",
+    "torahName": "Exo Terum (7)",
+    "tanakhRef": "Oba 1",
+    "ntRef": "Luk 12",
+    "psalmsRef": [
+      "Psa 116"
+    ],
+    "proverbsRef": "Pro 23:25-30"
+  },
+  {
+    "idx": 127,
+    "dateLabel": "THU May 7",
+    "isoDate": "2026-05-07",
+    "dayOfWeek": "THU",
+    "month": "May",
+    "day": 7,
+    "torahRef": "Exo 27:20-21",
+    "torahName": "Exo Tetz (1)",
+    "tanakhRef": "Jon 1–2",
+    "ntRef": "Luk 13",
+    "psalmsRef": [
+      "Psa 117"
+    ],
+    "proverbsRef": "Pro 23:31-35"
+  },
+  {
+    "idx": 128,
+    "dateLabel": "FRI May 8",
+    "isoDate": "2026-05-08",
+    "dayOfWeek": "FRI",
+    "month": "May",
+    "day": 8,
+    "torahRef": "Exo 28:1-12",
+    "torahName": "Exo Tetz (2)",
+    "tanakhRef": "Jon 3–4",
+    "ntRef": "Luk 14",
+    "psalmsRef": [
+      "Psa 118:1-18"
+    ],
+    "proverbsRef": "Pro 24:1-6"
+  },
+  {
+    "idx": 129,
+    "dateLabel": "SAT May 9",
+    "isoDate": "2026-05-09",
+    "dayOfWeek": "SAT",
+    "month": "May",
+    "day": 9,
+    "torahRef": "Exo 28:13-30",
+    "torahName": "Exo Tetz (3)",
+    "tanakhRef": "Mic 1–3",
+    "ntRef": "Luk 15",
+    "psalmsRef": [
+      "Psa 118:19-29"
+    ],
+    "proverbsRef": "Pro 24:7-12"
+  },
+  {
+    "idx": 130,
+    "dateLabel": "SUN May 10",
+    "isoDate": "2026-05-10",
+    "dayOfWeek": "SUN",
+    "month": "May",
+    "day": 10,
+    "torahRef": "Exo 28:31-43",
+    "torahName": "Exo Tetz (4)",
+    "tanakhRef": "Mic 4–5",
+    "ntRef": "Luk 16",
+    "psalmsRef": [
+      "Psa 119:1-8"
+    ],
+    "proverbsRef": "Pro 24:13-18"
+  },
+  {
+    "idx": 131,
+    "dateLabel": "MON May 11",
+    "isoDate": "2026-05-11",
+    "dayOfWeek": "MON",
+    "month": "May",
+    "day": 11,
+    "torahRef": "Exo 29:1-18",
+    "torahName": "Exo Tetz (5)",
+    "tanakhRef": "Mic 6–7",
+    "ntRef": "Luk 17",
+    "psalmsRef": [
+      "Psa 119:9-16"
+    ],
+    "proverbsRef": "Pro 24:19-24"
+  },
+  {
+    "idx": 132,
+    "dateLabel": "TUE May 12",
+    "isoDate": "2026-05-12",
+    "dayOfWeek": "TUE",
+    "month": "May",
+    "day": 12,
+    "torahRef": "Exo 29:19-37",
+    "torahName": "Exo Tetz (6)",
+    "tanakhRef": "Nah 1–3",
+    "ntRef": "Luk 18",
+    "psalmsRef": [
+      "Psa 119:17-24"
+    ],
+    "proverbsRef": "Pro 24:25-30"
+  },
+  {
+    "idx": 133,
+    "dateLabel": "WED May 13",
+    "isoDate": "2026-05-13",
+    "dayOfWeek": "WED",
+    "month": "May",
+    "day": 13,
+    "torahRef": "Exo 29:38-46",
+    "torahName": "Exo Tetz (7)",
+    "tanakhRef": "Hab 1–2",
+    "ntRef": "Luk 19",
+    "psalmsRef": [
+      "Psa 119:25-32"
+    ],
+    "proverbsRef": "Pro 24:31-34"
+  },
+  {
+    "idx": 134,
+    "dateLabel": "THU May 14",
+    "isoDate": "2026-05-14",
+    "dayOfWeek": "THU",
+    "month": "May",
+    "day": 14,
+    "torahRef": "Exo 30:11-16",
+    "torahName": "Exo Ki Tis (1)",
+    "tanakhRef": "Hab 3",
+    "ntRef": "Luk 20",
+    "psalmsRef": [
+      "Psa 119:33-40"
+    ],
+    "proverbsRef": "Pro 25:1-6"
+  },
+  {
+    "idx": 135,
+    "dateLabel": "FRI May 15",
+    "isoDate": "2026-05-15",
+    "dayOfWeek": "FRI",
+    "month": "May",
+    "day": 15,
+    "torahRef": "Exo 30:17-21",
+    "torahName": "Exo Ki Tis (2)",
+    "tanakhRef": "Zep 1",
+    "ntRef": "Luk 21",
+    "psalmsRef": [
+      "Psa 119:41-48"
+    ],
+    "proverbsRef": "Pro 25:7-12"
+  },
+  {
+    "idx": 136,
+    "dateLabel": "SAT May 16",
+    "isoDate": "2026-05-16",
+    "dayOfWeek": "SAT",
+    "month": "May",
+    "day": 16,
+    "torahRef": "Exo 30:22-33",
+    "torahName": "Exo Ki Tis (3)",
+    "tanakhRef": "Zep 2–3",
+    "ntRef": "Luk 22",
+    "psalmsRef": [
+      "Psa 119:49-56"
+    ],
+    "proverbsRef": "Pro 25:13-18"
+  },
+  {
+    "idx": 137,
+    "dateLabel": "SUN May 17",
+    "isoDate": "2026-05-17",
+    "dayOfWeek": "SUN",
+    "month": "May",
+    "day": 17,
+    "torahRef": "Exo 30:34-38",
+    "torahName": "Exo Ki Tis (4)",
+    "tanakhRef": "Hag 1",
+    "ntRef": "Luk 23",
+    "psalmsRef": [
+      "Psa 119:57-64"
+    ],
+    "proverbsRef": "Pro 25:19-24"
+  },
+  {
+    "idx": 138,
+    "dateLabel": "MON May 18",
+    "isoDate": "2026-05-18",
+    "dayOfWeek": "MON",
+    "month": "May",
+    "day": 18,
+    "torahRef": "Exo 31:1-11",
+    "torahName": "Exo Ki Tis (5)",
+    "tanakhRef": "Hag 2",
+    "ntRef": "Luk 24",
+    "psalmsRef": [
+      "Psa 119:65-72"
+    ],
+    "proverbsRef": "Pro 25:25-28"
+  },
+  {
+    "idx": 139,
+    "dateLabel": "TUE May 19",
+    "isoDate": "2026-05-19",
+    "dayOfWeek": "TUE",
+    "month": "May",
+    "day": 19,
+    "torahRef": "Exo 31:12-17",
+    "torahName": "Exo Ki Tis (6)",
+    "tanakhRef": "Zec 1–6",
+    "ntRef": "Act 1",
+    "psalmsRef": [
+      "Psa 119:73-80"
+    ],
+    "proverbsRef": "Pro 26:1-6"
+  },
+  {
+    "idx": 140,
+    "dateLabel": "WED May 20",
+    "isoDate": "2026-05-20",
+    "dayOfWeek": "WED",
+    "month": "May",
+    "day": 20,
+    "torahRef": "Exo 32:1-6",
+    "torahName": "Exo Ki Tis (7)",
+    "tanakhRef": "Zec 7–8",
+    "ntRef": "Act 2",
+    "psalmsRef": [
+      "Psa 119:81-88"
+    ],
+    "proverbsRef": "Pro 26:7-12"
+  },
+  {
+    "idx": 141,
+    "dateLabel": "THU May 21",
+    "isoDate": "2026-05-21",
+    "dayOfWeek": "THU",
+    "month": "May",
+    "day": 21,
+    "torahRef": "Exo 35:1-19",
+    "torahName": "Exo Vayak (1)",
+    "tanakhRef": "Zec 9–11",
+    "ntRef": "Act 3",
+    "psalmsRef": [
+      "Psa 119:89-96"
+    ],
+    "proverbsRef": "Pro 26:13-18"
+  },
+  {
+    "idx": 142,
+    "dateLabel": "FRI May 22",
+    "isoDate": "2026-05-22",
+    "dayOfWeek": "FRI",
+    "month": "May",
+    "day": 22,
+    "torahRef": "Exo 35:20-29",
+    "torahName": "Exo Vayak (2)",
+    "tanakhRef": "Zec 12–14",
+    "ntRef": "Act 4",
+    "psalmsRef": [
+      "Psa 119:97-104"
+    ],
+    "proverbsRef": "Pro 26:19-24"
+  },
+  {
+    "idx": 143,
+    "dateLabel": "SAT May 23",
+    "isoDate": "2026-05-23",
+    "dayOfWeek": "SAT",
+    "month": "May",
+    "day": 23,
+    "torahRef": "Exo 35:30-36:7",
+    "torahName": "Exo Vayak (3)",
+    "tanakhRef": "Mal 1–2",
+    "ntRef": "Act 5",
+    "psalmsRef": [
+      "Psa 119:105-112"
+    ],
+    "proverbsRef": "Pro 26:25-28"
+  },
+  {
+    "idx": 144,
+    "dateLabel": "SUN May 24",
+    "isoDate": "2026-05-24",
+    "dayOfWeek": "SUN",
+    "month": "May",
+    "day": 24,
+    "torahRef": "Exo 36:8-19",
+    "torahName": "Exo Vayak (4)",
+    "tanakhRef": "Mal 3–4",
+    "ntRef": "Act 6",
+    "psalmsRef": [
+      "Psa 119:113-120"
+    ],
+    "proverbsRef": "Pro 27:1-6"
+  },
+  {
+    "idx": 145,
+    "dateLabel": "MON May 25",
+    "isoDate": "2026-05-25",
+    "dayOfWeek": "MON",
+    "month": "May",
+    "day": 25,
+    "torahRef": "Exo 36:20-38:31",
+    "torahName": "Exo Vayak (5)",
+    "tanakhRef": "Job 1–2",
+    "ntRef": "Act 7",
+    "psalmsRef": [
+      "Psa 119:121-128"
+    ],
+    "proverbsRef": "Pro 27:7-12"
+  },
+  {
+    "idx": 146,
+    "dateLabel": "TUE May 26",
+    "isoDate": "2026-05-26",
+    "dayOfWeek": "TUE",
+    "month": "May",
+    "day": 26,
+    "torahRef": "Exo 39:1-21",
+    "torahName": "Exo Vayak (6)",
+    "tanakhRef": "Job 3–5",
+    "ntRef": "Act 8",
+    "psalmsRef": [
+      "Psa 119:129-136"
+    ],
+    "proverbsRef": "Pro 27:13-18"
+  },
+  {
+    "idx": 147,
+    "dateLabel": "WED May 27",
+    "isoDate": "2026-05-27",
+    "dayOfWeek": "WED",
+    "month": "May",
+    "day": 27,
+    "torahRef": "Exo 39:22-43",
+    "torahName": "Exo Vayak (7)",
+    "tanakhRef": "Job 6–7",
+    "ntRef": "Act 9",
+    "psalmsRef": [
+      "Psa 119:137-144"
+    ],
+    "proverbsRef": "Pro 27:19-23"
+  },
+  {
+    "idx": 148,
+    "dateLabel": "THU May 28",
+    "isoDate": "2026-05-28",
+    "dayOfWeek": "THU",
+    "month": "May",
+    "day": 28,
+    "torahRef": "Exo 40:1-16",
+    "torahName": "Exo Pekud (1)",
+    "tanakhRef": "Job 8–10",
+    "ntRef": "Act 10",
+    "psalmsRef": [
+      "Psa 119:145-152"
+    ],
+    "proverbsRef": "Pro 27:24-27"
+  },
+  {
+    "idx": 149,
+    "dateLabel": "FRI May 29",
+    "isoDate": "2026-05-29",
+    "dayOfWeek": "FRI",
+    "month": "May",
+    "day": 29,
+    "torahRef": "Exo 40:17-27",
+    "torahName": "Exo Pekud (2)",
+    "tanakhRef": "Job 11–14",
+    "ntRef": "Act 11",
+    "psalmsRef": [
+      "Psa 119:153-160"
+    ],
+    "proverbsRef": "Pro 28:1-6"
+  },
+  {
+    "idx": 150,
+    "dateLabel": "SAT May 30",
+    "isoDate": "2026-05-30",
+    "dayOfWeek": "SAT",
+    "month": "May",
+    "day": 30,
+    "torahRef": "Exo 40:28-38",
+    "torahName": "Exo Pekud (3)",
+    "tanakhRef": "Job 15–17",
+    "ntRef": "Act 12",
+    "psalmsRef": [
+      "Psa 119:161-168"
+    ],
+    "proverbsRef": "Pro 28:7-12"
+  },
+  {
+    "idx": 151,
+    "dateLabel": "SUN May 31",
+    "isoDate": "2026-05-31",
+    "dayOfWeek": "SUN",
+    "month": "May",
+    "day": 31,
+    "torahRef": "Exo 39:33-43",
+    "torahName": "Exo Pekud (4)",
+    "tanakhRef": "Job 18–21",
+    "ntRef": "Act 13",
+    "psalmsRef": [
+      "Psa 119:169-176"
+    ],
+    "proverbsRef": "Pro 28:13-18"
+  },
+  {
+    "idx": 152,
+    "dateLabel": "MON Jun 1",
+    "isoDate": "2026-06-01",
+    "dayOfWeek": "MON",
+    "month": "Jun",
+    "day": 1,
+    "torahRef": "Exo 40:34-38",
+    "torahName": "Exo Pekud (5)",
+    "tanakhRef": "Job 22–24",
+    "ntRef": "Act 14",
+    "psalmsRef": [
+      "Psa 120"
+    ],
+    "proverbsRef": "Pro 28:19-24"
+  },
+  {
+    "idx": 153,
+    "dateLabel": "TUE Jun 2",
+    "isoDate": "2026-06-02",
+    "dayOfWeek": "TUE",
+    "month": "Jun",
+    "day": 2,
+    "torahRef": "Exo 40:28-33",
+    "torahName": "Exo Pekud (6)",
+    "tanakhRef": "Job 25–27",
+    "ntRef": "Act 15",
+    "psalmsRef": [
+      "Psa 121"
+    ],
+    "proverbsRef": "Pro 28:25-28"
+  },
+  {
+    "idx": 154,
+    "dateLabel": "WED Jun 3",
+    "isoDate": "2026-06-03",
+    "dayOfWeek": "WED",
+    "month": "Jun",
+    "day": 3,
+    "torahRef": "Exo 40:34-38",
+    "torahName": "Exo Pekud (7)",
+    "tanakhRef": "Job 28",
+    "ntRef": "Act 16",
+    "psalmsRef": [
+      "Psa 122"
+    ],
+    "proverbsRef": "Pro 29:1-6"
+  },
+  {
+    "idx": 155,
+    "dateLabel": "THU Jun 4",
+    "isoDate": "2026-06-04",
+    "dayOfWeek": "THU",
+    "month": "Jun",
+    "day": 4,
+    "torahRef": "Lev 1:1-13",
+    "torahName": "Lev Vayik (1)",
+    "tanakhRef": "Job 29–31",
+    "ntRef": "Act 17",
+    "psalmsRef": [
+      "Psa 123"
+    ],
+    "proverbsRef": "Pro 29:7-12"
+  },
+  {
+    "idx": 156,
+    "dateLabel": "FRI Jun 5",
+    "isoDate": "2026-06-05",
+    "dayOfWeek": "FRI",
+    "month": "Jun",
+    "day": 5,
+    "torahRef": "Lev 1:14-2:6",
+    "torahName": "Lev Vayik (2)",
+    "tanakhRef": "Job 32–34",
+    "ntRef": "Act 18",
+    "psalmsRef": [
+      "Psa 124"
+    ],
+    "proverbsRef": "Pro 29:13-18"
+  },
+  {
+    "idx": 157,
+    "dateLabel": "SAT Jun 6",
+    "isoDate": "2026-06-06",
+    "dayOfWeek": "SAT",
+    "month": "Jun",
+    "day": 6,
+    "torahRef": "Lev 2:7-16",
+    "torahName": "Lev Vayik (3)",
+    "tanakhRef": "Job 35–37",
+    "ntRef": "Act 19",
+    "psalmsRef": [
+      "Psa 125"
+    ],
+    "proverbsRef": "Pro 29:19-23"
+  },
+  {
+    "idx": 158,
+    "dateLabel": "SUN Jun 7",
+    "isoDate": "2026-06-07",
+    "dayOfWeek": "SUN",
+    "month": "Jun",
+    "day": 7,
+    "torahRef": "Lev 3:1-17",
+    "torahName": "Lev Vayik (4)",
+    "tanakhRef": "Job 38–41",
+    "ntRef": "Act 20",
+    "psalmsRef": [
+      "Psa 126"
+    ],
+    "proverbsRef": "Pro 29:24-27"
+  },
+  {
+    "idx": 159,
+    "dateLabel": "MON Jun 8",
+    "isoDate": "2026-06-08",
+    "dayOfWeek": "MON",
+    "month": "Jun",
+    "day": 8,
+    "torahRef": "Lev 4:1-26",
+    "torahName": "Lev Vayik (5)",
+    "tanakhRef": "Job 42",
+    "ntRef": "Act 21",
+    "psalmsRef": [
+      "Psa 127"
+    ],
+    "proverbsRef": "Pro 30:1-6"
+  },
+  {
+    "idx": 160,
+    "dateLabel": "TUE Jun 9",
+    "isoDate": "2026-06-09",
+    "dayOfWeek": "TUE",
+    "month": "Jun",
+    "day": 9,
+    "torahRef": "Lev 4:27-5:10",
+    "torahName": "Lev Vayik (6)",
+    "tanakhRef": "Rut 1–2",
+    "ntRef": "Act 22",
+    "psalmsRef": [
+      "Psa 128"
+    ],
+    "proverbsRef": "Pro 30:7-12"
+  },
+  {
+    "idx": 161,
+    "dateLabel": "WED Jun 10",
+    "isoDate": "2026-06-10",
+    "dayOfWeek": "WED",
+    "month": "Jun",
+    "day": 10,
+    "torahRef": "Lev 5:11-6:7",
+    "torahName": "Lev Vayik (7)",
+    "tanakhRef": "Rut 3–4",
+    "ntRef": "Act 23",
+    "psalmsRef": [
+      "Psa 129"
+    ],
+    "proverbsRef": "Pro 30:13-18"
+  },
+  {
+    "idx": 162,
+    "dateLabel": "THU Jun 11",
+    "isoDate": "2026-06-11",
+    "dayOfWeek": "THU",
+    "month": "Jun",
+    "day": 11,
+    "torahRef": "Lev 6:1-11",
+    "torahName": "Lev Tzav (1)",
+    "tanakhRef": "Song 1–2",
+    "ntRef": "Act 24",
+    "psalmsRef": [
+      "Psa 130"
+    ],
+    "proverbsRef": "Pro 30:19-24"
+  },
+  {
+    "idx": 163,
+    "dateLabel": "FRI Jun 12",
+    "isoDate": "2026-06-12",
+    "dayOfWeek": "FRI",
+    "month": "Jun",
+    "day": 12,
+    "torahRef": "Lev 6:12-23",
+    "torahName": "Lev Tzav (2)",
+    "tanakhRef": "Song 3–4",
+    "ntRef": "Act 25",
+    "psalmsRef": [
+      "Psa 131"
+    ],
+    "proverbsRef": "Pro 30:25-29"
+  },
+  {
+    "idx": 164,
+    "dateLabel": "SAT Jun 13",
+    "isoDate": "2026-06-13",
+    "dayOfWeek": "SAT",
+    "month": "Jun",
+    "day": 13,
+    "torahRef": "Lev 6:24-7:10",
+    "torahName": "Lev Tzav (3)",
+    "tanakhRef": "Song 5–6",
+    "ntRef": "Act 26",
+    "psalmsRef": [
+      "Psa 132"
+    ],
+    "proverbsRef": "Pro 30:30-33"
+  },
+  {
+    "idx": 165,
+    "dateLabel": "SUN Jun 14",
+    "isoDate": "2026-06-14",
+    "dayOfWeek": "SUN",
+    "month": "Jun",
+    "day": 14,
+    "torahRef": "Lev 7:11-38",
+    "torahName": "Lev Tzav (4)",
+    "tanakhRef": "Song 7–8",
+    "ntRef": "Act 27",
+    "psalmsRef": [
+      "Psa 133"
+    ],
+    "proverbsRef": "Pro 31:1-6"
+  },
+  {
+    "idx": 166,
+    "dateLabel": "MON Jun 15",
+    "isoDate": "2026-06-15",
+    "dayOfWeek": "MON",
+    "month": "Jun",
+    "day": 15,
+    "torahRef": "Lev 8:1-13",
+    "torahName": "Lev Tzav (5)",
+    "tanakhRef": "Lam 1",
+    "ntRef": "Act 28",
+    "psalmsRef": [
+      "Psa 134"
+    ],
+    "proverbsRef": "Pro 31:7-12"
+  },
+  {
+    "idx": 167,
+    "dateLabel": "TUE Jun 16",
+    "isoDate": "2026-06-16",
+    "dayOfWeek": "TUE",
+    "month": "Jun",
+    "day": 16,
+    "torahRef": "Lev 8:14-21",
+    "torahName": "Lev Tzav (6)",
+    "tanakhRef": "Lam 2",
+    "ntRef": "Eph 1",
+    "psalmsRef": [
+      "Psa 135"
+    ],
+    "proverbsRef": "Pro 31:13-18"
+  },
+  {
+    "idx": 168,
+    "dateLabel": "WED Jun 17",
+    "isoDate": "2026-06-17",
+    "dayOfWeek": "WED",
+    "month": "Jun",
+    "day": 17,
+    "torahRef": "Lev 8:22-36",
+    "torahName": "Lev Tzav (7)",
+    "tanakhRef": "Lam 3",
+    "ntRef": "Eph 2",
+    "psalmsRef": [
+      "Psa 136"
+    ],
+    "proverbsRef": "Pro 31:19-23"
+  },
+  {
+    "idx": 169,
+    "dateLabel": "THU Jun 18",
+    "isoDate": "2026-06-18",
+    "dayOfWeek": "THU",
+    "month": "Jun",
+    "day": 18,
+    "torahRef": "Lev 9:1-16",
+    "torahName": "Lev Shemi (1)",
+    "tanakhRef": "Lam 4–5",
+    "ntRef": "Eph 3",
+    "psalmsRef": [
+      "Psa 137"
+    ],
+    "proverbsRef": "Pro 31:24-27"
+  },
+  {
+    "idx": 170,
+    "dateLabel": "FRI Jun 19",
+    "isoDate": "2026-06-19",
+    "dayOfWeek": "FRI",
+    "month": "Jun",
+    "day": 19,
+    "torahRef": "Lev 9:17-23",
+    "torahName": "Lev Shemi (2)",
+    "tanakhRef": "Ecc 1–3",
+    "ntRef": "Eph 4",
+    "psalmsRef": [
+      "Psa 138"
+    ],
+    "proverbsRef": "Pro 31:28-31"
+  },
+  {
+    "idx": 171,
+    "dateLabel": "SAT Jun 20",
+    "isoDate": "2026-06-20",
+    "dayOfWeek": "SAT",
+    "month": "Jun",
+    "day": 20,
+    "torahRef": "Lev 9:24-10:11",
+    "torahName": "Lev Shemi (3)",
+    "tanakhRef": "Ecc 4–6",
+    "ntRef": "Eph 5",
+    "psalmsRef": [
+      "Psa 139"
+    ],
+    "proverbsRef": "Pro 10:1-5"
+  },
+  {
+    "idx": 172,
+    "dateLabel": "SUN Jun 21",
+    "isoDate": "2026-06-21",
+    "dayOfWeek": "SUN",
+    "month": "Jun",
+    "day": 21,
+    "torahRef": "Lev 10:12-15",
+    "torahName": "Lev Shemi (4)",
+    "tanakhRef": "Ecc 7–8",
+    "ntRef": "Eph 6",
+    "psalmsRef": [
+      "Psa 140"
+    ],
+    "proverbsRef": "Pro 10:6-10"
+  },
+  {
+    "idx": 173,
+    "dateLabel": "MON Jun 22",
+    "isoDate": "2026-06-22",
+    "dayOfWeek": "MON",
+    "month": "Jun",
+    "day": 22,
+    "torahRef": "Lev 10:16-20",
+    "torahName": "Lev Shemi (5)",
+    "tanakhRef": "Ecc 9–10",
+    "ntRef": "Phil 1",
+    "psalmsRef": [
+      "Psa 141"
+    ],
+    "proverbsRef": "Pro 10:11-15"
+  },
+  {
+    "idx": 174,
+    "dateLabel": "TUE Jun 23",
+    "isoDate": "2026-06-23",
+    "dayOfWeek": "TUE",
+    "month": "Jun",
+    "day": 23,
+    "torahRef": "Lev 11:1-32",
+    "torahName": "Lev Shemi (6)",
+    "tanakhRef": "Ecc 11–12",
+    "ntRef": "Phil 2",
+    "psalmsRef": [
+      "Psa 142"
+    ],
+    "proverbsRef": "Pro 11:1-5"
+  },
+  {
+    "idx": 175,
+    "dateLabel": "WED Jun 24",
+    "isoDate": "2026-06-24",
+    "dayOfWeek": "WED",
+    "month": "Jun",
+    "day": 24,
+    "torahRef": "Lev 11:33-47",
+    "torahName": "Lev Shemi (7)",
+    "tanakhRef": "Est 1–2",
+    "ntRef": "Phil 3",
+    "psalmsRef": [
+      "Psa 143"
+    ],
+    "proverbsRef": "Pro 11:6-10"
+  },
+  {
+    "idx": 176,
+    "dateLabel": "THU Jun 25",
+    "isoDate": "2026-06-25",
+    "dayOfWeek": "THU",
+    "month": "Jun",
+    "day": 25,
+    "torahRef": "Lev 12:1-13:5",
+    "torahName": "Lev Tazri (1)",
+    "tanakhRef": "Est 3–4",
+    "ntRef": "Phil 4",
+    "psalmsRef": [
+      "Psa 144"
+    ],
+    "proverbsRef": "Pro 11:11-15"
+  },
+  {
+    "idx": 177,
+    "dateLabel": "FRI Jun 26",
+    "isoDate": "2026-06-26",
+    "dayOfWeek": "FRI",
+    "month": "Jun",
+    "day": 26,
+    "torahRef": "Lev 13:6-17",
+    "torahName": "Lev Tazri (2)",
+    "tanakhRef": "Est 5–7",
+    "ntRef": "Col 1",
+    "psalmsRef": [
+      "Psa 145"
+    ],
+    "proverbsRef": "Pro 12:1-5"
+  },
+  {
+    "idx": 178,
+    "dateLabel": "SAT Jun 27",
+    "isoDate": "2026-06-27",
+    "dayOfWeek": "SAT",
+    "month": "Jun",
+    "day": 27,
+    "torahRef": "Lev 13:18-28",
+    "torahName": "Lev Tazri (3)",
+    "tanakhRef": "Est 8–10",
+    "ntRef": "Col 2",
+    "psalmsRef": [
+      "Psa 146"
+    ],
+    "proverbsRef": "Pro 12:6-10"
+  },
+  {
+    "idx": 179,
+    "dateLabel": "SUN Jun 28",
+    "isoDate": "2026-06-28",
+    "dayOfWeek": "SUN",
+    "month": "Jun",
+    "day": 28,
+    "torahRef": "Lev 13:29-39",
+    "torahName": "Lev Tazri (4)",
+    "tanakhRef": "Dan 1–2",
+    "ntRef": "Col 3",
+    "psalmsRef": [
+      "Psa 147"
+    ],
+    "proverbsRef": "Pro 12:11-15"
+  },
+  {
+    "idx": 180,
+    "dateLabel": "MON Jun 29",
+    "isoDate": "2026-06-29",
+    "dayOfWeek": "MON",
+    "month": "Jun",
+    "day": 29,
+    "torahRef": "Lev 13:40-54",
+    "torahName": "Lev Tazri (5)",
+    "tanakhRef": "Dan 3",
+    "ntRef": "Col 4",
+    "psalmsRef": [
+      "Psa 148"
+    ],
+    "proverbsRef": "Pro 16:1-5"
+  },
+  {
+    "idx": 181,
+    "dateLabel": "TUE Jun 30",
+    "isoDate": "2026-06-30",
+    "dayOfWeek": "TUE",
+    "month": "Jun",
+    "day": 30,
+    "torahRef": "Lev 14:1-12",
+    "torahName": "Lev Tazri (6)",
+    "tanakhRef": "Dan 4",
+    "ntRef": "Phlm 1",
+    "psalmsRef": [
+      "Psa 149"
+    ],
+    "proverbsRef": "Pro 16:6-10"
+  },
+  {
+    "idx": 182,
+    "dateLabel": "WED Jul 1",
+    "isoDate": "2026-07-01",
+    "dayOfWeek": "WED",
+    "month": "Jul",
+    "day": 1,
+    "torahRef": "Lev 14:13-20",
+    "torahName": "Lev Tazri (7)",
+    "tanakhRef": "Dan 5",
+    "ntRef": "Mat 1",
+    "psalmsRef": [
+      "Psa 150"
+    ],
+    "proverbsRef": "Pro 16:11-15"
+  },
+  {
+    "idx": 183,
+    "dateLabel": "THU Jul 2",
+    "isoDate": "2026-07-02",
+    "dayOfWeek": "THU",
+    "month": "Jul",
+    "day": 2,
+    "torahRef": "Lev 14:21-32",
+    "torahName": "Lev Metz (1)",
+    "tanakhRef": "Dan 6",
+    "ntRef": "Mat 2",
+    "psalmsRef": [
+      "Psa 94"
+    ],
+    "proverbsRef": "Pro 22:1-5"
+  },
+  {
+    "idx": 184,
+    "dateLabel": "FRI Jul 3",
+    "isoDate": "2026-07-03",
+    "dayOfWeek": "FRI",
+    "month": "Jul",
+    "day": 3,
+    "torahRef": "Lev 14:33-53",
+    "torahName": "Lev Metz (2)",
+    "tanakhRef": "Dan 7",
+    "ntRef": "Mat 3",
+    "psalmsRef": [
+      "Psa 81"
+    ],
+    "proverbsRef": "Pro 22:6-10"
+  },
+  {
+    "idx": 185,
+    "dateLabel": "SAT Jul 4",
+    "isoDate": "2026-07-04",
+    "dayOfWeek": "SAT",
+    "month": "Jul",
+    "day": 4,
+    "torahRef": "Lev 14:54-57",
+    "torahName": "Lev Metz (3)",
+    "tanakhRef": "Dan 8",
+    "ntRef": "Mat 4",
+    "psalmsRef": [
+      "Psa 93"
+    ],
+    "proverbsRef": "Pro 25:1-5"
+  },
+  {
+    "idx": 186,
+    "dateLabel": "SUN Jul 5",
+    "isoDate": "2026-07-05",
+    "dayOfWeek": "SUN",
+    "month": "Jul",
+    "day": 5,
+    "torahRef": "Lev 15:1-15",
+    "torahName": "Lev Metz (4)",
+    "tanakhRef": "Dan 9",
+    "ntRef": "Mat 5",
+    "psalmsRef": [
+      "Psa 92"
+    ],
+    "proverbsRef": "Pro 25:6-10"
+  },
+  {
+    "idx": 187,
+    "dateLabel": "MON Jul 6",
+    "isoDate": "2026-07-06",
+    "dayOfWeek": "MON",
+    "month": "Jul",
+    "day": 6,
+    "torahRef": "Lev 15:16-28",
+    "torahName": "Lev Metz (5)",
+    "tanakhRef": "Dan 10–12",
+    "ntRef": "Mat 6",
+    "psalmsRef": [
+      "Psa 23"
+    ],
+    "proverbsRef": "Pro 30:1-6"
+  },
+  {
+    "idx": 188,
+    "dateLabel": "TUE Jul 7",
+    "isoDate": "2026-07-07",
+    "dayOfWeek": "TUE",
+    "month": "Jul",
+    "day": 7,
+    "torahRef": "Lev 15:29-33",
+    "torahName": "Lev Metz (6)",
+    "tanakhRef": "Ezr 1–3",
+    "ntRef": "Mat 7",
+    "psalmsRef": [
+      "Psa 145"
+    ],
+    "proverbsRef": "Pro 31:10-15"
+  },
+  {
+    "idx": 189,
+    "dateLabel": "WED Jul 8",
+    "isoDate": "2026-07-08",
+    "dayOfWeek": "WED",
+    "month": "Jul",
+    "day": 8,
+    "torahRef": "Lev 16:1-17",
+    "torahName": "Lev Metz (7)",
+    "tanakhRef": "Ezr 4–6",
+    "ntRef": "Mat 8",
+    "psalmsRef": [
+      "Psa 67"
+    ],
+    "proverbsRef": "Pro 31:16-20"
+  },
+  {
+    "idx": 190,
+    "dateLabel": "THU Jul 9",
+    "isoDate": "2026-07-09",
+    "dayOfWeek": "THU",
+    "month": "Jul",
+    "day": 9,
+    "torahRef": "Lev 16:18-24",
+    "torahName": "Lev Achre (1)",
+    "tanakhRef": "Ezr 7–10",
+    "ntRef": "Mat 9",
+    "psalmsRef": [
+      "Psa 1"
+    ],
+    "proverbsRef": "Pro 1:1-6"
+  },
+  {
+    "idx": 191,
+    "dateLabel": "FRI Jul 10",
+    "isoDate": "2026-07-10",
+    "dayOfWeek": "FRI",
+    "month": "Jul",
+    "day": 10,
+    "torahRef": "Lev 16:25-34",
+    "torahName": "Lev Achre (2)",
+    "tanakhRef": "Neh 1–3",
+    "ntRef": "Mat 10",
+    "psalmsRef": [
+      "Psa 2"
+    ],
+    "proverbsRef": "Pro 1:7-12"
+  },
+  {
+    "idx": 192,
+    "dateLabel": "SAT Jul 11",
+    "isoDate": "2026-07-11",
+    "dayOfWeek": "SAT",
+    "month": "Jul",
+    "day": 11,
+    "torahRef": "Lev 17:1-7",
+    "torahName": "Lev Achre (3)",
+    "tanakhRef": "Neh 4–6",
+    "ntRef": "Mat 11",
+    "psalmsRef": [
+      "Psa 3"
+    ],
+    "proverbsRef": "Pro 1:13-18"
+  },
+  {
+    "idx": 193,
+    "dateLabel": "SUN Jul 12",
+    "isoDate": "2026-07-12",
+    "dayOfWeek": "SUN",
+    "month": "Jul",
+    "day": 12,
+    "torahRef": "Lev 17:8-16",
+    "torahName": "Lev Achre (4)",
+    "tanakhRef": "Neh 7",
+    "ntRef": "Mat 12",
+    "psalmsRef": [
+      "Psa 4"
+    ],
+    "proverbsRef": "Pro 1:19-24"
+  },
+  {
+    "idx": 194,
+    "dateLabel": "MON Jul 13",
+    "isoDate": "2026-07-13",
+    "dayOfWeek": "MON",
+    "month": "Jul",
+    "day": 13,
+    "torahRef": "Lev 18:1-5",
+    "torahName": "Lev Achre (5)",
+    "tanakhRef": "Neh 8–10",
+    "ntRef": "Mat 13",
+    "psalmsRef": [
+      "Psa 5"
+    ],
+    "proverbsRef": "Pro 1:25-29"
+  },
+  {
+    "idx": 195,
+    "dateLabel": "TUE Jul 14",
+    "isoDate": "2026-07-14",
+    "dayOfWeek": "TUE",
+    "month": "Jul",
+    "day": 14,
+    "torahRef": "Lev 18:6-21",
+    "torahName": "Lev Achre (6)",
+    "tanakhRef": "Neh 11–13",
+    "ntRef": "Mat 14",
+    "psalmsRef": [
+      "Psa 6"
+    ],
+    "proverbsRef": "Pro 1:30-33"
+  },
+  {
+    "idx": 196,
+    "dateLabel": "WED Jul 15",
+    "isoDate": "2026-07-15",
+    "dayOfWeek": "WED",
+    "month": "Jul",
+    "day": 15,
+    "torahRef": "Lev 18:22-30",
+    "torahName": "Lev Achre (7)",
+    "tanakhRef": "1 Chr 1–9",
+    "ntRef": "Mat 15",
+    "psalmsRef": [
+      "Psa 7"
+    ],
+    "proverbsRef": "Pro 2:1-6"
+  },
+  {
+    "idx": 197,
+    "dateLabel": "THU Jul 16",
+    "isoDate": "2026-07-16",
+    "dayOfWeek": "THU",
+    "month": "Jul",
+    "day": 16,
+    "torahRef": "Lev 19:1-14",
+    "torahName": "Lev Kedos (1)",
+    "tanakhRef": "1 Chr 10–12",
+    "ntRef": "Mat 16",
+    "psalmsRef": [
+      "Psa 8"
+    ],
+    "proverbsRef": "Pro 2:7-12"
+  },
+  {
+    "idx": 198,
+    "dateLabel": "FRI Jul 17",
+    "isoDate": "2026-07-17",
+    "dayOfWeek": "FRI",
+    "month": "Jul",
+    "day": 17,
+    "torahRef": "Lev 19:15-22",
+    "torahName": "Lev Kedos (2)",
+    "tanakhRef": "1 Chr 13–16",
+    "ntRef": "Mat 17",
+    "psalmsRef": [
+      "Psa 9"
+    ],
+    "proverbsRef": "Pro 2:13-18"
+  },
+  {
+    "idx": 199,
+    "dateLabel": "SAT Jul 18",
+    "isoDate": "2026-07-18",
+    "dayOfWeek": "SAT",
+    "month": "Jul",
+    "day": 18,
+    "torahRef": "Lev 19:23-32",
+    "torahName": "Lev Kedos (3)",
+    "tanakhRef": "1 Chr 17–21",
+    "ntRef": "Mat 18",
+    "psalmsRef": [
+      "Psa 10"
+    ],
+    "proverbsRef": "Pro 2:19-22"
+  },
+  {
+    "idx": 200,
+    "dateLabel": "SUN Jul 19",
+    "isoDate": "2026-07-19",
+    "dayOfWeek": "SUN",
+    "month": "Jul",
+    "day": 19,
+    "torahRef": "Lev 19:33-37",
+    "torahName": "Lev Kedos (4)",
+    "tanakhRef": "1 Chr 22–26",
+    "ntRef": "Mat 19",
+    "psalmsRef": [
+      "Psa 11"
+    ],
+    "proverbsRef": "Pro 3:1-6"
+  },
+  {
+    "idx": 201,
+    "dateLabel": "MON Jul 20",
+    "isoDate": "2026-07-20",
+    "dayOfWeek": "MON",
+    "month": "Jul",
+    "day": 20,
+    "torahRef": "Lev 20:1-7",
+    "torahName": "Lev Kedos (5)",
+    "tanakhRef": "1 Chr 27–29",
+    "ntRef": "Mat 20",
+    "psalmsRef": [
+      "Psa 12"
+    ],
+    "proverbsRef": "Pro 3:7-11"
+  },
+  {
+    "idx": 202,
+    "dateLabel": "TUE Jul 21",
+    "isoDate": "2026-07-21",
+    "dayOfWeek": "TUE",
+    "month": "Jul",
+    "day": 21,
+    "torahRef": "Lev 20:8-22",
+    "torahName": "Lev Kedos (6)",
+    "tanakhRef": "2 Chr 1–4",
+    "ntRef": "Mat 21",
+    "psalmsRef": [
+      "Psa 13"
+    ],
+    "proverbsRef": "Pro 3:12-15"
+  },
+  {
+    "idx": 203,
+    "dateLabel": "WED Jul 22",
+    "isoDate": "2026-07-22",
+    "dayOfWeek": "WED",
+    "month": "Jul",
+    "day": 22,
+    "torahRef": "Lev 20:23-27",
+    "torahName": "Lev Kedos (7)",
+    "tanakhRef": "2 Chr 5–7",
+    "ntRef": "Mat 22",
+    "psalmsRef": [
+      "Psa 14"
+    ],
+    "proverbsRef": "Pro 3:16-19"
+  },
+  {
+    "idx": 204,
+    "dateLabel": "THU Jul 23",
+    "isoDate": "2026-07-23",
+    "dayOfWeek": "THU",
+    "month": "Jul",
+    "day": 23,
+    "torahRef": "Lev 21:1-15",
+    "torahName": "Lev Emor (1)",
+    "tanakhRef": "2 Chr 8–9",
+    "ntRef": "Mat 23",
+    "psalmsRef": [
+      "Psa 15"
+    ],
+    "proverbsRef": "Pro 3:20-23"
+  },
+  {
+    "idx": 205,
+    "dateLabel": "FRI Jul 24",
+    "isoDate": "2026-07-24",
+    "dayOfWeek": "FRI",
+    "month": "Jul",
+    "day": 24,
+    "torahRef": "Lev 21:16-24",
+    "torahName": "Lev Emor (2)",
+    "tanakhRef": "2 Chr 10–12",
+    "ntRef": "Mat 24",
+    "psalmsRef": [
+      "Psa 16"
+    ],
+    "proverbsRef": "Pro 3:24-27"
+  },
+  {
+    "idx": 206,
+    "dateLabel": "SAT Jul 25",
+    "isoDate": "2026-07-25",
+    "dayOfWeek": "SAT",
+    "month": "Jul",
+    "day": 25,
+    "torahRef": "Lev 22:1-16",
+    "torahName": "Lev Emor (3)",
+    "tanakhRef": "2 Chr 13–16",
+    "ntRef": "Mat 25",
+    "psalmsRef": [
+      "Psa 17"
+    ],
+    "proverbsRef": "Pro 3:28-31"
+  },
+  {
+    "idx": 207,
+    "dateLabel": "SUN Jul 26",
+    "isoDate": "2026-07-26",
+    "dayOfWeek": "SUN",
+    "month": "Jul",
+    "day": 26,
+    "torahRef": "Lev 22:17-33",
+    "torahName": "Lev Emor (4)",
+    "tanakhRef": "2 Chr 17–20",
+    "ntRef": "Mat 26",
+    "psalmsRef": [
+      "Psa 18"
+    ],
+    "proverbsRef": "Pro 3:32-35"
+  },
+  {
+    "idx": 208,
+    "dateLabel": "MON Jul 27",
+    "isoDate": "2026-07-27",
+    "dayOfWeek": "MON",
+    "month": "Jul",
+    "day": 27,
+    "torahRef": "Lev 23:1-22",
+    "torahName": "Lev Emor (5)",
+    "tanakhRef": "2 Chr 21–24",
+    "ntRef": "Mat 27",
+    "psalmsRef": [
+      "Psa 19"
+    ],
+    "proverbsRef": "Pro 4:1-6"
+  },
+  {
+    "idx": 209,
+    "dateLabel": "TUE Jul 28",
+    "isoDate": "2026-07-28",
+    "dayOfWeek": "TUE",
+    "month": "Jul",
+    "day": 28,
+    "torahRef": "Lev 23:23-32",
+    "torahName": "Lev Emor (6)",
+    "tanakhRef": "2 Chr 25–28",
+    "ntRef": "Mat 28",
+    "psalmsRef": [
+      "Psa 20"
+    ],
+    "proverbsRef": "Pro 4:7-12"
+  },
+  {
+    "idx": 210,
+    "dateLabel": "WED Jul 29",
+    "isoDate": "2026-07-29",
+    "dayOfWeek": "WED",
+    "month": "Jul",
+    "day": 29,
+    "torahRef": "Lev 23:33-44",
+    "torahName": "Lev Emor (7)",
+    "tanakhRef": "2 Chr 29–31",
+    "ntRef": "2 Cor 1:1-11",
+    "psalmsRef": [
+      "Psa 21"
+    ],
+    "proverbsRef": "Pro 4:13-18"
+  },
+  {
+    "idx": 211,
+    "dateLabel": "THU Jul 30",
+    "isoDate": "2026-07-30",
+    "dayOfWeek": "THU",
+    "month": "Jul",
+    "day": 30,
+    "torahRef": "Lev 25:1-13",
+    "torahName": "Lev Behar (1)",
+    "tanakhRef": "2 Chr 32–33",
+    "ntRef": "2 Cor 1:12-24",
+    "psalmsRef": [
+      "Psa 22"
+    ],
+    "proverbsRef": "Pro 4:19-23"
+  },
+  {
+    "idx": 212,
+    "dateLabel": "FRI Jul 31",
+    "isoDate": "2026-07-31",
+    "dayOfWeek": "FRI",
+    "month": "Jul",
+    "day": 31,
+    "torahRef": "Lev 25:14-18",
+    "torahName": "Lev Behar (2)",
+    "tanakhRef": "2 Chr 34–35",
+    "ntRef": "2 Cor 2:1-11",
+    "psalmsRef": [
+      "Psa 23"
+    ],
+    "proverbsRef": "Pro 4:24-27"
+  },
+  {
+    "idx": 213,
+    "dateLabel": "SAT Aug 1",
+    "isoDate": "2026-08-01",
+    "dayOfWeek": "SAT",
+    "month": "Aug",
+    "day": 1,
+    "torahRef": "Lev 25:19-24",
+    "torahName": "Lev Behar (3)",
+    "tanakhRef": "2 Chr 36",
+    "ntRef": "2 Cor 2:12-17",
+    "psalmsRef": [
+      "Psa 24"
+    ],
+    "proverbsRef": "Pro 5:1-6"
+  },
+  {
+    "idx": 214,
+    "dateLabel": "SUN Aug 2",
+    "isoDate": "2026-08-02",
+    "dayOfWeek": "SUN",
+    "month": "Aug",
+    "day": 2,
+    "torahRef": "Lev 25:25-38",
+    "torahName": "Lev Behar (4)",
+    "tanakhRef": "Jos 1–2",
+    "ntRef": "2 Cor 3:1-6",
+    "psalmsRef": [
+      "Psa 25"
+    ],
+    "proverbsRef": "Pro 5:7-12"
+  },
+  {
+    "idx": 215,
+    "dateLabel": "MON Aug 3",
+    "isoDate": "2026-08-03",
+    "dayOfWeek": "MON",
+    "month": "Aug",
+    "day": 3,
+    "torahRef": "Lev 25:39-46",
+    "torahName": "Lev Behar (5)",
+    "tanakhRef": "Jos 3–4",
+    "ntRef": "2 Cor 3:7-18",
+    "psalmsRef": [
+      "Psa 26"
+    ],
+    "proverbsRef": "Pro 5:13-18"
+  },
+  {
+    "idx": 216,
+    "dateLabel": "TUE Aug 4",
+    "isoDate": "2026-08-04",
+    "dayOfWeek": "TUE",
+    "month": "Aug",
+    "day": 4,
+    "torahRef": "Lev 25:47-54",
+    "torahName": "Lev Behar (6)",
+    "tanakhRef": "Jos 5–6",
+    "ntRef": "2 Cor 4:1-6",
+    "psalmsRef": [
+      "Psa 27"
+    ],
+    "proverbsRef": "Pro 5:19-23"
+  },
+  {
+    "idx": 217,
+    "dateLabel": "WED Aug 5",
+    "isoDate": "2026-08-05",
+    "dayOfWeek": "WED",
+    "month": "Aug",
+    "day": 5,
+    "torahRef": "Lev 26:1-2",
+    "torahName": "Lev Behar (7)",
+    "tanakhRef": "Jos 7–8",
+    "ntRef": "2 Cor 4:7-18",
+    "psalmsRef": [
+      "Psa 28"
+    ],
+    "proverbsRef": "Pro 6:1-6"
+  },
+  {
+    "idx": 218,
+    "dateLabel": "THU Aug 6",
+    "isoDate": "2026-08-06",
+    "dayOfWeek": "THU",
+    "month": "Aug",
+    "day": 6,
+    "torahRef": "Lev 26:3-13",
+    "torahName": "Lev Bech (1)",
+    "tanakhRef": "Jos 9–10",
+    "ntRef": "2 Cor 5:1-10",
+    "psalmsRef": [
+      "Psa 29"
+    ],
+    "proverbsRef": "Pro 6:7-12"
+  },
+  {
+    "idx": 219,
+    "dateLabel": "FRI Aug 7",
+    "isoDate": "2026-08-07",
+    "dayOfWeek": "FRI",
+    "month": "Aug",
+    "day": 7,
+    "torahRef": "Lev 26:14-17",
+    "torahName": "Lev Bech (2)",
+    "tanakhRef": "Jos 11–12",
+    "ntRef": "2 Cor 5:11-21",
+    "psalmsRef": [
+      "Psa 30"
+    ],
+    "proverbsRef": "Pro 6:13-18"
+  },
+  {
+    "idx": 220,
+    "dateLabel": "SAT Aug 8",
+    "isoDate": "2026-08-08",
+    "dayOfWeek": "SAT",
+    "month": "Aug",
+    "day": 8,
+    "torahRef": "Lev 26:18-22",
+    "torahName": "Lev Bech (3)",
+    "tanakhRef": "Jos 13–14",
+    "ntRef": "2 Cor 6:1-10",
+    "psalmsRef": [
+      "Psa 31"
+    ],
+    "proverbsRef": "Pro 6:19-23"
+  },
+  {
+    "idx": 221,
+    "dateLabel": "SUN Aug 9",
+    "isoDate": "2026-08-09",
+    "dayOfWeek": "SUN",
+    "month": "Aug",
+    "day": 9,
+    "torahRef": "Lev 26:23-26",
+    "torahName": "Lev Bech (4)",
+    "tanakhRef": "Jos 15–17",
+    "ntRef": "2 Cor 6:11-7:1",
+    "psalmsRef": [
+      "Psa 32"
+    ],
+    "proverbsRef": "Pro 6:24-27"
+  },
+  {
+    "idx": 222,
+    "dateLabel": "MON Aug 10",
+    "isoDate": "2026-08-10",
+    "dayOfWeek": "MON",
+    "month": "Aug",
+    "day": 10,
+    "torahRef": "Lev 26:27-33",
+    "torahName": "Lev Bech (5)",
+    "tanakhRef": "Jos 18–19",
+    "ntRef": "2 Cor 7:2-16",
+    "psalmsRef": [
+      "Psa 33"
+    ],
+    "proverbsRef": "Pro 6:28-31"
+  },
+  {
+    "idx": 223,
+    "dateLabel": "TUE Aug 11",
+    "isoDate": "2026-08-11",
+    "dayOfWeek": "TUE",
+    "month": "Aug",
+    "day": 11,
+    "torahRef": "Lev 26:34-46",
+    "torahName": "Lev Bech (6)",
+    "tanakhRef": "Jos 20–21",
+    "ntRef": "2 Cor 8:1-15",
+    "psalmsRef": [
+      "Psa 34"
+    ],
+    "proverbsRef": "Pro 6:32-35"
+  },
+  {
+    "idx": 224,
+    "dateLabel": "WED Aug 12",
+    "isoDate": "2026-08-12",
+    "dayOfWeek": "WED",
+    "month": "Aug",
+    "day": 12,
+    "torahRef": "Lev 27:1-34",
+    "torahName": "Lev Bech (7)",
+    "tanakhRef": "Jos 22–24",
+    "ntRef": "2 Cor 8:16-24",
+    "psalmsRef": [
+      "Psa 35"
+    ],
+    "proverbsRef": "Pro 7:1-6"
+  },
+  {
+    "idx": 225,
+    "dateLabel": "THU Aug 13",
+    "isoDate": "2026-08-13",
+    "dayOfWeek": "THU",
+    "month": "Aug",
+    "day": 13,
+    "torahRef": "Num 1:1-19",
+    "torahName": "Num Bamid (1)",
+    "tanakhRef": "Jdg 1–2",
+    "ntRef": "2 Cor 9:1-15",
+    "psalmsRef": [
+      "Psa 36"
+    ],
+    "proverbsRef": "Pro 7:7-12"
+  },
+  {
+    "idx": 226,
+    "dateLabel": "FRI Aug 14",
+    "isoDate": "2026-08-14",
+    "dayOfWeek": "FRI",
+    "month": "Aug",
+    "day": 14,
+    "torahRef": "Num 1:20-54",
+    "torahName": "Num Bamid (2)",
+    "tanakhRef": "Jdg 3–5",
+    "ntRef": "2 Cor 10:1-11",
+    "psalmsRef": [
+      "Psa 37"
+    ],
+    "proverbsRef": "Pro 7:13-18"
+  },
+  {
+    "idx": 227,
+    "dateLabel": "SAT Aug 15",
+    "isoDate": "2026-08-15",
+    "dayOfWeek": "SAT",
+    "month": "Aug",
+    "day": 15,
+    "torahRef": "Num 2:1-34",
+    "torahName": "Num Bamid (3)",
+    "tanakhRef": "Jdg 6–7",
+    "ntRef": "2 Cor 10:12-18",
+    "psalmsRef": [
+      "Psa 38"
+    ],
+    "proverbsRef": "Pro 7:19-23"
+  },
+  {
+    "idx": 228,
+    "dateLabel": "SUN Aug 16",
+    "isoDate": "2026-08-16",
+    "dayOfWeek": "SUN",
+    "month": "Aug",
+    "day": 16,
+    "torahRef": "Num 3:1-13",
+    "torahName": "Num Bamid (4)",
+    "tanakhRef": "Jdg 8",
+    "ntRef": "2 Cor 11:1-15",
+    "psalmsRef": [
+      "Psa 39"
+    ],
+    "proverbsRef": "Pro 7:24-27"
+  },
+  {
+    "idx": 229,
+    "dateLabel": "MON Aug 17",
+    "isoDate": "2026-08-17",
+    "dayOfWeek": "MON",
+    "month": "Aug",
+    "day": 17,
+    "torahRef": "Num 3:14-39",
+    "torahName": "Num Bamid (5)",
+    "tanakhRef": "Jdg 9",
+    "ntRef": "2 Cor 11:16-33",
+    "psalmsRef": [
+      "Psa 40"
+    ],
+    "proverbsRef": "Pro 8:1-4"
+  },
+  {
+    "idx": 230,
+    "dateLabel": "TUE Aug 18",
+    "isoDate": "2026-08-18",
+    "dayOfWeek": "TUE",
+    "month": "Aug",
+    "day": 18,
+    "torahRef": "Num 3:40-51",
+    "torahName": "Num Bamid (6)",
+    "tanakhRef": "Jdg 10–12",
+    "ntRef": "2 Cor 12:1-10",
+    "psalmsRef": [
+      "Psa 41"
+    ],
+    "proverbsRef": "Pro 8:5-8"
+  },
+  {
+    "idx": 231,
+    "dateLabel": "WED Aug 19",
+    "isoDate": "2026-08-19",
+    "dayOfWeek": "WED",
+    "month": "Aug",
+    "day": 19,
+    "torahRef": "Num 4:1-20",
+    "torahName": "Num Bamid (7)",
+    "tanakhRef": "Jdg 13–16",
+    "ntRef": "2 Cor 12:11-21",
+    "psalmsRef": [
+      "Psa 42"
+    ],
+    "proverbsRef": "Pro 8:9-12"
+  },
+  {
+    "idx": 232,
+    "dateLabel": "THU Aug 20",
+    "isoDate": "2026-08-20",
+    "dayOfWeek": "THU",
+    "month": "Aug",
+    "day": 20,
+    "torahRef": "Num 4:21-37",
+    "torahName": "Num Naso (1)",
+    "tanakhRef": "Jdg 17–18",
+    "ntRef": "2 Cor 13",
+    "psalmsRef": [
+      "Psa 43"
+    ],
+    "proverbsRef": "Pro 8:13-16"
+  },
+  {
+    "idx": 233,
+    "dateLabel": "FRI Aug 21",
+    "isoDate": "2026-08-21",
+    "dayOfWeek": "FRI",
+    "month": "Aug",
+    "day": 21,
+    "torahRef": "Num 4:38-49",
+    "torahName": "Num Naso (2)",
+    "tanakhRef": "Jdg 19–21",
+    "ntRef": "1 Tim 1",
+    "psalmsRef": [
+      "Psa 44"
+    ],
+    "proverbsRef": "Pro 8:17-20"
+  },
+  {
+    "idx": 234,
+    "dateLabel": "SAT Aug 22",
+    "isoDate": "2026-08-22",
+    "dayOfWeek": "SAT",
+    "month": "Aug",
+    "day": 22,
+    "torahRef": "Num 5:1-10",
+    "torahName": "Num Naso (3)",
+    "tanakhRef": "1 Sam 1–2",
+    "ntRef": "1 Tim 2",
+    "psalmsRef": [
+      "Psa 45"
+    ],
+    "proverbsRef": "Pro 8:21-24"
+  },
+  {
+    "idx": 235,
+    "dateLabel": "SUN Aug 23",
+    "isoDate": "2026-08-23",
+    "dayOfWeek": "SUN",
+    "month": "Aug",
+    "day": 23,
+    "torahRef": "Num 5:11-31",
+    "torahName": "Num Naso (4)",
+    "tanakhRef": "1 Sam 3",
+    "ntRef": "1 Tim 3",
+    "psalmsRef": [
+      "Psa 46"
+    ],
+    "proverbsRef": "Pro 8:25-28"
+  },
+  {
+    "idx": 236,
+    "dateLabel": "MON Aug 24",
+    "isoDate": "2026-08-24",
+    "dayOfWeek": "MON",
+    "month": "Aug",
+    "day": 24,
+    "torahRef": "Num 6:1-21",
+    "torahName": "Num Naso (5)",
+    "tanakhRef": "1 Sam 4–7",
+    "ntRef": "1 Tim 4",
+    "psalmsRef": [
+      "Psa 47"
+    ],
+    "proverbsRef": "Pro 8:29-32"
+  },
+  {
+    "idx": 237,
+    "dateLabel": "TUE Aug 25",
+    "isoDate": "2026-08-25",
+    "dayOfWeek": "TUE",
+    "month": "Aug",
+    "day": 25,
+    "torahRef": "Num 7:1-17",
+    "torahName": "Num Naso (6)",
+    "tanakhRef": "1 Sam 8–10",
+    "ntRef": "1 Tim 5",
+    "psalmsRef": [
+      "Psa 48"
+    ],
+    "proverbsRef": "Pro 8:33-36"
+  },
+  {
+    "idx": 238,
+    "dateLabel": "WED Aug 26",
+    "isoDate": "2026-08-26",
+    "dayOfWeek": "WED",
+    "month": "Aug",
+    "day": 26,
+    "torahRef": "Num 7:18-89",
+    "torahName": "Num Naso (7)",
+    "tanakhRef": "1 Sam 11–12",
+    "ntRef": "1 Tim 6",
+    "psalmsRef": [
+      "Psa 49"
+    ],
+    "proverbsRef": "Pro 9:1-6"
+  },
+  {
+    "idx": 239,
+    "dateLabel": "THU Aug 27",
+    "isoDate": "2026-08-27",
+    "dayOfWeek": "THU",
+    "month": "Aug",
+    "day": 27,
+    "torahRef": "Num 8:1-14",
+    "torahName": "Num Behaal (1)",
+    "tanakhRef": "1 Sam 13–14",
+    "ntRef": "Tit 1",
+    "psalmsRef": [
+      "Psa 50"
+    ],
+    "proverbsRef": "Pro 9:7-12"
+  },
+  {
+    "idx": 240,
+    "dateLabel": "FRI Aug 28",
+    "isoDate": "2026-08-28",
+    "dayOfWeek": "FRI",
+    "month": "Aug",
+    "day": 28,
+    "torahRef": "Num 8:15-26",
+    "torahName": "Num Behaal (2)",
+    "tanakhRef": "1 Sam 15",
+    "ntRef": "Tit 2",
+    "psalmsRef": [
+      "Psa 51"
+    ],
+    "proverbsRef": "Pro 9:13-18"
+  },
+  {
+    "idx": 241,
+    "dateLabel": "SAT Aug 29",
+    "isoDate": "2026-08-29",
+    "dayOfWeek": "SAT",
+    "month": "Aug",
+    "day": 29,
+    "torahRef": "Num 9:1-14",
+    "torahName": "Num Behaal (3)",
+    "tanakhRef": "1 Sam 16",
+    "ntRef": "Tit 3",
+    "psalmsRef": [
+      "Psa 52"
+    ],
+    "proverbsRef": "Pro 10:1-6"
+  },
+  {
+    "idx": 242,
+    "dateLabel": "SUN Aug 30",
+    "isoDate": "2026-08-30",
+    "dayOfWeek": "SUN",
+    "month": "Aug",
+    "day": 30,
+    "torahRef": "Num 9:15-23",
+    "torahName": "Num Behaal (4)",
+    "tanakhRef": "1 Sam 17",
+    "ntRef": "2 Tim 1",
+    "psalmsRef": [
+      "Psa 53"
+    ],
+    "proverbsRef": "Pro 10:7-12"
+  },
+  {
+    "idx": 243,
+    "dateLabel": "MON Aug 31",
+    "isoDate": "2026-08-31",
+    "dayOfWeek": "MON",
+    "month": "Aug",
+    "day": 31,
+    "torahRef": "Num 10:1-10",
+    "torahName": "Num Behaal (5)",
+    "tanakhRef": "1 Sam 18–20",
+    "ntRef": "2 Tim 2",
+    "psalmsRef": [
+      "Psa 54"
+    ],
+    "proverbsRef": "Pro 10:13-18"
+  },
+  {
+    "idx": 244,
+    "dateLabel": "TUE Sep 1",
+    "isoDate": "2026-09-01",
+    "dayOfWeek": "TUE",
+    "month": "Sep",
+    "day": 1,
+    "torahRef": "Num 10:11-34",
+    "torahName": "Num Behaal (6)",
+    "tanakhRef": "1 Sam 21–24",
+    "ntRef": "2 Tim 3",
+    "psalmsRef": [
+      "Psa 55"
+    ],
+    "proverbsRef": "Pro 10:19-24"
+  },
+  {
+    "idx": 245,
+    "dateLabel": "WED Sep 2",
+    "isoDate": "2026-09-02",
+    "dayOfWeek": "WED",
+    "month": "Sep",
+    "day": 2,
+    "torahRef": "Num 11:1-35",
+    "torahName": "Num Behaal (7)",
+    "tanakhRef": "1 Sam 25–26",
+    "ntRef": "2 Tim 4",
+    "psalmsRef": [
+      "Psa 56"
+    ],
+    "proverbsRef": "Pro 10:25-28"
+  },
+  {
+    "idx": 246,
+    "dateLabel": "THU Sep 3",
+    "isoDate": "2026-09-03",
+    "dayOfWeek": "THU",
+    "month": "Sep",
+    "day": 3,
+    "torahRef": "Num 12:1-16",
+    "torahName": "Num Shel (1)",
+    "tanakhRef": "1 Sam 27–31",
+    "ntRef": "Heb 1",
+    "psalmsRef": [
+      "Psa 57"
+    ],
+    "proverbsRef": "Pro 10:29-32"
+  },
+  {
+    "idx": 247,
+    "dateLabel": "FRI Sep 4",
+    "isoDate": "2026-09-04",
+    "dayOfWeek": "FRI",
+    "month": "Sep",
+    "day": 4,
+    "torahRef": "Num 13:1-20",
+    "torahName": "Num Shel (2)",
+    "tanakhRef": "2 Sam 1–4",
+    "ntRef": "Heb 2",
+    "psalmsRef": [
+      "Psa 58"
+    ],
+    "proverbsRef": "Pro 11:1-6"
+  },
+  {
+    "idx": 248,
+    "dateLabel": "SAT Sep 5",
+    "isoDate": "2026-09-05",
+    "dayOfWeek": "SAT",
+    "month": "Sep",
+    "day": 5,
+    "torahRef": "Num 13:21-14:7",
+    "torahName": "Num Shel (3)",
+    "tanakhRef": "2 Sam 5–7",
+    "ntRef": "Heb 3",
+    "psalmsRef": [
+      "Psa 59"
+    ],
+    "proverbsRef": "Pro 11:7-12"
+  },
+  {
+    "idx": 249,
+    "dateLabel": "SUN Sep 6",
+    "isoDate": "2026-09-06",
+    "dayOfWeek": "SUN",
+    "month": "Sep",
+    "day": 6,
+    "torahRef": "Num 14:8-25",
+    "torahName": "Num Shel (4)",
+    "tanakhRef": "2 Sam 8–10",
+    "ntRef": "Heb 4",
+    "psalmsRef": [
+      "Psa 60"
+    ],
+    "proverbsRef": "Pro 11:13-18"
+  },
+  {
+    "idx": 250,
+    "dateLabel": "MON Sep 7",
+    "isoDate": "2026-09-07",
+    "dayOfWeek": "MON",
+    "month": "Sep",
+    "day": 7,
+    "torahRef": "Num 14:26-45",
+    "torahName": "Num Shel (5)",
+    "tanakhRef": "2 Sam 11–12",
+    "ntRef": "Heb 5",
+    "psalmsRef": [
+      "Psa 61"
+    ],
+    "proverbsRef": "Pro 11:19-23"
+  },
+  {
+    "idx": 251,
+    "dateLabel": "TUE Sep 8",
+    "isoDate": "2026-09-08",
+    "dayOfWeek": "TUE",
+    "month": "Sep",
+    "day": 8,
+    "torahRef": "Num 15:1-16",
+    "torahName": "Num Shel (6)",
+    "tanakhRef": "2 Sam 13–14",
+    "ntRef": "Heb 6",
+    "psalmsRef": [
+      "Psa 62"
+    ],
+    "proverbsRef": "Pro 11:24-27"
+  },
+  {
+    "idx": 252,
+    "dateLabel": "WED Sep 9",
+    "isoDate": "2026-09-09",
+    "dayOfWeek": "WED",
+    "month": "Sep",
+    "day": 9,
+    "torahRef": "Num 15:17-41",
+    "torahName": "Num Shel (7)",
+    "tanakhRef": "2 Sam 15–18",
+    "ntRef": "Heb 7",
+    "psalmsRef": [
+      "Psa 63"
+    ],
+    "proverbsRef": "Pro 11:28-31"
+  },
+  {
+    "idx": 253,
+    "dateLabel": "THU Sep 10",
+    "isoDate": "2026-09-10",
+    "dayOfWeek": "THU",
+    "month": "Sep",
+    "day": 10,
+    "torahRef": "Num 16:1-13",
+    "torahName": "Num Korac (1)",
+    "tanakhRef": "2 Sam 19–20",
+    "ntRef": "Heb 8",
+    "psalmsRef": [
+      "Psa 64"
+    ],
+    "proverbsRef": "Pro 12:1-6"
+  },
+  {
+    "idx": 254,
+    "dateLabel": "FRI Sep 11",
+    "isoDate": "2026-09-11",
+    "dayOfWeek": "FRI",
+    "month": "Sep",
+    "day": 11,
+    "torahRef": "Num 16:14-19",
+    "torahName": "Num Korac (2)",
+    "tanakhRef": "2 Sam 21–24",
+    "ntRef": "Heb 9",
+    "psalmsRef": [
+      "Psa 65"
+    ],
+    "proverbsRef": "Pro 12:7-12"
+  },
+  {
+    "idx": 255,
+    "dateLabel": "SAT Sep 12",
+    "isoDate": "2026-09-12",
+    "dayOfWeek": "SAT",
+    "month": "Sep",
+    "day": 12,
+    "torahRef": "Num 16:20-35",
+    "torahName": "Num Korac (3)",
+    "tanakhRef": "1 Kin 1–2",
+    "ntRef": "Heb 10",
+    "psalmsRef": [
+      "Psa 66"
+    ],
+    "proverbsRef": "Pro 12:13-18"
+  },
+  {
+    "idx": 256,
+    "dateLabel": "SUN Sep 13",
+    "isoDate": "2026-09-13",
+    "dayOfWeek": "SUN",
+    "month": "Sep",
+    "day": 13,
+    "torahRef": "Num 16:36-17:10",
+    "torahName": "Num Korac (4)",
+    "tanakhRef": "1 Kin 3–4",
+    "ntRef": "Heb 11",
+    "psalmsRef": [
+      "Psa 67"
+    ],
+    "proverbsRef": "Pro 12:19-24"
+  },
+  {
+    "idx": 257,
+    "dateLabel": "MON Sep 14",
+    "isoDate": "2026-09-14",
+    "dayOfWeek": "MON",
+    "month": "Sep",
+    "day": 14,
+    "torahRef": "Num 17:11-28",
+    "torahName": "Num Korac (5)",
+    "tanakhRef": "1 Kin 5–8",
+    "ntRef": "Heb 12",
+    "psalmsRef": [
+      "Psa 68"
+    ],
+    "proverbsRef": "Pro 12:25-28"
+  },
+  {
+    "idx": 258,
+    "dateLabel": "TUE Sep 15",
+    "isoDate": "2026-09-15",
+    "dayOfWeek": "TUE",
+    "month": "Sep",
+    "day": 15,
+    "torahRef": "Num 18:1-7",
+    "torahName": "Num Korac (6)",
+    "tanakhRef": "1 Kin 9–11",
+    "ntRef": "Heb 13",
+    "psalmsRef": [
+      "Psa 69"
+    ],
+    "proverbsRef": "Pro 13:1-6"
+  },
+  {
+    "idx": 259,
+    "dateLabel": "WED Sep 16",
+    "isoDate": "2026-09-16",
+    "dayOfWeek": "WED",
+    "month": "Sep",
+    "day": 16,
+    "torahRef": "Num 18:8-20",
+    "torahName": "Num Korac (7)",
+    "tanakhRef": "1 Kin 12–14",
+    "ntRef": "1 Pet 1",
+    "psalmsRef": [
+      "Psa 70"
+    ],
+    "proverbsRef": "Pro 13:7-12"
+  },
+  {
+    "idx": 260,
+    "dateLabel": "THU Sep 17",
+    "isoDate": "2026-09-17",
+    "dayOfWeek": "THU",
+    "month": "Sep",
+    "day": 17,
+    "torahRef": "Num 19:1-22",
+    "torahName": "Num Chukat (1)",
+    "tanakhRef": "1 Kin 15–16",
+    "ntRef": "1 Pet 2",
+    "psalmsRef": [
+      "Psa 71"
+    ],
+    "proverbsRef": "Pro 13:13-17"
+  },
+  {
+    "idx": 261,
+    "dateLabel": "FRI Sep 18",
+    "isoDate": "2026-09-18",
+    "dayOfWeek": "FRI",
+    "month": "Sep",
+    "day": 18,
+    "torahRef": "Num 20:1-6",
+    "torahName": "Num Chukat (2)",
+    "tanakhRef": "1 Kin 17–19",
+    "ntRef": "1 Pet 3",
+    "psalmsRef": [
+      "Psa 72"
+    ],
+    "proverbsRef": "Pro 13:18-21"
+  },
+  {
+    "idx": 262,
+    "dateLabel": "SAT Sep 19",
+    "isoDate": "2026-09-19",
+    "dayOfWeek": "SAT",
+    "month": "Sep",
+    "day": 19,
+    "torahRef": "Num 20:7-13",
+    "torahName": "Num Chukat (3)",
+    "tanakhRef": "1 Kin 20–22",
+    "ntRef": "1 Pet 4",
+    "psalmsRef": [
+      "Psa 73"
+    ],
+    "proverbsRef": "Pro 13:22-25"
+  },
+  {
+    "idx": 263,
+    "dateLabel": "SUN Sep 20",
+    "isoDate": "2026-09-20",
+    "dayOfWeek": "SUN",
+    "month": "Sep",
+    "day": 20,
+    "torahRef": "Num 20:14-21",
+    "torahName": "Num Chukat (4)",
+    "tanakhRef": "2 Kin 1–2",
+    "ntRef": "1 Pet 5",
+    "psalmsRef": [
+      "Psa 74"
+    ],
+    "proverbsRef": "Pro 14:1-6"
+  },
+  {
+    "idx": 264,
+    "dateLabel": "MON Sep 21",
+    "isoDate": "2026-09-21",
+    "dayOfWeek": "MON",
+    "month": "Sep",
+    "day": 21,
+    "torahRef": "Num 20:22-29",
+    "torahName": "Num Chukat (5)",
+    "tanakhRef": "2 Kin 3–4",
+    "ntRef": "2 Pet 1",
+    "psalmsRef": [
+      "Psa 75"
+    ],
+    "proverbsRef": "Pro 14:7-12"
+  },
+  {
+    "idx": 265,
+    "dateLabel": "TUE Sep 22",
+    "isoDate": "2026-09-22",
+    "dayOfWeek": "TUE",
+    "month": "Sep",
+    "day": 22,
+    "torahRef": "Num 21:1-9",
+    "torahName": "Num Chukat (6)",
+    "tanakhRef": "2 Kin 5",
+    "ntRef": "2 Pet 2",
+    "psalmsRef": [
+      "Psa 76"
+    ],
+    "proverbsRef": "Pro 14:13-18"
+  },
+  {
+    "idx": 266,
+    "dateLabel": "WED Sep 23",
+    "isoDate": "2026-09-23",
+    "dayOfWeek": "WED",
+    "month": "Sep",
+    "day": 23,
+    "torahRef": "Num 21:10-35",
+    "torahName": "Num Chukat (7)",
+    "tanakhRef": "2 Kin 6–7",
+    "ntRef": "2 Pet 3",
+    "psalmsRef": [
+      "Psa 77"
+    ],
+    "proverbsRef": "Pro 14:19-24"
+  },
+  {
+    "idx": 267,
+    "dateLabel": "THU Sep 24",
+    "isoDate": "2026-09-24",
+    "dayOfWeek": "THU",
+    "month": "Sep",
+    "day": 24,
+    "torahRef": "Num 22:2-12",
+    "torahName": "Num Balak (1)",
+    "tanakhRef": "2 Kin 8–10",
+    "ntRef": "Jud 1",
+    "psalmsRef": [
+      "Psa 78:1-18"
+    ],
+    "proverbsRef": "Pro 14:25-30"
+  },
+  {
+    "idx": 268,
+    "dateLabel": "FRI Sep 25",
+    "isoDate": "2026-09-25",
+    "dayOfWeek": "FRI",
+    "month": "Sep",
+    "day": 25,
+    "torahRef": "Num 22:13-20",
+    "torahName": "Num Balak (2)",
+    "tanakhRef": "2 Kin 11–12",
+    "ntRef": "Act 2",
+    "psalmsRef": [
+      "Psa 78:19-31"
+    ],
+    "proverbsRef": "Pro 14:31-35"
+  },
+  {
+    "idx": 269,
+    "dateLabel": "SAT Sep 26",
+    "isoDate": "2026-09-26",
+    "dayOfWeek": "SAT",
+    "month": "Sep",
+    "day": 26,
+    "torahRef": "Num 22:21-38",
+    "torahName": "Num Balak (3)",
+    "tanakhRef": "2 Kin 13–14",
+    "ntRef": "Act 17",
+    "psalmsRef": [
+      "Psa 78:32-39"
+    ],
+    "proverbsRef": "Pro 15:1-6"
+  },
+  {
+    "idx": 270,
+    "dateLabel": "SUN Sep 27",
+    "isoDate": "2026-09-27",
+    "dayOfWeek": "SUN",
+    "month": "Sep",
+    "day": 27,
+    "torahRef": "Num 22:39-23:12",
+    "torahName": "Num Balak (4)",
+    "tanakhRef": "2 Kin 15–17",
+    "ntRef": "Rom 8",
+    "psalmsRef": [
+      "Psa 78:40-55"
+    ],
+    "proverbsRef": "Pro 15:7-12"
+  },
+  {
+    "idx": 271,
+    "dateLabel": "MON Sep 28",
+    "isoDate": "2026-09-28",
+    "dayOfWeek": "MON",
+    "month": "Sep",
+    "day": 28,
+    "torahRef": "Num 23:13-26",
+    "torahName": "Num Balak (5)",
+    "tanakhRef": "2 Kin 18–20",
+    "ntRef": "1 Cor 13",
+    "psalmsRef": [
+      "Psa 78:56-72"
+    ],
+    "proverbsRef": "Pro 15:13-18"
+  },
+  {
+    "idx": 272,
+    "dateLabel": "TUE Sep 29",
+    "isoDate": "2026-09-29",
+    "dayOfWeek": "TUE",
+    "month": "Sep",
+    "day": 29,
+    "torahRef": "Num 23:27-24:13",
+    "torahName": "Num Balak (6)",
+    "tanakhRef": "2 Kin 21–23",
+    "ntRef": "Heb 11",
+    "psalmsRef": [
+      "Psa 79"
+    ],
+    "proverbsRef": "Pro 15:19-24"
+  },
+  {
+    "idx": 273,
+    "dateLabel": "WED Sep 30",
+    "isoDate": "2026-09-30",
+    "dayOfWeek": "WED",
+    "month": "Sep",
+    "day": 30,
+    "torahRef": "Num 24:14-25",
+    "torahName": "Num Balak (7)",
+    "tanakhRef": "2 Kin 24–25",
+    "ntRef": "Mat 5",
+    "psalmsRef": [
+      "Psa 80"
+    ],
+    "proverbsRef": "Pro 15:25-29"
+  },
+  {
+    "idx": 274,
+    "dateLabel": "THU Oct 1",
+    "isoDate": "2026-10-01",
+    "dayOfWeek": "THU",
+    "month": "Oct",
+    "day": 1,
+    "torahRef": "Num 25:10-26:4",
+    "torahName": "Num Pinch (1)",
+    "tanakhRef": "Isa 1–5",
+    "ntRef": "Joh 1",
+    "psalmsRef": [
+      "Psa 81"
+    ],
+    "proverbsRef": "Pro 15:30-33"
+  },
+  {
+    "idx": 275,
+    "dateLabel": "FRI Oct 2",
+    "isoDate": "2026-10-02",
+    "dayOfWeek": "FRI",
+    "month": "Oct",
+    "day": 2,
+    "torahRef": "Num 26:5-51",
+    "torahName": "Num Pinch (2)",
+    "tanakhRef": "Isa 6",
+    "ntRef": "Joh 2",
+    "psalmsRef": [
+      "Psa 82"
+    ],
+    "proverbsRef": "Pro 16:1-6"
+  },
+  {
+    "idx": 276,
+    "dateLabel": "SAT Oct 3",
+    "isoDate": "2026-10-03",
+    "dayOfWeek": "SAT",
+    "month": "Oct",
+    "day": 3,
+    "torahRef": "Num 26:52-65",
+    "torahName": "Num Pinch (3)",
+    "tanakhRef": "Isa 7–9",
+    "ntRef": "Joh 3",
+    "psalmsRef": [
+      "Psa 83"
+    ],
+    "proverbsRef": "Pro 16:7-12"
+  },
+  {
+    "idx": 277,
+    "dateLabel": "SUN Oct 4",
+    "isoDate": "2026-10-04",
+    "dayOfWeek": "SUN",
+    "month": "Oct",
+    "day": 4,
+    "torahRef": "Num 27:1-11",
+    "torahName": "Num Pinch (4)",
+    "tanakhRef": "Isa 10–12",
+    "ntRef": "Joh 4",
+    "psalmsRef": [
+      "Psa 84"
+    ],
+    "proverbsRef": "Pro 16:13-18"
+  },
+  {
+    "idx": 278,
+    "dateLabel": "MON Oct 5",
+    "isoDate": "2026-10-05",
+    "dayOfWeek": "MON",
+    "month": "Oct",
+    "day": 5,
+    "torahRef": "Num 27:12-23",
+    "torahName": "Num Pinch (5)",
+    "tanakhRef": "Isa 13–14",
+    "ntRef": "Joh 5",
+    "psalmsRef": [
+      "Psa 85"
+    ],
+    "proverbsRef": "Pro 16:19-24"
+  },
+  {
+    "idx": 279,
+    "dateLabel": "TUE Oct 6",
+    "isoDate": "2026-10-06",
+    "dayOfWeek": "TUE",
+    "month": "Oct",
+    "day": 6,
+    "torahRef": "Num 28:1-15",
+    "torahName": "Num Pinch (6)",
+    "tanakhRef": "Isa 15–18",
+    "ntRef": "Joh 6",
+    "psalmsRef": [
+      "Psa 86"
+    ],
+    "proverbsRef": "Pro 16:25-29"
+  },
+  {
+    "idx": 280,
+    "dateLabel": "WED Oct 7",
+    "isoDate": "2026-10-07",
+    "dayOfWeek": "WED",
+    "month": "Oct",
+    "day": 7,
+    "torahRef": "Num 28:16-31",
+    "torahName": "Num Pinch (7)",
+    "tanakhRef": "Isa 19–20",
+    "ntRef": "Joh 7",
+    "psalmsRef": [
+      "Psa 87"
+    ],
+    "proverbsRef": "Pro 16:30-33"
+  },
+  {
+    "idx": 281,
+    "dateLabel": "THU Oct 8",
+    "isoDate": "2026-10-08",
+    "dayOfWeek": "THU",
+    "month": "Oct",
+    "day": 8,
+    "torahRef": "Num 30:2-17",
+    "torahName": "Num Matot (1)",
+    "tanakhRef": "Isa 21–23",
+    "ntRef": "Joh 8",
+    "psalmsRef": [
+      "Psa 88"
+    ],
+    "proverbsRef": "Pro 17:1-6"
+  },
+  {
+    "idx": 282,
+    "dateLabel": "FRI Oct 9",
+    "isoDate": "2026-10-09",
+    "dayOfWeek": "FRI",
+    "month": "Oct",
+    "day": 9,
+    "torahRef": "Num 31:1-12",
+    "torahName": "Num Matot (2)",
+    "tanakhRef": "Isa 24–27",
+    "ntRef": "Joh 9",
+    "psalmsRef": [
+      "Psa 89"
+    ],
+    "proverbsRef": "Pro 17:7-12"
+  },
+  {
+    "idx": 283,
+    "dateLabel": "SAT Oct 10",
+    "isoDate": "2026-10-10",
+    "dayOfWeek": "SAT",
+    "month": "Oct",
+    "day": 10,
+    "torahRef": "Num 31:13-24",
+    "torahName": "Num Matot (3)",
+    "tanakhRef": "Isa 28–30",
+    "ntRef": "Joh 10",
+    "psalmsRef": [
+      "Psa 90"
+    ],
+    "proverbsRef": "Pro 17:13-18"
+  },
+  {
+    "idx": 284,
+    "dateLabel": "SUN Oct 11",
+    "isoDate": "2026-10-11",
+    "dayOfWeek": "SUN",
+    "month": "Oct",
+    "day": 11,
+    "torahRef": "Num 31:25-41",
+    "torahName": "Num Matot (4)",
+    "tanakhRef": "Isa 31–33",
+    "ntRef": "Joh 11",
+    "psalmsRef": [
+      "Psa 91"
+    ],
+    "proverbsRef": "Pro 17:19-24"
+  },
+  {
+    "idx": 285,
+    "dateLabel": "MON Oct 12",
+    "isoDate": "2026-10-12",
+    "dayOfWeek": "MON",
+    "month": "Oct",
+    "day": 12,
+    "torahRef": "Num 31:42-54",
+    "torahName": "Num Matot (5)",
+    "tanakhRef": "Isa 34–35",
+    "ntRef": "Joh 12",
+    "psalmsRef": [
+      "Psa 92"
+    ],
+    "proverbsRef": "Pro 17:25-28"
+  },
+  {
+    "idx": 286,
+    "dateLabel": "TUE Oct 13",
+    "isoDate": "2026-10-13",
+    "dayOfWeek": "TUE",
+    "month": "Oct",
+    "day": 13,
+    "torahRef": "Num 32:1-19",
+    "torahName": "Num Matot (6)",
+    "tanakhRef": "Isa 36–39",
+    "ntRef": "Joh 13",
+    "psalmsRef": [
+      "Psa 93"
+    ],
+    "proverbsRef": "Pro 18:1-6"
+  },
+  {
+    "idx": 287,
+    "dateLabel": "WED Oct 14",
+    "isoDate": "2026-10-14",
+    "dayOfWeek": "WED",
+    "month": "Oct",
+    "day": 14,
+    "torahRef": "Num 32:20-42",
+    "torahName": "Num Matot (7)",
+    "tanakhRef": "Isa 40–41",
+    "ntRef": "Joh 14",
+    "psalmsRef": [
+      "Psa 94"
+    ],
+    "proverbsRef": "Pro 18:7-12"
+  },
+  {
+    "idx": 288,
+    "dateLabel": "THU Oct 15",
+    "isoDate": "2026-10-15",
+    "dayOfWeek": "THU",
+    "month": "Oct",
+    "day": 15,
+    "torahRef": "Num 33:1-10",
+    "torahName": "Num Masei (1)",
+    "tanakhRef": "Isa 42–44",
+    "ntRef": "Joh 15",
+    "psalmsRef": [
+      "Psa 95"
+    ],
+    "proverbsRef": "Pro 18:13-18"
+  },
+  {
+    "idx": 289,
+    "dateLabel": "FRI Oct 16",
+    "isoDate": "2026-10-16",
+    "dayOfWeek": "FRI",
+    "month": "Oct",
+    "day": 16,
+    "torahRef": "Num 33:11-49",
+    "torahName": "Num Masei (2)",
+    "tanakhRef": "Isa 45–48",
+    "ntRef": "Joh 16",
+    "psalmsRef": [
+      "Psa 96"
+    ],
+    "proverbsRef": "Pro 18:19-24"
+  },
+  {
+    "idx": 290,
+    "dateLabel": "SAT Oct 17",
+    "isoDate": "2026-10-17",
+    "dayOfWeek": "SAT",
+    "month": "Oct",
+    "day": 17,
+    "torahRef": "Num 34:1-15",
+    "torahName": "Num Masei (3)",
+    "tanakhRef": "Isa 49–51",
+    "ntRef": "Joh 17",
+    "psalmsRef": [
+      "Psa 97"
+    ],
+    "proverbsRef": "Pro 19:1-6"
+  },
+  {
+    "idx": 291,
+    "dateLabel": "SUN Oct 18",
+    "isoDate": "2026-10-18",
+    "dayOfWeek": "SUN",
+    "month": "Oct",
+    "day": 18,
+    "torahRef": "Num 34:16-29",
+    "torahName": "Num Masei (4)",
+    "tanakhRef": "Isa 52–53",
+    "ntRef": "Joh 18",
+    "psalmsRef": [
+      "Psa 98"
+    ],
+    "proverbsRef": "Pro 19:7-12"
+  },
+  {
+    "idx": 292,
+    "dateLabel": "MON Oct 19",
+    "isoDate": "2026-10-19",
+    "dayOfWeek": "MON",
+    "month": "Oct",
+    "day": 19,
+    "torahRef": "Num 35:1-8",
+    "torahName": "Num Masei (5)",
+    "tanakhRef": "Isa 54–55",
+    "ntRef": "Joh 19",
+    "psalmsRef": [
+      "Psa 99"
+    ],
+    "proverbsRef": "Pro 19:13-18"
+  },
+  {
+    "idx": 293,
+    "dateLabel": "TUE Oct 20",
+    "isoDate": "2026-10-20",
+    "dayOfWeek": "TUE",
+    "month": "Oct",
+    "day": 20,
+    "torahRef": "Num 35:9-34",
+    "torahName": "Num Masei (6)",
+    "tanakhRef": "Isa 56–59",
+    "ntRef": "Joh 20",
+    "psalmsRef": [
+      "Psa 100"
+    ],
+    "proverbsRef": "Pro 19:19-24"
+  },
+  {
+    "idx": 294,
+    "dateLabel": "WED Oct 21",
+    "isoDate": "2026-10-21",
+    "dayOfWeek": "WED",
+    "month": "Oct",
+    "day": 21,
+    "torahRef": "Num 36:1-13",
+    "torahName": "Num Masei (7)",
+    "tanakhRef": "Isa 60–62",
+    "ntRef": "Joh 21",
+    "psalmsRef": [
+      "Psa 101"
+    ],
+    "proverbsRef": "Pro 19:25-29"
+  },
+  {
+    "idx": 295,
+    "dateLabel": "THU Oct 22",
+    "isoDate": "2026-10-22",
+    "dayOfWeek": "THU",
+    "month": "Oct",
+    "day": 22,
+    "torahRef": "Deu 1:1-11",
+    "torahName": "Deu Devar (1)",
+    "tanakhRef": "Isa 63–66",
+    "ntRef": "1 Joh 1",
+    "psalmsRef": [
+      "Psa 102"
+    ],
+    "proverbsRef": "Pro 20:1-6"
+  },
+  {
+    "idx": 296,
+    "dateLabel": "FRI Oct 23",
+    "isoDate": "2026-10-23",
+    "dayOfWeek": "FRI",
+    "month": "Oct",
+    "day": 23,
+    "torahRef": "Deu 1:12-21",
+    "torahName": "Deu Devar (2)",
+    "tanakhRef": "Jer 1",
+    "ntRef": "1 Joh 2",
+    "psalmsRef": [
+      "Psa 103"
+    ],
+    "proverbsRef": "Pro 20:7-12"
+  },
+  {
+    "idx": 297,
+    "dateLabel": "SAT Oct 24",
+    "isoDate": "2026-10-24",
+    "dayOfWeek": "SAT",
+    "month": "Oct",
+    "day": 24,
+    "torahRef": "Deu 1:22-38",
+    "torahName": "Deu Devar (3)",
+    "tanakhRef": "Jer 2–3",
+    "ntRef": "1 Joh 3",
+    "psalmsRef": [
+      "Psa 104"
+    ],
+    "proverbsRef": "Pro 20:13-18"
+  },
+  {
+    "idx": 298,
+    "dateLabel": "SUN Oct 25",
+    "isoDate": "2026-10-25",
+    "dayOfWeek": "SUN",
+    "month": "Oct",
+    "day": 25,
+    "torahRef": "Deu 1:39-2:1",
+    "torahName": "Deu Devar (4)",
+    "tanakhRef": "Jer 4–6",
+    "ntRef": "1 Joh 4",
+    "psalmsRef": [
+      "Psa 105:1-15"
+    ],
+    "proverbsRef": "Pro 20:19-24"
+  },
+  {
+    "idx": 299,
+    "dateLabel": "MON Oct 26",
+    "isoDate": "2026-10-26",
+    "dayOfWeek": "MON",
+    "month": "Oct",
+    "day": 26,
+    "torahRef": "Deu 2:2-30",
+    "torahName": "Deu Devar (5)",
+    "tanakhRef": "Jer 7–10",
+    "ntRef": "1 Joh 5",
+    "psalmsRef": [
+      "Psa 105:16-25"
+    ],
+    "proverbsRef": "Pro 20:25-30"
+  },
+  {
+    "idx": 300,
+    "dateLabel": "TUE Oct 27",
+    "isoDate": "2026-10-27",
+    "dayOfWeek": "TUE",
+    "month": "Oct",
+    "day": 27,
+    "torahRef": "Deu 2:31-3:14",
+    "torahName": "Deu Devar (6)",
+    "tanakhRef": "Jer 11–13",
+    "ntRef": "2 Joh 1",
+    "psalmsRef": [
+      "Psa 105:26-36"
+    ],
+    "proverbsRef": "Pro 21:1-6"
+  },
+  {
+    "idx": 301,
+    "dateLabel": "WED Oct 28",
+    "isoDate": "2026-10-28",
+    "dayOfWeek": "WED",
+    "month": "Oct",
+    "day": 28,
+    "torahRef": "Deu 3:15-22",
+    "torahName": "Deu Devar (7)",
+    "tanakhRef": "Jer 14–17",
+    "ntRef": "3 Joh 1",
+    "psalmsRef": [
+      "Psa 105:37-45"
+    ],
+    "proverbsRef": "Pro 21:7-12"
+  },
+  {
+    "idx": 302,
+    "dateLabel": "THU Oct 29",
+    "isoDate": "2026-10-29",
+    "dayOfWeek": "THU",
+    "month": "Oct",
+    "day": 29,
+    "torahRef": "Deu 3:23-4:4",
+    "torahName": "Deu Vaeth (1)",
+    "tanakhRef": "Jer 18–20",
+    "ntRef": "Rev 1",
+    "psalmsRef": [
+      "Psa 106:1-12"
+    ],
+    "proverbsRef": "Pro 21:13-18"
+  },
+  {
+    "idx": 303,
+    "dateLabel": "FRI Oct 30",
+    "isoDate": "2026-10-30",
+    "dayOfWeek": "FRI",
+    "month": "Oct",
+    "day": 30,
+    "torahRef": "Deu 4:5-40",
+    "torahName": "Deu Vaeth (2)",
+    "tanakhRef": "Jer 21–23",
+    "ntRef": "Rev 2",
+    "psalmsRef": [
+      "Psa 106:13-23"
+    ],
+    "proverbsRef": "Pro 21:19-23"
+  },
+  {
+    "idx": 304,
+    "dateLabel": "SAT Oct 31",
+    "isoDate": "2026-10-31",
+    "dayOfWeek": "SAT",
+    "month": "Oct",
+    "day": 31,
+    "torahRef": "Deu 4:41-49",
+    "torahName": "Deu Vaeth (3)",
+    "tanakhRef": "Jer 24–25",
+    "ntRef": "Rev 3",
+    "psalmsRef": [
+      "Psa 106:24-39"
+    ],
+    "proverbsRef": "Pro 21:24-27"
+  },
+  {
+    "idx": 305,
+    "dateLabel": "SUN Nov 1",
+    "isoDate": "2026-11-01",
+    "dayOfWeek": "SUN",
+    "month": "Nov",
+    "day": 1,
+    "torahRef": "Deu 5:1-18",
+    "torahName": "Deu Vaeth (4)",
+    "tanakhRef": "Jer 26–29",
+    "ntRef": "Rev 4",
+    "psalmsRef": [
+      "Psa 106:40-48"
+    ],
+    "proverbsRef": "Pro 21:28-31"
+  },
+  {
+    "idx": 306,
+    "dateLabel": "MON Nov 2",
+    "isoDate": "2026-11-02",
+    "dayOfWeek": "MON",
+    "month": "Nov",
+    "day": 2,
+    "torahRef": "Deu 5:19-30",
+    "torahName": "Deu Vaeth (5)",
+    "tanakhRef": "Jer 30–31",
+    "ntRef": "Rev 5",
+    "psalmsRef": [
+      "Psa 107"
+    ],
+    "proverbsRef": "Pro 22:1-6"
+  },
+  {
+    "idx": 307,
+    "dateLabel": "TUE Nov 3",
+    "isoDate": "2026-11-03",
+    "dayOfWeek": "TUE",
+    "month": "Nov",
+    "day": 3,
+    "torahRef": "Deu 6:1-3",
+    "torahName": "Deu Vaeth (6)",
+    "tanakhRef": "Jer 32–33",
+    "ntRef": "Rev 6",
+    "psalmsRef": [
+      "Psa 108"
+    ],
+    "proverbsRef": "Pro 22:7-12"
+  },
+  {
+    "idx": 308,
+    "dateLabel": "WED Nov 4",
+    "isoDate": "2026-11-04",
+    "dayOfWeek": "WED",
+    "month": "Nov",
+    "day": 4,
+    "torahRef": "Deu 6:4-25",
+    "torahName": "Deu Vaeth (7)",
+    "tanakhRef": "Jer 34–36",
+    "ntRef": "Rev 7",
+    "psalmsRef": [
+      "Psa 109"
+    ],
+    "proverbsRef": "Pro 22:13-18"
+  },
+  {
+    "idx": 309,
+    "dateLabel": "THU Nov 5",
+    "isoDate": "2026-11-05",
+    "dayOfWeek": "THU",
+    "month": "Nov",
+    "day": 5,
+    "torahRef": "Deu 7:12-8:10",
+    "torahName": "Deu Ekev (1)",
+    "tanakhRef": "Jer 37–39",
+    "ntRef": "Rev 8",
+    "psalmsRef": [
+      "Psa 110"
+    ],
+    "proverbsRef": "Pro 22:19-24"
+  },
+  {
+    "idx": 310,
+    "dateLabel": "FRI Nov 6",
+    "isoDate": "2026-11-06",
+    "dayOfWeek": "FRI",
+    "month": "Nov",
+    "day": 6,
+    "torahRef": "Deu 8:11-9:3",
+    "torahName": "Deu Ekev (2)",
+    "tanakhRef": "Jer 40–44",
+    "ntRef": "Rev 9",
+    "psalmsRef": [
+      "Psa 111"
+    ],
+    "proverbsRef": "Pro 22:25-29"
+  },
+  {
+    "idx": 311,
+    "dateLabel": "SAT Nov 7",
+    "isoDate": "2026-11-07",
+    "dayOfWeek": "SAT",
+    "month": "Nov",
+    "day": 7,
+    "torahRef": "Deu 9:4-29",
+    "torahName": "Deu Ekev (3)",
+    "tanakhRef": "Jer 45–46",
+    "ntRef": "Rev 10",
+    "psalmsRef": [
+      "Psa 112"
+    ],
+    "proverbsRef": "Pro 23:1-6"
+  },
+  {
+    "idx": 312,
+    "dateLabel": "SUN Nov 8",
+    "isoDate": "2026-11-08",
+    "dayOfWeek": "SUN",
+    "month": "Nov",
+    "day": 8,
+    "torahRef": "Deu 10:1-11",
+    "torahName": "Deu Ekev (4)",
+    "tanakhRef": "Jer 47–49",
+    "ntRef": "Rev 11",
+    "psalmsRef": [
+      "Psa 113"
+    ],
+    "proverbsRef": "Pro 23:7-12"
+  },
+  {
+    "idx": 313,
+    "dateLabel": "MON Nov 9",
+    "isoDate": "2026-11-09",
+    "dayOfWeek": "MON",
+    "month": "Nov",
+    "day": 9,
+    "torahRef": "Deu 10:12-22",
+    "torahName": "Deu Ekev (5)",
+    "tanakhRef": "Jer 50–51",
+    "ntRef": "Rev 12",
+    "psalmsRef": [
+      "Psa 114"
+    ],
+    "proverbsRef": "Pro 23:13-18"
+  },
+  {
+    "idx": 314,
+    "dateLabel": "TUE Nov 10",
+    "isoDate": "2026-11-10",
+    "dayOfWeek": "TUE",
+    "month": "Nov",
+    "day": 10,
+    "torahRef": "Deu 11:1-12",
+    "torahName": "Deu Ekev (6)",
+    "tanakhRef": "Jer 52",
+    "ntRef": "Rev 13",
+    "psalmsRef": [
+      "Psa 115"
+    ],
+    "proverbsRef": "Pro 23:19-24"
+  },
+  {
+    "idx": 315,
+    "dateLabel": "WED Nov 11",
+    "isoDate": "2026-11-11",
+    "dayOfWeek": "WED",
+    "month": "Nov",
+    "day": 11,
+    "torahRef": "Deu 11:13-21",
+    "torahName": "Deu Ekev (7)",
+    "tanakhRef": "Eze 1–3",
+    "ntRef": "Rev 14",
+    "psalmsRef": [
+      "Psa 116"
+    ],
+    "proverbsRef": "Pro 23:25-30"
+  },
+  {
+    "idx": 316,
+    "dateLabel": "THU Nov 12",
+    "isoDate": "2026-11-12",
+    "dayOfWeek": "THU",
+    "month": "Nov",
+    "day": 12,
+    "torahRef": "Deu 11:26-12:10",
+    "torahName": "Deu Reeh (1)",
+    "tanakhRef": "Eze 4–7",
+    "ntRef": "Rev 15",
+    "psalmsRef": [
+      "Psa 117"
+    ],
+    "proverbsRef": "Pro 23:31-35"
+  },
+  {
+    "idx": 317,
+    "dateLabel": "FRI Nov 13",
+    "isoDate": "2026-11-13",
+    "dayOfWeek": "FRI",
+    "month": "Nov",
+    "day": 13,
+    "torahRef": "Deu 12:11-28",
+    "torahName": "Deu Reeh (2)",
+    "tanakhRef": "Eze 8–11",
+    "ntRef": "Rev 16",
+    "psalmsRef": [
+      "Psa 118:1-18"
+    ],
+    "proverbsRef": "Pro 24:1-6"
+  },
+  {
+    "idx": 318,
+    "dateLabel": "SAT Nov 14",
+    "isoDate": "2026-11-14",
+    "dayOfWeek": "SAT",
+    "month": "Nov",
+    "day": 14,
+    "torahRef": "Deu 13:1-18",
+    "torahName": "Deu Reeh (3)",
+    "tanakhRef": "Eze 12–15",
+    "ntRef": "Rev 17",
+    "psalmsRef": [
+      "Psa 118:19-29"
+    ],
+    "proverbsRef": "Pro 24:7-12"
+  },
+  {
+    "idx": 319,
+    "dateLabel": "SUN Nov 15",
+    "isoDate": "2026-11-15",
+    "dayOfWeek": "SUN",
+    "month": "Nov",
+    "day": 15,
+    "torahRef": "Deu 14:1-21",
+    "torahName": "Deu Reeh (4)",
+    "tanakhRef": "Eze 16",
+    "ntRef": "Rev 18",
+    "psalmsRef": [
+      "Psa 119:1-8"
+    ],
+    "proverbsRef": "Pro 24:13-18"
+  },
+  {
+    "idx": 320,
+    "dateLabel": "MON Nov 16",
+    "isoDate": "2026-11-16",
+    "dayOfWeek": "MON",
+    "month": "Nov",
+    "day": 16,
+    "torahRef": "Deu 14:22-29",
+    "torahName": "Deu Reeh (5)",
+    "tanakhRef": "Eze 17–19",
+    "ntRef": "Rev 19",
+    "psalmsRef": [
+      "Psa 119:9-16"
+    ],
+    "proverbsRef": "Pro 24:19-24"
+  },
+  {
+    "idx": 321,
+    "dateLabel": "TUE Nov 17",
+    "isoDate": "2026-11-17",
+    "dayOfWeek": "TUE",
+    "month": "Nov",
+    "day": 17,
+    "torahRef": "Deu 15:1-18",
+    "torahName": "Deu Reeh (6)",
+    "tanakhRef": "Eze 20–23",
+    "ntRef": "Rev 20",
+    "psalmsRef": [
+      "Psa 119:17-24"
+    ],
+    "proverbsRef": "Pro 24:25-30"
+  },
+  {
+    "idx": 322,
+    "dateLabel": "WED Nov 18",
+    "isoDate": "2026-11-18",
+    "dayOfWeek": "WED",
+    "month": "Nov",
+    "day": 18,
+    "torahRef": "Deu 15:19-23",
+    "torahName": "Deu Reeh (7)",
+    "tanakhRef": "Eze 24",
+    "ntRef": "Rev 21",
+    "psalmsRef": [
+      "Psa 119:25-32"
+    ],
+    "proverbsRef": "Pro 24:31-34"
+  },
+  {
+    "idx": 323,
+    "dateLabel": "THU Nov 19",
+    "isoDate": "2026-11-19",
+    "dayOfWeek": "THU",
+    "month": "Nov",
+    "day": 19,
+    "torahRef": "Deu 16:18-20",
+    "torahName": "Deu Shoft (1)",
+    "tanakhRef": "Eze 25–28",
+    "ntRef": "Rev 22",
+    "psalmsRef": [
+      "Psa 119:33-40"
+    ],
+    "proverbsRef": "Pro 25:1-6"
+  },
+  {
+    "idx": 324,
+    "dateLabel": "FRI Nov 20",
+    "isoDate": "2026-11-20",
+    "dayOfWeek": "FRI",
+    "month": "Nov",
+    "day": 20,
+    "torahRef": "Deu 17:1-13",
+    "torahName": "Deu Shoft (2)",
+    "tanakhRef": "Eze 29–32",
+    "ntRef": "Joh 1",
+    "psalmsRef": [
+      "Psa 119:41-48"
+    ],
+    "proverbsRef": "Pro 25:7-12"
+  },
+  {
+    "idx": 325,
+    "dateLabel": "SAT Nov 21",
+    "isoDate": "2026-11-21",
+    "dayOfWeek": "SAT",
+    "month": "Nov",
+    "day": 21,
+    "torahRef": "Deu 17:14-20",
+    "torahName": "Deu Shoft (3)",
+    "tanakhRef": "Eze 33",
+    "ntRef": "Joh 3",
+    "psalmsRef": [
+      "Psa 119:49-56"
+    ],
+    "proverbsRef": "Pro 25:13-18"
+  },
+  {
+    "idx": 326,
+    "dateLabel": "SUN Nov 22",
+    "isoDate": "2026-11-22",
+    "dayOfWeek": "SUN",
+    "month": "Nov",
+    "day": 22,
+    "torahRef": "Deu 18:1-8",
+    "torahName": "Deu Shoft (4)",
+    "tanakhRef": "Eze 34–37",
+    "ntRef": "Joh 6",
+    "psalmsRef": [
+      "Psa 119:57-64"
+    ],
+    "proverbsRef": "Pro 25:19-24"
+  },
+  {
+    "idx": 327,
+    "dateLabel": "MON Nov 23",
+    "isoDate": "2026-11-23",
+    "dayOfWeek": "MON",
+    "month": "Nov",
+    "day": 23,
+    "torahRef": "Deu 18:9-22",
+    "torahName": "Deu Shoft (5)",
+    "tanakhRef": "Eze 38–39",
+    "ntRef": "Joh 10",
+    "psalmsRef": [
+      "Psa 119:65-72"
+    ],
+    "proverbsRef": "Pro 25:25-28"
+  },
+  {
+    "idx": 328,
+    "dateLabel": "TUE Nov 24",
+    "isoDate": "2026-11-24",
+    "dayOfWeek": "TUE",
+    "month": "Nov",
+    "day": 24,
+    "torahRef": "Deu 19:1-13",
+    "torahName": "Deu Shoft (6)",
+    "tanakhRef": "Eze 40–43",
+    "ntRef": "Joh 13",
+    "psalmsRef": [
+      "Psa 119:73-80"
+    ],
+    "proverbsRef": "Pro 26:1-6"
+  },
+  {
+    "idx": 329,
+    "dateLabel": "WED Nov 25",
+    "isoDate": "2026-11-25",
+    "dayOfWeek": "WED",
+    "month": "Nov",
+    "day": 25,
+    "torahRef": "Deu 19:14-21",
+    "torahName": "Deu Shoft (7)",
+    "tanakhRef": "Eze 44–48",
+    "ntRef": "Joh 14",
+    "psalmsRef": [
+      "Psa 119:81-88"
+    ],
+    "proverbsRef": "Pro 26:7-12"
+  },
+  {
+    "idx": 330,
+    "dateLabel": "THU Nov 26",
+    "isoDate": "2026-11-26",
+    "dayOfWeek": "THU",
+    "month": "Nov",
+    "day": 26,
+    "torahRef": "Deu 20:1-9",
+    "torahName": "Deu Ki Tet (1)",
+    "tanakhRef": "Hos 1–3",
+    "ntRef": "Joh 15",
+    "psalmsRef": [
+      "Psa 119:89-96"
+    ],
+    "proverbsRef": "Pro 26:13-18"
+  },
+  {
+    "idx": 331,
+    "dateLabel": "FRI Nov 27",
+    "isoDate": "2026-11-27",
+    "dayOfWeek": "FRI",
+    "month": "Nov",
+    "day": 27,
+    "torahRef": "Deu 20:10-20",
+    "torahName": "Deu Ki Tet (2)",
+    "tanakhRef": "Hos 4–7",
+    "ntRef": "Joh 17",
+    "psalmsRef": [
+      "Psa 119:97-104"
+    ],
+    "proverbsRef": "Pro 26:19-24"
+  },
+  {
+    "idx": 332,
+    "dateLabel": "SAT Nov 28",
+    "isoDate": "2026-11-28",
+    "dayOfWeek": "SAT",
+    "month": "Nov",
+    "day": 28,
+    "torahRef": "Deu 21:1-9",
+    "torahName": "Deu Ki Tet (3)",
+    "tanakhRef": "Hos 8–11",
+    "ntRef": "Joh 20",
+    "psalmsRef": [
+      "Psa 119:105-112"
+    ],
+    "proverbsRef": "Pro 26:25-28"
+  },
+  {
+    "idx": 333,
+    "dateLabel": "SUN Nov 29",
+    "isoDate": "2026-11-29",
+    "dayOfWeek": "SUN",
+    "month": "Nov",
+    "day": 29,
+    "torahRef": "Deu 21:10-21",
+    "torahName": "Deu Ki Tet (4)",
+    "tanakhRef": "Hos 12–14",
+    "ntRef": "1 Joh 1",
+    "psalmsRef": [
+      "Psa 119:113-120"
+    ],
+    "proverbsRef": "Pro 27:1-6"
+  },
+  {
+    "idx": 334,
+    "dateLabel": "MON Nov 30",
+    "isoDate": "2026-11-30",
+    "dayOfWeek": "MON",
+    "month": "Nov",
+    "day": 30,
+    "torahRef": "Deu 22:1-12",
+    "torahName": "Deu Ki Tet (5)",
+    "tanakhRef": "Joe 1–2",
+    "ntRef": "1 Joh 4",
+    "psalmsRef": [
+      "Psa 119:121-128"
+    ],
+    "proverbsRef": "Pro 27:7-12"
+  },
+  {
+    "idx": 335,
+    "dateLabel": "TUE Dec 1",
+    "isoDate": "2026-12-01",
+    "dayOfWeek": "TUE",
+    "month": "Dec",
+    "day": 1,
+    "torahRef": "Deu 22:13-30",
+    "torahName": "Deu Ki Tet (6)",
+    "tanakhRef": "Joe 3",
+    "ntRef": "Rev 1",
+    "psalmsRef": [
+      "Psa 119:129-136"
+    ],
+    "proverbsRef": "Pro 27:13-18"
+  },
+  {
+    "idx": 336,
+    "dateLabel": "WED Dec 2",
+    "isoDate": "2026-12-02",
+    "dayOfWeek": "WED",
+    "month": "Dec",
+    "day": 2,
+    "torahRef": "Deu 23:1-9",
+    "torahName": "Deu Ki Tet (7)",
+    "tanakhRef": "Amo 1–2",
+    "ntRef": "Rev 4",
+    "psalmsRef": [
+      "Psa 119:137-144"
+    ],
+    "proverbsRef": "Pro 27:19-23"
+  },
+  {
+    "idx": 337,
+    "dateLabel": "THU Dec 3",
+    "isoDate": "2026-12-03",
+    "dayOfWeek": "THU",
+    "month": "Dec",
+    "day": 3,
+    "torahRef": "Deu 26:1-11",
+    "torahName": "Deu Ki Tav (1)",
+    "tanakhRef": "Amo 3–5",
+    "ntRef": "Rev 5",
+    "psalmsRef": [
+      "Psa 119:145-152"
+    ],
+    "proverbsRef": "Pro 27:24-27"
+  },
+  {
+    "idx": 338,
+    "dateLabel": "FRI Dec 4",
+    "isoDate": "2026-12-04",
+    "dayOfWeek": "FRI",
+    "month": "Dec",
+    "day": 4,
+    "torahRef": "Deu 26:12-15",
+    "torahName": "Deu Ki Tav (2)",
+    "tanakhRef": "Amo 6–9",
+    "ntRef": "Rev 7",
+    "psalmsRef": [
+      "Psa 119:153-160"
+    ],
+    "proverbsRef": "Pro 28:1-6"
+  },
+  {
+    "idx": 339,
+    "dateLabel": "SAT Dec 5",
+    "isoDate": "2026-12-05",
+    "dayOfWeek": "SAT",
+    "month": "Dec",
+    "day": 5,
+    "torahRef": "Deu 26:16-19",
+    "torahName": "Deu Ki Tav (3)",
+    "tanakhRef": "Oba 1",
+    "ntRef": "Rev 12",
+    "psalmsRef": [
+      "Psa 119:161-168"
+    ],
+    "proverbsRef": "Pro 28:7-12"
+  },
+  {
+    "idx": 340,
+    "dateLabel": "SUN Dec 6",
+    "isoDate": "2026-12-06",
+    "dayOfWeek": "SUN",
+    "month": "Dec",
+    "day": 6,
+    "torahRef": "Deu 27:1-10",
+    "torahName": "Deu Ki Tav (4)",
+    "tanakhRef": "Jon 1–2",
+    "ntRef": "Rev 19",
+    "psalmsRef": [
+      "Psa 119:169-176"
+    ],
+    "proverbsRef": "Pro 28:13-18"
+  },
+  {
+    "idx": 341,
+    "dateLabel": "MON Dec 7",
+    "isoDate": "2026-12-07",
+    "dayOfWeek": "MON",
+    "month": "Dec",
+    "day": 7,
+    "torahRef": "Deu 27:11-26",
+    "torahName": "Deu Ki Tav (5)",
+    "tanakhRef": "Jon 3–4",
+    "ntRef": "Rev 21",
+    "psalmsRef": [
+      "Psa 120"
+    ],
+    "proverbsRef": "Pro 28:19-24"
+  },
+  {
+    "idx": 342,
+    "dateLabel": "TUE Dec 8",
+    "isoDate": "2026-12-08",
+    "dayOfWeek": "TUE",
+    "month": "Dec",
+    "day": 8,
+    "torahRef": "Deu 28:1-6",
+    "torahName": "Deu Ki Tav (6)",
+    "tanakhRef": "Mic 1–3",
+    "ntRef": "Rev 22",
+    "psalmsRef": [
+      "Psa 121"
+    ],
+    "proverbsRef": "Pro 28:25-28"
+  },
+  {
+    "idx": 343,
+    "dateLabel": "WED Dec 9",
+    "isoDate": "2026-12-09",
+    "dayOfWeek": "WED",
+    "month": "Dec",
+    "day": 9,
+    "torahRef": "Deu 28:7-69",
+    "torahName": "Deu Ki Tav (7)",
+    "tanakhRef": "Mic 4–5",
+    "ntRef": "Luk 1",
+    "psalmsRef": [
+      "Psa 122"
+    ],
+    "proverbsRef": "Pro 29:1-6"
+  },
+  {
+    "idx": 344,
+    "dateLabel": "THU Dec 10",
+    "isoDate": "2026-12-10",
+    "dayOfWeek": "THU",
+    "month": "Dec",
+    "day": 10,
+    "torahRef": "Deu 29:9-11",
+    "torahName": "Deu Nitz (1)",
+    "tanakhRef": "Mic 6–7",
+    "ntRef": "Luk 2",
+    "psalmsRef": [
+      "Psa 123"
+    ],
+    "proverbsRef": "Pro 29:7-12"
+  },
+  {
+    "idx": 345,
+    "dateLabel": "FRI Dec 11",
+    "isoDate": "2026-12-11",
+    "dayOfWeek": "FRI",
+    "month": "Dec",
+    "day": 11,
+    "torahRef": "Deu 29:12-14",
+    "torahName": "Deu Nitz (2)",
+    "tanakhRef": "Nah 1–3",
+    "ntRef": "Luk 4",
+    "psalmsRef": [
+      "Psa 124"
+    ],
+    "proverbsRef": "Pro 29:13-18"
+  },
+  {
+    "idx": 346,
+    "dateLabel": "SAT Dec 12",
+    "isoDate": "2026-12-12",
+    "dayOfWeek": "SAT",
+    "month": "Dec",
+    "day": 12,
+    "torahRef": "Deu 29:15-28",
+    "torahName": "Deu Nitz (3)",
+    "tanakhRef": "Hab 1–2",
+    "ntRef": "Luk 15",
+    "psalmsRef": [
+      "Psa 125"
+    ],
+    "proverbsRef": "Pro 29:19-23"
+  },
+  {
+    "idx": 347,
+    "dateLabel": "SUN Dec 13",
+    "isoDate": "2026-12-13",
+    "dayOfWeek": "SUN",
+    "month": "Dec",
+    "day": 13,
+    "torahRef": "Deu 30:1-10",
+    "torahName": "Deu Nitz (4)",
+    "tanakhRef": "Hab 3",
+    "ntRef": "Luk 22",
+    "psalmsRef": [
+      "Psa 126"
+    ],
+    "proverbsRef": "Pro 29:24-27"
+  },
+  {
+    "idx": 348,
+    "dateLabel": "MON Dec 14",
+    "isoDate": "2026-12-14",
+    "dayOfWeek": "MON",
+    "month": "Dec",
+    "day": 14,
+    "torahRef": "Deu 30:11-14",
+    "torahName": "Deu Nitz (5)",
+    "tanakhRef": "Zep 1",
+    "ntRef": "Luk 23",
+    "psalmsRef": [
+      "Psa 127"
+    ],
+    "proverbsRef": "Pro 30:1-6"
+  },
+  {
+    "idx": 349,
+    "dateLabel": "TUE Dec 15",
+    "isoDate": "2026-12-15",
+    "dayOfWeek": "TUE",
+    "month": "Dec",
+    "day": 15,
+    "torahRef": "Deu 30:15-20",
+    "torahName": "Deu Nitz (6)",
+    "tanakhRef": "Zep 2–3",
+    "ntRef": "Luk 24",
+    "psalmsRef": [
+      "Psa 128"
+    ],
+    "proverbsRef": "Pro 30:7-12"
+  },
+  {
+    "idx": 350,
+    "dateLabel": "WED Dec 16",
+    "isoDate": "2026-12-16",
+    "dayOfWeek": "WED",
+    "month": "Dec",
+    "day": 16,
+    "torahRef": "Deu 31:1-6",
+    "torahName": "Deu Nitz (7)",
+    "tanakhRef": "Hag 1",
+    "ntRef": "Mat 6",
+    "psalmsRef": [
+      "Psa 129"
+    ],
+    "proverbsRef": "Pro 30:13-18"
+  },
+  {
+    "idx": 351,
+    "dateLabel": "THU Dec 17",
+    "isoDate": "2026-12-17",
+    "dayOfWeek": "THU",
+    "month": "Dec",
+    "day": 17,
+    "torahRef": "Deu 31:7-13",
+    "torahName": "Deu Vayel (1)",
+    "tanakhRef": "Hag 2",
+    "ntRef": "Mat 7",
+    "psalmsRef": [
+      "Psa 130"
+    ],
+    "proverbsRef": "Pro 30:19-24"
+  },
+  {
+    "idx": 352,
+    "dateLabel": "FRI Dec 18",
+    "isoDate": "2026-12-18",
+    "dayOfWeek": "FRI",
+    "month": "Dec",
+    "day": 18,
+    "torahRef": "Deu 31:14-19",
+    "torahName": "Deu Vayel (2)",
+    "tanakhRef": "Zec 1–6",
+    "ntRef": "Mat 13",
+    "psalmsRef": [
+      "Psa 131"
+    ],
+    "proverbsRef": "Pro 30:25-29"
+  },
+  {
+    "idx": 353,
+    "dateLabel": "SAT Dec 19",
+    "isoDate": "2026-12-19",
+    "dayOfWeek": "SAT",
+    "month": "Dec",
+    "day": 19,
+    "torahRef": "Deu 31:20-30",
+    "torahName": "Deu Vayel (3)",
+    "tanakhRef": "Zec 7–8",
+    "ntRef": "Mat 24",
+    "psalmsRef": [
+      "Psa 132"
+    ],
+    "proverbsRef": "Pro 30:30-33"
+  },
+  {
+    "idx": 354,
+    "dateLabel": "SUN Dec 20",
+    "isoDate": "2026-12-20",
+    "dayOfWeek": "SUN",
+    "month": "Dec",
+    "day": 20,
+    "torahRef": "Deu 32:1-12",
+    "torahName": "Deu Vayel (4)",
+    "tanakhRef": "Zec 9–11",
+    "ntRef": "Act 9",
+    "psalmsRef": [
+      "Psa 133"
+    ],
+    "proverbsRef": "Pro 31:1-6"
+  },
+  {
+    "idx": 355,
+    "dateLabel": "MON Dec 21",
+    "isoDate": "2026-12-21",
+    "dayOfWeek": "MON",
+    "month": "Dec",
+    "day": 21,
+    "torahRef": "Deu 32:13-18",
+    "torahName": "Deu Vayel (5)",
+    "tanakhRef": "Zec 12–14",
+    "ntRef": "Act 10",
+    "psalmsRef": [
+      "Psa 134"
+    ],
+    "proverbsRef": "Pro 31:7-12"
+  },
+  {
+    "idx": 356,
+    "dateLabel": "TUE Dec 22",
+    "isoDate": "2026-12-22",
+    "dayOfWeek": "TUE",
+    "month": "Dec",
+    "day": 22,
+    "torahRef": "Deu 32:19-28",
+    "torahName": "Deu Vayel (6)",
+    "tanakhRef": "Mal 1–2",
+    "ntRef": "Act 13",
+    "psalmsRef": [
+      "Psa 135"
+    ],
+    "proverbsRef": "Pro 31:13-18"
+  },
+  {
+    "idx": 357,
+    "dateLabel": "WED Dec 23",
+    "isoDate": "2026-12-23",
+    "dayOfWeek": "WED",
+    "month": "Dec",
+    "day": 23,
+    "torahRef": "Deu 32:29-39",
+    "torahName": "Deu Vayel (7)",
+    "tanakhRef": "Mal 3–4",
+    "ntRef": "Act 20",
+    "psalmsRef": [
+      "Psa 136"
+    ],
+    "proverbsRef": "Pro 31:19-23"
+  },
+  {
+    "idx": 358,
+    "dateLabel": "THU Dec 24",
+    "isoDate": "2026-12-24",
+    "dayOfWeek": "THU",
+    "month": "Dec",
+    "day": 24,
+    "torahRef": "Deu 32:1-6",
+    "torahName": "Deu Haaz (1)",
+    "tanakhRef": "Job 1–2",
+    "ntRef": "Act 27",
+    "psalmsRef": [
+      "Psa 137"
+    ],
+    "proverbsRef": "Pro 31:24-27"
+  },
+  {
+    "idx": 359,
+    "dateLabel": "FRI Dec 25",
+    "isoDate": "2026-12-25",
+    "dayOfWeek": "FRI",
+    "month": "Dec",
+    "day": 25,
+    "torahRef": "Deu 32:7-12",
+    "torahName": "Deu Haaz (2)",
+    "tanakhRef": "Job 3–5",
+    "ntRef": "Act 28",
+    "psalmsRef": [
+      "Psa 138"
+    ],
+    "proverbsRef": "Pro 31:28-31"
+  },
+  {
+    "idx": 360,
+    "dateLabel": "SAT Dec 26",
+    "isoDate": "2026-12-26",
+    "dayOfWeek": "SAT",
+    "month": "Dec",
+    "day": 26,
+    "torahRef": "Deu 32:13-18",
+    "torahName": "Deu Haaz (3)",
+    "tanakhRef": "Job 6–7",
+    "ntRef": "Eph 1",
+    "psalmsRef": [
+      "Psa 139"
+    ],
+    "proverbsRef": "Pro 10:1-5"
+  },
+  {
+    "idx": 361,
+    "dateLabel": "SUN Dec 27",
+    "isoDate": "2026-12-27",
+    "dayOfWeek": "SUN",
+    "month": "Dec",
+    "day": 27,
+    "torahRef": "Deu 32:19-28",
+    "torahName": "Deu Haaz (4)",
+    "tanakhRef": "Job 8–10",
+    "ntRef": "Eph 2",
+    "psalmsRef": [
+      "Psa 140"
+    ],
+    "proverbsRef": "Pro 10:6-10"
+  },
+  {
+    "idx": 362,
+    "dateLabel": "MON Dec 28",
+    "isoDate": "2026-12-28",
+    "dayOfWeek": "MON",
+    "month": "Dec",
+    "day": 28,
+    "torahRef": "Deu 32:29-39",
+    "torahName": "Deu Haaz (5)",
+    "tanakhRef": "Job 11–14",
+    "ntRef": "Phil 2",
+    "psalmsRef": [
+      "Psa 141"
+    ],
+    "proverbsRef": "Pro 10:11-15"
+  },
+  {
+    "idx": 363,
+    "dateLabel": "TUE Dec 29",
+    "isoDate": "2026-12-29",
+    "dayOfWeek": "TUE",
+    "month": "Dec",
+    "day": 29,
+    "torahRef": "Deu 32:40-43",
+    "torahName": "Deu Haaz (6)",
+    "tanakhRef": "Job 15–17",
+    "ntRef": "Col 1",
+    "psalmsRef": [
+      "Psa 142"
+    ],
+    "proverbsRef": "Pro 11:1-5"
+  },
+  {
+    "idx": 364,
+    "dateLabel": "WED Dec 30",
+    "isoDate": "2026-12-30",
+    "dayOfWeek": "WED",
+    "month": "Dec",
+    "day": 30,
+    "torahRef": "Deu 32:44-52",
+    "torahName": "Deu Haaz (7)",
+    "tanakhRef": "Job 18–21",
+    "ntRef": "Heb 4",
+    "psalmsRef": [
+      "Psa 143"
+    ],
+    "proverbsRef": "Pro 11:6-10"
+  },
+  {
+    "idx": 365,
+    "dateLabel": "THU Dec 31",
+    "isoDate": "2026-12-31",
+    "dayOfWeek": "THU",
+    "month": "Dec",
+    "day": 31,
+    "torahRef": "Deu 33:1-7",
+    "torahName": "Deu Vezot (1)",
+    "tanakhRef": "Job 22–24",
+    "ntRef": "Heb 12",
+    "psalmsRef": [
+      "Psa 144"
+    ],
+    "proverbsRef": "Pro 11:11-15"
+  },
+  {
+    "idx": 366,
+    "dateLabel": "FRI Jan 1",
+    "isoDate": "2027-01-01",
+    "dayOfWeek": "FRI",
+    "month": "Jan",
+    "day": 1,
+    "torahRef": "Deu 33:8-12",
+    "torahName": "Deu Vezot (2)",
+    "tanakhRef": "Job 25–27",
+    "ntRef": "1 Pet 1",
+    "psalmsRef": [
+      "Psa 145"
+    ],
+    "proverbsRef": "Pro 12:1-5"
+  },
+  {
+    "idx": 367,
+    "dateLabel": "SAT Jan 2",
+    "isoDate": "2027-01-02",
+    "dayOfWeek": "SAT",
+    "month": "Jan",
+    "day": 2,
+    "torahRef": "Deu 33:13-17",
+    "torahName": "Deu Vezot (3)",
+    "tanakhRef": "Job 28",
+    "ntRef": "1 Pet 2",
+    "psalmsRef": [
+      "Psa 146"
+    ],
+    "proverbsRef": "Pro 12:6-10"
+  },
+  {
+    "idx": 368,
+    "dateLabel": "SUN Jan 3",
+    "isoDate": "2027-01-03",
+    "dayOfWeek": "SUN",
+    "month": "Jan",
+    "day": 3,
+    "torahRef": "Deu 33:18-21",
+    "torahName": "Deu Vezot (4)",
+    "tanakhRef": "Job 29–31",
+    "ntRef": "2 Tim 4",
+    "psalmsRef": [
+      "Psa 147"
+    ],
+    "proverbsRef": "Pro 12:11-15"
+  },
+  {
+    "idx": 369,
+    "dateLabel": "MON Jan 4",
+    "isoDate": "2027-01-04",
+    "dayOfWeek": "MON",
+    "month": "Jan",
+    "day": 4,
+    "torahRef": "Deu 33:22-26",
+    "torahName": "Deu Vezot (5)",
+    "tanakhRef": "Job 32–34",
+    "ntRef": "Joh 1",
+    "psalmsRef": [
+      "Psa 148"
+    ],
+    "proverbsRef": "Pro 16:1-5"
+  },
+  {
+    "idx": 370,
+    "dateLabel": "TUE Jan 5",
+    "isoDate": "2027-01-05",
+    "dayOfWeek": "TUE",
+    "month": "Jan",
+    "day": 5,
+    "torahRef": "Deu 33:27-29",
+    "torahName": "Deu Vezot (6)",
+    "tanakhRef": "Job 35–37",
+    "ntRef": "Joh 3",
+    "psalmsRef": [
+      "Psa 149"
+    ],
+    "proverbsRef": "Pro 16:6-10"
+  },
+  {
+    "idx": 371,
+    "dateLabel": "WED Jan 6",
+    "isoDate": "2027-01-06",
+    "dayOfWeek": "WED",
+    "month": "Jan",
+    "day": 6,
+    "torahRef": "Deu 34:1-12",
+    "torahName": "Deu Vezot (7)",
+    "tanakhRef": "Job 38–41",
+    "ntRef": "Joh 6",
+    "psalmsRef": [
+      "Psa 150"
+    ],
+    "proverbsRef": "Pro 16:11-15"
+  },
+  {
+    "idx": 372,
+    "dateLabel": "THU Jan 7",
+    "isoDate": "2027-01-07",
+    "dayOfWeek": "THU",
+    "month": "Jan",
+    "day": 7,
+    "torahRef": "",
+    "torahName": "",
+    "tanakhRef": "Job 42",
+    "ntRef": "Joh 8",
+    "psalmsRef": [
+      "Psa 94"
+    ],
+    "proverbsRef": "Pro 22:1-5"
+  },
+  {
+    "idx": 373,
+    "dateLabel": "FRI Jan 8",
+    "isoDate": "2027-01-08",
+    "dayOfWeek": "FRI",
+    "month": "Jan",
+    "day": 8,
+    "torahRef": "",
+    "torahName": "",
+    "tanakhRef": "Rut 1–2",
+    "ntRef": "Joh 10",
+    "psalmsRef": [
+      "Psa 81"
+    ],
+    "proverbsRef": "Pro 22:6-10"
+  },
+  {
+    "idx": 374,
+    "dateLabel": "SAT Jan 9",
+    "isoDate": "2027-01-09",
+    "dayOfWeek": "SAT",
+    "month": "Jan",
+    "day": 9,
+    "torahRef": "",
+    "torahName": "",
+    "tanakhRef": "Rut 3–4",
+    "ntRef": "Joh 14",
+    "psalmsRef": [
+      "Psa 93"
+    ],
+    "proverbsRef": "Pro 25:1-5"
+  },
+  {
+    "idx": 375,
+    "dateLabel": "SUN Jan 10",
+    "isoDate": "2027-01-10",
+    "dayOfWeek": "SUN",
+    "month": "Jan",
+    "day": 10,
+    "torahRef": "",
+    "torahName": "",
+    "tanakhRef": "Song 1–2",
+    "ntRef": "Joh 15",
+    "psalmsRef": [
+      "Psa 92"
+    ],
+    "proverbsRef": "Pro 25:6-10"
+  },
+  {
+    "idx": 376,
+    "dateLabel": "MON Jan 11",
+    "isoDate": "2027-01-11",
+    "dayOfWeek": "MON",
+    "month": "Jan",
+    "day": 11,
+    "torahRef": "",
+    "torahName": "",
+    "tanakhRef": "Song 3–4",
+    "ntRef": "Joh 16",
+    "psalmsRef": [
+      "Psa 23"
+    ],
+    "proverbsRef": "Pro 30:1-6"
+  },
+  {
+    "idx": 377,
+    "dateLabel": "TUE Jan 12",
+    "isoDate": "2027-01-12",
+    "dayOfWeek": "TUE",
+    "month": "Jan",
+    "day": 12,
+    "torahRef": "",
+    "torahName": "",
+    "tanakhRef": "Song 5–6",
+    "ntRef": "Joh 17",
+    "psalmsRef": [
+      "Psa 145"
+    ],
+    "proverbsRef": "Pro 31:10-15"
+  },
+  {
+    "idx": 378,
+    "dateLabel": "WED Jan 13",
+    "isoDate": "2027-01-13",
+    "dayOfWeek": "WED",
+    "month": "Jan",
+    "day": 13,
+    "torahRef": "",
+    "torahName": "",
+    "tanakhRef": "Song 7–8",
+    "ntRef": "1 Joh 1",
+    "psalmsRef": [
+      "Psa 67"
+    ],
+    "proverbsRef": "Pro 31:16-20"
+  }
+]

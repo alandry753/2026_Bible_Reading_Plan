@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>2026 Bible Reading Plan</title>
+  <style>
+    :root { --pad: 14px; --radius: 14px; --border: #e6e6e6; --muted:#666; --bg:#fafafa; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; background: var(--bg); color:#111; }
+    header { position: sticky; top: 0; background: #fff; border-bottom: 1px solid var(--border); padding: 10px var(--pad); z-index: 5; }
+    .row { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+    .spacer { flex:1; }
+    button, input[type="date"], select, input[type="search"] { font: inherit; border:1px solid var(--border); border-radius: 10px; padding: 8px 10px; background:#fff; }
+    input[type="search"] { min-width: 210px; flex: 1 1 210px; }
+    button { cursor:pointer; }
+    button:disabled { opacity:.4; cursor:not-allowed; }
+    main { padding: var(--pad); max-width: 860px; margin: 0 auto; }
+    .card { background:#fff; border:1px solid var(--border); border-radius: var(--radius); padding: 14px; box-shadow: 0 1px 0 rgba(0,0,0,.02); }
+    .date { font-size: 20px; font-weight: 700; display:flex; gap:10px; align-items:baseline; flex-wrap:wrap; }
+    .daynum { font-size: 12px; color: var(--muted); font-weight: 600; }
+    .section { margin-top: 14px; }
+    .label { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-bottom: 6px; }
+    .value { font-size: 16px; line-height: 1.35; }
+    .sub { font-size: 13px; color: var(--muted); margin-top: 4px; }
+    a { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; }
+    .pills { display:flex; gap:10px; align-items:center; }
+    .toggle { display:flex; gap:8px; align-items:center; font-size: 13px; color: var(--muted); }
+    .toolbar { display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-top: 10px; }
+    .modeBtns { display:flex; gap:10px; align-items:center; }
+    .pillbtn { border-radius: 999px; padding: 7px 12px; }
+    .pillbtn.active { border-color:#111; }
+    .notice { margin-top: 12px; padding: 10px 12px; border: 1px dashed var(--border); border-radius: 12px; color: var(--muted); font-size: 13px; background:#fff; }
+    .monthWrap { display:none; }
+    .monthHeader { display:flex; gap:10px; align-items:baseline; justify-content:space-between; }
+    .monthTitle { font-size: 18px; font-weight: 800; }
+    .grid { margin-top: 10px; display:grid; grid-template-columns: repeat(7, 1fr); gap: 8px; }
+    .dow { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing:.08em; text-align:center; }
+    .daycell { background:#fff; border:1px solid var(--border); border-radius: 12px; padding: 10px; min-height: 62px; cursor:pointer; }
+    .daycell:hover { border-color:#bbb; }
+    .daycell .n { font-weight:800; }
+    .daycell .d { font-size: 12px; color: var(--muted); margin-top: 4px; }
+    footer { padding: 18px var(--pad); text-align:center; color: var(--muted); font-size: 12px; }
+    @media (max-width: 520px){ input[type="search"]{ min-width: 160px; } }
+  </style>
+</head>
+<body>
+<header>
+  <div class="row">
+    <div class="pills">
+      <button id="prevBtn" class="pillbtn">◀︎</button>
+      <button id="nextBtn" class="pillbtn">▶︎</button>
+      <button id="todayBtn" class="pillbtn">Today</button>
+    </div>
+
+    <input id="datePicker" type="date" />
+    <div class="spacer"></div>
+    <label class="toggle">
+      <input id="dayToggle" type="checkbox" checked />
+      Show day #
+    </label>
+  </div>
+
+  <div class="toolbar">
+    <div class="modeBtns">
+      <button id="dayModeBtn" class="pillbtn active">Day</button>
+      <button id="monthModeBtn" class="pillbtn">Month</button>
+    </div>
+
+    <select id="versionSelect" title="Bible version">
+      <option value="ESV" selected>ESV</option>
+      <option value="NIV">NIV</option>
+      <option value="NRSV">NRSV</option>
+      <option value="NASB">NASB</option>
+      <option value="NKJV">NKJV</option>
+      <option value="KJV">KJV</option>
+      <option value="CSB">CSB</option>
+    </select>
+
+    <label class="toggle" title="Use JPS for Tanakh links only">
+      <input id="tanakhJpsToggle" type="checkbox" />
+      JPS for Tanakh
+    </label>
+
+    <input id="searchBox" type="search" placeholder="Search (e.g., Rom 8, Psa 23, Bereshit)" />
+    <button id="searchPrevBtn" class="pillbtn" title="Previous match">↑</button>
+    <button id="searchNextBtn" class="pillbtn" title="Next match">↓</button>
+  </div>
+</header>
+
+<main>
+  <div id="cardWrap" class="card"></div>
+
+  <div id="monthWrap" class="monthWrap">
+    <div class="card">
+      <div class="monthHeader">
+        <div class="monthTitle" id="monthTitle"></div>
+        <div class="pills">
+          <button id="monthPrevBtn" class="pillbtn">◀︎</button>
+          <button id="monthNextBtn" class="pillbtn">▶︎</button>
+        </div>
+      </div>
+      <div class="grid" id="dowRow"></div>
+      <div class="grid" id="monthGrid"></div>
+      <div class="notice">Tap any day to open the daily card.</div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  Generated from the 2026 reading plan. Links open BibleGateway.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
